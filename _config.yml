@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Zerui Wang
+title:            Bo Lu
 tagline:          'Happy coding, happy blogging.'
 description:      'Start here,<br>make a difference.'
-url:              http://www.wangzerui.com/
+url:              http://www.lubo.com/
 
 author:
-  name:           'Zerui Wang'
-  email:          zerui.j.wang@gmail.com
+  name:           'Bo Lu'
+  email:          bolu@cuhk.edu.hk
 
 paginate:         3
 paginate_path: "blog/page:num"
@@ -23,16 +23,16 @@ gems: [jekyll-paginate]
 # custom vars
 since:                  2015
 google_analytics:       UA-63207330-1
-emailme:                mailto:zerui.j.wang@gmail.com
+emailme:                bolu@cuhk.edu.hk
 github:
-  repo:                 https://github.com/zrwang/zrwang.github.io/
-version:                Mar.6.2020
-orcid_username:         0000-0003-4281-5120
-researcherid_username:  R-3094-2018
-googlescholar_username: fWi5tx8AAAAJ&hl
-researchgate_username:  Zerui_Wang
-linkedin_username:      zrwang
-github_username:        zrwang
+  repo:                  https://github.com/lu-bo/LuBo.github.io
+version:                Apr. 22. 2020
+googlescholar_username: ENPRTpcAAAAJ&hl=en
+orcid_username:        0000-0002-2858-1121
+#researcherid_username:  R-3094-2018 
+researchgate_username:  Bo_Lu22
+linkedin_username:      bo-lu-226002135/?originalSubdomain=hk
+github_username:        lu-bo
 share_pdf:              no
 share_video:            no
 # facebook_username: zrwang.cuhk
