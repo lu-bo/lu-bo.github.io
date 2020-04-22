@@ -10,7 +10,6 @@ title: Lu Bo's Homepage
 I am a Postdoctoral Research Fellow (2019. 07 - now) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu).
 
 I received my Ph.D. degree in the [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/){:target="_blank"} in Jun 2019.
-During the last two years of my Ph.D. study, I was working with [Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}.
 Prior to my Ph.D studies, I received M.S. degree supervised by [Prof. Zhongqing Su](https://www.polyu.edu.hk/me/people/academic-teaching-staff/su-zhong-qing-prof/){:target="_blank"} at PolyU, and B. E. degree at [Dalian University of Technology](https://en.dlut.edu.cn/){:target="_blank"}, China.
 
 My research interests are medical robotics, computer vision, vision-based manipulation, automation and control, trajectory plan, surgical tool detection, surgical procedure analysis and understanding.
@@ -23,6 +22,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * B.E. Degree, The Ship and Offshore Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
 
 ### Professional Experience
+#### Academic Position
+* Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Now. 
 
 #### Academic Service
 * Reviewer of Frontiers in Robotics and AI.
@@ -30,9 +31,14 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in 2020.
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in 2018, 2019, 2020.
 
-#### Projects
-* 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Totoa Research Funding HK$568,470)
-* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
+#### Projects Experience
+* 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Totoa Research Funding HK$568,470), 2016 ~ 2019.
+* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ Now.
+* Winter school project on medical robotics at [Hamlyn Center](https://www.imperial.ac.uk/hamlyn-centre/), [Imperial Colleage London](https://www.imperial.ac.uk/), 2017. 
+
+#### Invited Talks
+* **Bo Lu**, Invited talk on: *“Towards Vision-based Automated Suture Thread Suturing in Robotic Minimally Invasive Surgery,”* [Academic Forum of Institute of Medical Robotics](http://imr.sjtu.edu.cn/en/Committee2019.html), [Shanghai Jiao Tong university](http://en.sjtu.edu.cn/), 2019.
+* **Bo Lu**, Contributed talk on: *“Robotic knot tying through a spatial trajectory with a visual servoing system,”* [The IEEE International Conference on Intelligent Robots and Systems (IROS), Vancouver, Canada](https://www.iros2017.org/), 2017.
 
 <!--#### Examinership
 * MPhil. Thesis Defense entitled "Development of Portable and Convenient to Use Cable Robot System" in July 2019
@@ -41,11 +47,13 @@ My research interests are medical robotics, computer vision, vision-based manipu
 -->
 
 #### Teaching Assistance
+
+<!--
 * ENGG5402 Advanced Robotics (Spring 2015)
 * ENGG1100 Introduction to Engineering Design (Fall 2014)
 * MAEG1010 Introduction to Robot Design (Spring 2014)
 * ENGG1100 Introduction to Engineering Design (Fall 2013)
-
+-->
 <!-- #### Research Assistance
 * Vision-based Calibration of Robot-Assisted MIS System (GRF-15)
 * Development of a Robotic System for Nasal Surgery (ITF-14)
