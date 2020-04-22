@@ -18,9 +18,9 @@ My research interests are medical robotics, computer vision, vision-based manipu
 <!--You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}. -->
 
 ### Education
-* Ph.D. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2015 ~ Jun. 2019
-* M.S. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2013 ~ Aug, 2015
-* B.E. Degree, The Ship and Offshore Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013
+* Ph.D. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2015 ~ Jun. 2019.
+* M.S. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2013 ~ Aug, 2015.
+* B.E. Degree, The Ship and Offshore Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
 
 ### Professional Experience
 
@@ -34,10 +34,11 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Totoa Research Funding HK$568,470)
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
 
-#### Examinership
+<!--#### Examinership
 * MPhil. Thesis Defense entitled "Development of Portable and Convenient to Use Cable Robot System" in July 2019
 * MPhil. Thesis Defense entitled "Ray-based Interference Free Workspace Analysis and Path Planning for Cable-Driven Robots" in January 2019
 * Ph.D. Thesis Defense entitled "Proprioception-Aided Visual State Estimation for Mobile Robots" in April 2019
+-->
 
 #### Teaching Assistance
 * ENGG5402 Advanced Robotics (Spring 2015)
@@ -45,8 +46,9 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * MAEG1010 Introduction to Robot Design (Spring 2014)
 * ENGG1100 Introduction to Engineering Design (Fall 2013)
 
-#### Research Assistance
+<!-- #### Research Assistance
 * Vision-based Calibration of Robot-Assisted MIS System (GRF-15)
 * Development of a Robotic System for Nasal Surgery (ITF-14)
 * Assistive Surgical Robots (CRF-13)
 * A Robotic Assistant for Manipulating Uterus in Hysterectomy (ITF-12)
+-->
