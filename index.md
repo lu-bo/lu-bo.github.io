@@ -3,9 +3,9 @@ layout: aboutme
 title: About Me
 ---
 
-<p class="full-width no-margin"><img src="/public/image/profile-iros-2018.jpg" alt="zrwang" style="width:15rem;height:15rem;" align="right"/></p>
+<p class="full-width no-margin"><img src="/public/image/profile-lubo-2018.jpg" alt="lubo" style="width:15rem;height:19.6rem;" align="right"/></p>
 
-<blockquote class="full-width"><p>Roboticist, Entrepreneur, and Enthusiast</p></blockquote>
+<blockquote class="full-width"><p>Roboticist, Researcher, and Explorer</p></blockquote>
 
 I am a Postdoctoral Research Fellow (2019. 09 - now) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu).
 
