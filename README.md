@@ -1,6 +1,6 @@
 ### Lu Bo's Home Page
 
-[http://www.lubo1.com](http://www.lu_bo.com)
+[http://www.lubome.com](http://www.lubome.com)
 
 ### Theme
 
