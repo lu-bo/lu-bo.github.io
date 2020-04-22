@@ -1,13 +1,13 @@
 ---
 layout: aboutme
-title: About Me
+title: Lu Bo's Homepage
 ---
 
 <p class="full-width no-margin"><img src="/public/image/profile-lubo-2018.jpg" alt="lubo" style="width:15rem;height:19.6rem;" align="right"/></p>
 
 <blockquote class="full-width"><p>Roboticist, Researcher, and Explorer</p></blockquote>
 
-I am a Postdoctoral Research Fellow (2019. 09 - now) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu).
+I am a Postdoctoral Research Fellow (2019. 07 - now) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu).
 
 I received my Ph.D. degree in the [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/){:target="_blank"} in Jun 2019.
 During the last two years of my Ph.D. study, I was working with [Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}.
