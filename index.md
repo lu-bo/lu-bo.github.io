@@ -30,16 +30,14 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in 2020.
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in 2018, 2019, 2020.
 
-#### Grant
-* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
+#### Projects
+* 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Totoa Research Funding HK$568,470)
+* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
 
 #### Examinership
 * MPhil. Thesis Defense entitled "Development of Portable and Convenient to Use Cable Robot System" in July 2019
 * MPhil. Thesis Defense entitled "Ray-based Interference Free Workspace Analysis and Path Planning for Cable-Driven Robots" in January 2019
 * Ph.D. Thesis Defense entitled "Proprioception-Aided Visual State Estimation for Mobile Robots" in April 2019
-
-#### Teaching
-* MAEG 2020 Engineering Mechanics (Fall 2018, Enrollment: 98)
 
 #### Teaching Assistance
 * ENGG5402 Advanced Robotics (Spring 2015)
