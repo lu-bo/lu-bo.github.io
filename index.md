@@ -7,20 +7,20 @@ title: About Me
 
 <blockquote class="full-width"><p>Roboticist, Entrepreneur, and Enthusiast</p></blockquote>
 
-I was a Research Assistant Professor in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK).
+I am a Postdoctoral Research Fellow (2019. 09 - now) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu).
 
-Supported by the [Hong Kong PhD Fellowship](https://cerg1.ugc.edu.hk/hkpfs/index.html){:target="_blank"}, I received my Ph.D. degree in the MAE department at CUHK, advised by [Prof. Yun-hui Liu](http://www.mae.cuhk.edu.hk/people/list.php?name=yhliu){:target="_blank"} in July 2017, and then I served as a Post-Doctoral Research Fellow in the MAE department at CUHK for half a year.
+I received my Ph.D. degree in the [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/){:target="_blank"} in Jun 2019.
 During the last two years of my Ph.D. study, I was working with [Prof. Peter Kazanzides](http://smarts.lcsr.jhu.edu/people/peter-kazanzides/){:target="_blank"} and [Prof. Russell H. Taylor](https://www.cs.jhu.edu/~rht/){:target="_blank"} as a visiting student at [Johns Hopkins University](http://www.jhu.edu){:target="_blank"} in the [Laboratory for Computational Sensing + Robotics](http://lcsr.jhu.edu/){:target="_blank"}.
-Prior to my Ph.D studies, I received B.E. degree at [Beihang University](http://www.buaa.edu.cn/){:target="_blank"}, China.
+Prior to my Ph.D studies, I received M.S. degree supervised by [Prof. Zhongqing Su](https://www.polyu.edu.hk/me/people/academic-teaching-staff/su-zhong-qing-prof/){:target="_blank"} at PolyU, and B. E. degree at [Dalian University of Technology](https://en.dlut.edu.cn/){:target="_blank"}, China.
 
-My research interests are vision-based soft object manipulation, vision-based surgical tool tracking and control, and developments of robotic surgical components and systems, with emphasis on both scientific and engineering aspects.
+My research interests are medical robotics, computer vision, vision-based manipulation, automation and control, trajectory plan, surgical tool detection, surgical procedure analysis and understanding.
 
 You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
 
 ### Education
-* Ph.D. Degree, Mechanical and Automation Engineering, The Chinese University of Hong Kong, HKSAR, Aug. 2013 ~ Jul. 2017
-* Visiting Ph.D. Student, Computer Science, Johns Hopkins University, US, Jan. 2016 ~ Apr. 2017
-* B.E. Degree, Quality and Reliability Engineering, Beihang University, China, Sep. 2009 ~ Jul. 2013
+* Ph.D. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2015 ~ Jun. 2019
+* M.S. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2013 ~ Aug, 2015
+* B.E. Degree, The Ship and Offshore Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013
 
 ### Professional Experience
 

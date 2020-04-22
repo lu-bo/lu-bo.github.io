@@ -6,12 +6,15 @@ title: Publication
 <!--_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._-->
 
 ## Journal
+7. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2020.
+
+6. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Pheng-Ann Heng, Yun-Hui Liu, and Dong Sun, *“Instance Segmentation of Surgical Instruments in Robot-assisted Surgery: Model Design and Cross-cohort Transfer Learning,”* The IEEE Robotics and Automation Letter(RA-L), under review, 2020.
+
 5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870,  2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}
 
 4. **Bo Lu**, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), accepted, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8845606){:target="_blank"}{% endif %}
-
 
 3. 	K. C. Huang, **Bo Lu**, Henry K. Chu, J. W. Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8818352){:target="_blank"}{% endif %}
@@ -72,6 +75,30 @@ title: Publication
 -->
 
 ## Conference
+9. **Bo Lu**, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), under review, 2020.
+
+8.	Ziyi Wang, **Bo Lu**, Yueming Jin, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Content-based Surgical Video Retrieval with Unsupervised Disentangled Representations,”* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), under review, 2020.
+
+7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), under review, 2020.
+
+6.	Jiewen Lai, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), under review, 2020.
+
+5.	Z. X. Cui, K. C. Huang, **Bo Lu**, Henry K. Chu, *“Three-Dimensional Localization of Needle Tip Immersed in Medium,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8868776/){:target="_blank"}{% endif %}
+
+4.	K. Huang, Henry K. Chu, **Bo Lu**, J. W. Lai, Li Cheng, *“Automated Cell Patterning System with a Microchip using Dielectrophoresis,”* The IEEE Conference on Robotics and Automation (ICRA), 2019.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8794177/){:target="_blank"}{% endif %}
+
+3.	K. Huang, Henry K. Chu, **Bo Lu**, Li Cheng, *“Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis,”* The IEEE Conference on Robotics and Biomimetics (Robio), 2018. 
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8665210/){:target="_blank"}{% endif %}
+
+2.	**Bo Lu**, Henry K. Chu, and Li Cheng, *“Robotic knot tying through a spatial trajectory with a visual servoing system,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), 2017.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8206461/){:target="_blank"}{% endif %}
+
+1. **Bo Lu**, Henry K. CHU, Li Cheng, *“Dynamic trajectory planning for robotic knot tying,”* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. 
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/7784022/){:target="_blank"}{% endif %}
+
+<!--
 20. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Int. Conf. Robotics and Automation (ICRA), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
 
@@ -139,6 +166,7 @@ title: Publication
 <!-- 0. Li, X., **Wang, Z.**, and Liu, Y.-H., *"Sequential Robotic Manipulation for Active Shape Control of Deformable Linear Objects with Unknown Deformation Models,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review. -->
 
 <!-- 0. Kong, X., Jin, Y., Dou, Q., Wang, Z., **Wang, Z.**, Dong, E., Heng, P.-A., Sun, D., and Liu, Y.-H., *"Surgical Instruments Segmentation with Mask R-CNN,"* IEEE Int. Conf. Robotics and Automation (ICRA), under review, 2020. -->
+
 
 ## Patent
 <!-- 3. Liu, Y.-H., Tong, C.-H., Zhong, F., **Wang, Z.**, and Yip, H.-M., *"Endoscope Manipulator and Method for Controlling the Same,"* U.S. Provisional Patent, 2019-->

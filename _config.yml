@@ -23,7 +23,7 @@ gems: [jekyll-paginate]
 # custom vars
 since:                  2015
 google_analytics:       UA-63207330-1
-emailme:                bolu@cuhk.edu.hk
+emailme:                mailto:bolu@cuhk.edu.hk
 github:
   repo:                  https://github.com/lu-bo/LuBo.github.io
 version:                Apr. 22. 2020

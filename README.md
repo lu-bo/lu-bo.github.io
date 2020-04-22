@@ -1,6 +1,6 @@
-### Zerui's Home Page
+### Lu Bo's Home Page
 
-[http://www.wangzerui.com](http://www.wangzerui.com)
+[http://www.lubo.com](http://www.lubo.com)
 
 ### Theme
 
@@ -12,4 +12,4 @@ Open sourced under the [MIT license](LICENSE.md).
 
 ### Acknowledgment
 
-Thanks to [Long Qian](http://longqian.me), I am motivated to start blogging.
+Thanks to [Zerui Wang](http://wangzerui.me), I am motivated to start blogging.
