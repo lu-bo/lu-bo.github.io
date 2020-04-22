@@ -11,16 +11,25 @@ title: Publication
 6. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Pheng-Ann Heng, Yun-Hui Liu, and Dong Sun, *“Instance Segmentation of Surgical Instruments in Robot-assisted Surgery: Model Design and Cross-cohort Transfer Learning,”* The IEEE Robotics and Automation Letter(RA-L), under review, 2020.
 
 5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870,  2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
+**[Selected Workflow and Results]:**
+<img src="/public/image/publication/2020_TASE_workflow.jpg" alt="lubo" style="height:10rem;" align="center"/>
+<img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>
 
 4. **Bo Lu**, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), accepted, 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8845606){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8845606){:target="_blank"}{% endif %}  
+**[Selected Workflow]:**
+<img src="/public/image/publication/2019_TMECH_workflow1.png" alt="lubo" style="width:38rem;" align="center"/>
+<!--<img src="/public/image/publication/2019_TMECH_workflow2.png" alt="lubo" style="width:19rem;" align="center"/><img src="/public/image/publication/2019_TMECH_results2.png" alt="lubo" style="width:19rem;" align="center" />  -->
 
 3. 	K. C. Huang, **Bo Lu**, Henry K. Chu, J. W. Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8818352){:target="_blank"}{% endif %}
 
 2. **Bo Lu**, Henry K. Chu,  K. C. Huang and Li Cheng, *"Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing,"* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018. 
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8386852){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8386852){:target="_blank"}{% endif %}  
+**[Selected Workflow and Results]:**
+<img src="/public/image/publication/2018_TASE_methods.png" alt="lubo" style="width:38rem;" align="center"/>
+<img src="/public/image/publication/2018_TASE_results.png" alt="lubo" style="width:30rem;" align="center"/>
 
 1. H. Xu, **Bo Lu**, Z. Q. Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S0022460X15003594){:target="_blank"}{% endif %}
