@@ -15,7 +15,7 @@ Prior to my Ph.D studies, I received M.S. degree supervised by [Prof. Zhongqing 
 
 My research interests are medical robotics, computer vision, vision-based manipulation, automation and control, trajectory plan, surgical tool detection, surgical procedure analysis and understanding.
 
-You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}.
+<!--You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}. -->
 
 ### Education
 * Ph.D. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2015 ~ Jun. 2019
@@ -25,8 +25,10 @@ You can find the detailed information about me in my {% if site.cv_chn %}curricu
 ### Professional Experience
 
 #### Academic Service
-* Leading Editor of Frontiers in AI and Robotics Special Issue: [Learning, Sensing and Control for Autonomous Manipulation of Deformable Objects](https://www.frontiersin.org/research-topics/13353/learning-sensing-and-control-for-autonomous-manipulation-of-deformable-objects)
-* Associate Editor of 2019 IEEE/RSJ IROS
+* Reviewer of Frontiers in Robotics and AI.
+* Reviewer of IEEE Conference on Robotics and Automation (ICRA) in 2018, 2019, 2020.
+* Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in 2020.
+* Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in 2018, 2019, 2020.
 
 #### Grant
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Co-Investigator, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions)
