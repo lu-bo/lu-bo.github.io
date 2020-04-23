@@ -11,7 +11,7 @@ I am a Postdoctoral Research Fellow (2019. 07 - now) in [Department of Mechanica
 
 I received my Ph.D. degree in the [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/){:target="_blank"} (ME) , [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/){:target="_blank"} in Jun 2019.
 During my Ph. D. studies, I took the Winter School Programme on Medical Robotics at [Hamlyn Center](https://www.imperial.ac.uk/hamlyn-centre/), [Imperial Colleage London](https://www.imperial.ac.uk/) in 2017. 
-Prior to my Ph.D studies, I received M.S. degree supervised by [Prof. Zhongqing Su](https://www.polyu.edu.hk/me/people/academic-teaching-staff/su-zhong-qing-prof/){:target="_blank"} at PolyU, and B. E. degree at [Dalian University of Technology](https://en.dlut.edu.cn/){:target="_blank"} (DLUT), China.
+Prior to my Ph.D studies, I received M.S. degree, supervised by [Prof. Zhongqing Su](https://www.polyu.edu.hk/me/people/academic-teaching-staff/su-zhong-qing-prof/){:target="_blank"} at PolyU, and B. E. degree at [Dalian University of Technology](https://en.dlut.edu.cn/){:target="_blank"} (DLUT), China.
 
 My research interests are medical robotics, computer vision, vision-based manipulation, automation and control, trajectory plan, surgical tool detection, surgical procedure analysis and understanding.
 
