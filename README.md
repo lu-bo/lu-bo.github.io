@@ -1,6 +1,7 @@
 ### Lu Bo's Home Page
 
 <!--[http://www.lubome.com](http://www.lubome.com)-->
+[Personal Website](lu-bo.github.io)
 
 ### Theme
 
