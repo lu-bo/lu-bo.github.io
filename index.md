@@ -26,7 +26,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Now. 
 
 #### Academic Service
-* Reviewer of Frontiers in Robotics and AI.
+* Reviewer of [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
 * Reviewer of IEEE Conference on Robotics and Automation (ICRA) in 2018, 2019, 2020.
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in 2020.
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in 2018, 2019, 2020.
