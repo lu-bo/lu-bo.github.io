@@ -5,7 +5,7 @@
 
 ### Theme
 
-The theme is forked from [hyde](https://github.com/poole/hyde).
+The theme is originated from [hyde](https://github.com/poole/hyde).
 
 ### License
 
