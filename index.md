@@ -31,7 +31,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in 2020.
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in 2018, 2019, 2020.
 
-#### Projects Experience
+#### Project Experience
+* Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ now. 
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ Now.
 * 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Totoa Research Funding HK$568,470), 2016 ~ 2019.
 * Winter school project on medical robotics at [Hamlyn Center](https://www.imperial.ac.uk/hamlyn-centre/), [Imperial Colleage London](https://www.imperial.ac.uk/), 2017. 
