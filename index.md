@@ -20,7 +20,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 ### Education
 * Ph.D. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2015 ~ Jun. 2019.
 * M.S. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2013 ~ Aug, 2015.
-* B.E. Degree, The Ship and Offshore Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
+* B.E. Degree, Naval Architecture & Marine Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
 
 ### Professional Experience
 #### Academic Position
