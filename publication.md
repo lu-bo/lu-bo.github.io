@@ -33,7 +33,7 @@ title: Publication
 
 1. H. Xu, **Bo Lu**, Z. Q. Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S0022460X15003594){:target="_blank"}{% endif %}
-
+{: reversed="reversed"}
 
 <!--
 16. Li, D., **Wang, Z.**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), under review, 2020.
@@ -106,3 +106,4 @@ title: Publication
 
 1. **Bo Lu**, Henry K. CHU, Li Cheng, *“Dynamic trajectory planning for robotic knot tying,”* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/7784022/){:target="_blank"}{% endif %}
+{: reversed="reversed"}
