@@ -1,6 +1,6 @@
 ---
 layout: aboutme
-title: Lu Bo's Homepage
+title: Lu Bo's Home Page
 ---
 
 <p class="full-width no-margin"><img src="/public/image/profile-lubo-2018.jpg" alt="lubo" style="width:15rem;height:19.6rem;" align="right"/></p>
