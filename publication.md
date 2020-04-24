@@ -6,9 +6,9 @@ title: Publication
 <!--_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._-->
 
 ## Journal
-7. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2020.
+6. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2020.
 
-6. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Pheng-Ann Heng, Yun-Hui Liu, and Dong Sun, *“Instance Segmentation of Surgical Instruments in Robot-assisted Surgery: Model Design and Cross-cohort Transfer Learning,”* The IEEE Robotics and Automation Letter(RA-L), under review, 2020.
+<!-- 6. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Pheng-Ann Heng, Yun-Hui Liu, and Dong Sun, *“Instance Segmentation of Surgical Instruments in Robot-assisted Surgery: Model Design and Cross-cohort Transfer Learning,”* The IEEE Robotics and Automation Letter(RA-L), under review, 2020. -->
 
 5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870,  2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
