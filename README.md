@@ -13,4 +13,4 @@ Open sourced under the [MIT license](LICENSE.md).
 
 ### Acknowledgment
 
-Thanks to [Zerui Wang](http://wangzerui.me), I am motivated to start blogging.
+Thanks to [Zerui Wang](https://www.wangzerui.com/), I am motivated to start blogging.
