@@ -82,9 +82,7 @@ title: Publication
 -->
 
 ## Conference
-9. **Bo Lu**, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), under review, 2020.
-
-8.	Ziyi Wang, **Bo Lu**, Yueming Jin, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Content-based Surgical Video Retrieval with Unsupervised Disentangled Representations,”* International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI), rebuttal, 2020.
+8. **Bo Lu**, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), under review, 2020.
 
 7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), under review, 2020.
 
