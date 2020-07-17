@@ -31,7 +31,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
 * Reviewer of IEEE Conference on Robotics and Automation (ICRA) in [2018](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html), [2019](https://www.icra2019.org/), [2020](https://www.icra2020.org/).
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in [2020](https://www.iros2020.org/).
-* Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](https://aim2020.org/).
+* Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](http://aim2020.org/).
 
 #### Project Experience
 * Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ now. 
