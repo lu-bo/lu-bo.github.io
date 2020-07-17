@@ -6,7 +6,9 @@ title: Publication
 <!--_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._-->
 
 ## Journal
-6. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), under review, 2020.
+7. Jiewen Lai, Kaicheng Huang, **Bo Lu**, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. (To be submitted)
+
+6. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2020 (Revise and Resubmit).
 
 5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870,  2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
@@ -14,8 +16,8 @@ title: Publication
 <img src="/public/image/publication/2020_TASE_workflow.jpg" alt="lubo" style="height:10rem;" align="center"/>
 <img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>
 
-4. **Bo Lu**, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), accepted, 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8845606){:target="_blank"}{% endif %}  
+4. **Bo Lu**, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25(2), 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8845606){:target="_blank"}{% endif %}  
 **[Selected Workflow]:**
 <img src="/public/image/publication/2019_TMECH_workflow1.png" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2019_TMECH_workflow2.png" alt="lubo" style="width:19rem;" align="center"/><img src="/public/image/publication/2019_TMECH_results2.png" alt="lubo" style="width:19rem;" align="center" />  -->
