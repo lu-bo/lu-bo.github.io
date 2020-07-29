@@ -6,6 +6,8 @@ title: Publication
 <!--_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._-->
 
 ## Journal
+8. **Bo Lu**, Wei Chen, Bin Li, Qi Dou, Yue-ming Jin, Pheng-Ann Heng, Yun-Hui Liu, *“”* IEEE Transactions on Robotics (T-RO), 2020. (To be submitted)
+
 7. Jiewen Lai, Kaicheng Huang, **Bo Lu**, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. (To be submitted)
 
 6. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2020 (Revise and Resubmit).
@@ -84,6 +86,8 @@ title: Publication
 -->
 
 ## Conference
+9. Anonymous Authors, *"Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, The Conference on Robot Learning (CoRL), 2020. (Under Review)
+
 8. **Bo Lu**, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 
 7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
