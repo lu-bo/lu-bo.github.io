@@ -6,7 +6,7 @@ title: Publication
 <!--_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._-->
 
 ## Journal
-8. **Bo Lu**, Wei Chen, Bin Li, Qi Dou, Yue-ming Jin, Pheng-Ann Heng, Yun-Hui Liu, *“”* IEEE Transactions on Robotics (T-RO), 2020. (To be submitted)
+8. **Bo Lu**,  Bin Li, Yue-ming Jin,  Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Holistic Framework Towards Image-guided Automated Grasping of Suture Thread Within Unstructured Environments”* IEEE Transactions on Robotics (T-RO), 2020. (To be submitted)
 
 7. Jiewen Lai, Kaicheng Huang, **Bo Lu**, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. (To be submitted)
 
