@@ -93,6 +93,7 @@ title: Publication
 7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 
 6.	Jiewen Lai, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), accepted, 2020.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9158975){:target="_blank"}{% endif %}
 
 5.	Z. X. Cui, K. C. Huang, **Bo Lu**, Henry K. Chu, *“Three-Dimensional Localization of Needle Tip Immersed in Medium,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8868776/){:target="_blank"}{% endif %}
