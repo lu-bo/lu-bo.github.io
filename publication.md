@@ -3,7 +3,8 @@ layout: page
 title: Publication
 ---
 
-_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
+<!-- _<sup>\*</sup> denotes co-first authorship; _ -->
+_<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
 9. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Holistic Framework Towards Image-guided Automated Grasping of Suture Thread Within Unstructured Environments”* IEEE Transactions on Robotics (T-RO), 2020. (To be submitted)
@@ -89,7 +90,7 @@ _<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes correspo
 
 ## Conference
 
-8. **Bo Lu**, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
+8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 
 7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 
