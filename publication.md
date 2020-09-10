@@ -91,6 +91,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Conference
 
 8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2007.00920){:target="_blank"}{% endif %}  
 
 7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 
