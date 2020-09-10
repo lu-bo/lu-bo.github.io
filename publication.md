@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-<!--_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._-->
+_<sup>\*</sup> denotes co-first authorship; <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
 9. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Holistic Framework Towards Image-guided Automated Grasping of Suture Thread Within Unstructured Environments”* IEEE Transactions on Robotics (T-RO), 2020. (To be submitted)
