@@ -7,7 +7,11 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-9. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Holistic Framework Towards Image-guided Automated Grasping of Suture Thread Within Unstructured Environments”* IEEE Transactions on Biomedical Engineering (T-BME), 2020. (To be submitted)
+
+10. Jiewen Lai, **Bo Lu**, and Henry K. Chu, *“On the Stiffness-Adaptiveness of A Dual-Segment Soft Robot using Depth Visual-Servoing”* IEEE Robotics and Automation Letter, 2020. (To be Submitted)
+
+9. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled
+and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-BME), 2020. (Under Review)
 
 8. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* IEEE Transactions on Medical Imaging (T-MI), 2020. (Under Review)
 
