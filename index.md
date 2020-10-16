@@ -27,6 +27,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Now. 
 
 #### Academic Service
+* Reviewer of [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
 * Reviewer of [IEEE/ASME Transactions on Mechatronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
 * Reviewer of [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
 * Reviewer of IEEE Conference on Robotics and Automation (ICRA) in [2018](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html), [2019](https://www.icra2019.org/), [2020](https://www.icra2020.org/).
@@ -34,6 +35,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](http://aim2020.org/).
 
 #### Project Experience
+* Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ now.
 * Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ now. 
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ Now.
 * 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Total Research Funding: HK$568,470), 2016 ~ 2019.
