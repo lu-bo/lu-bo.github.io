@@ -27,8 +27,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Now. 
 
 #### Academic Service
-* Reviewer of [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
-* Reviewer of [IEEE/ASME Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
+* Reviewer of [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
+* Reviewer of [IEEE/ASME Transactions on Mechatronics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
 * Reviewer of [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
 * Reviewer of IEEE Conference on Robotics and Automation (ICRA) in [2018](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html), [2019](https://www.icra2019.org/), [2020](https://www.icra2020.org/).
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in [2020](https://www.iros2020.org/).

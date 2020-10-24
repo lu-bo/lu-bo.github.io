@@ -10,6 +10,8 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 12. Jiewen Lai, **Bo Lu**, and Henry K. Chu, *“On the Stiffness-Adaptiveness of A Dual-Segment Soft Robot using Depth Visual-Servoing”* IEEE Robotics and Automation Letter, 2020. (To be Submitted)
 
+12. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, Computerized Medical Imaging and Graphics, 2020. (Under Review)
+
 11. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
 
 10. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
