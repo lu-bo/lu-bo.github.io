@@ -7,6 +7,8 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* IEEE Transactions on Biomedical Engineering (T-BME), 2020. (Under Review)
+
 11. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled
 and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2020. (Under Review)
 
