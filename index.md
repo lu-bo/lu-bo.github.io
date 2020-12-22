@@ -78,3 +78,5 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Assistive Surgical Robots (CRF-13)
 * A Robotic Assistant for Manipulating Uterus in Hysterectomy (ITF-12)
 -->
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5y1p96rqe16&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0&amp;ds=0" async="async"></script>
