@@ -17,15 +17,18 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 <!--You can find the detailed information about me in my {% if site.cv_chn %}curriculum vita ([ENG](../zrwang.resume/cv.pdf){:target="_blank"}, [CHN](../zrwang.resume.zh/cv.pdf){:target="_blank"}),{% else %}[Curriculum Vita](../zrwang.resume/cv.pdf){:target="_blank"}{% endif %} and some technique blog posts in this [LINK](../blog/){:target="_blank"}. -->
 
+-------------------------------------------------
 ### Education
 * Ph.D. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2015 ~ Jun. 2019.
 * M.S. Degree, Mechanical Engineering, The Hong Kong Polytechnic University, HKSAR, Sep. 2013 ~ Aug, 2015.
 * B.E. Degree, Naval Architecture & Marine Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
 
+-------------------------------------------------
 ### Professional Experience
 #### Academic Position
 * Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Now. 
 
+-------------------------------------------------
 #### Academic Service
 * Associate Editor (AE) of IEEE Conference on Robotics and Automation (ICRA) in [2021](http://www.icra2021.org/).
 * Reviewer of [IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
@@ -35,6 +38,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in [2020](https://www.iros2020.org/).
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](http://aim2020.org/).
 
+-------------------------------------------------
 #### Project Experience
 * Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ now.
 * Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ now. 
@@ -42,7 +46,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Total Research Funding: HK$568,470), 2016 ~ 2019.
 * A Vision-based and Robot-assisted Automated Surgical Knot Tying Using A Dynamical Control System (Research Grant Council of the Hong Kong Special Administrative Region, Participant, Total Research Funding: HK$600,000), 2015 ~ 2018.
 
-
+-------------------------------------------------
 #### Invited Talks
 * **Bo Lu**, Invited talk on: *"Automation in Robot-assisted Surgical Knot Tying,"*CUHK-JHU Joint Symposium on Medical Robotics, Jun. 2020.
 * **Bo Lu**, Invited talk on: *“Towards Vision-based Automated Suture Thread Suturing in Robotic Minimally Invasive Surgery,”* [Academic Forum of Institute of Medical Robotics](http://imr.sjtu.edu.cn/en/Committee2019.html), [Shanghai Jiao Tong university](http://en.sjtu.edu.cn/), Dec. 2019.
@@ -54,6 +58,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Ph.D. Thesis Defense entitled "Proprioception-Aided Visual State Estimation for Mobile Robots" in April 2019
 -->
 
+-------------------------------------------------
 #### Teaching Assistance
 * ME41004 - Mechatronics and Control  
 * ME31003 - System Dynamics  
@@ -61,6 +66,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * ME42011 - Fundamentals of Robotics  
 * ME570 - Advanced Product Mechatronics  
 
+-------------------------------------------------
 #### Honors and Rewards
 * The distinction M. S. graduate in PolyU, 2015.
 * The distinguished M. S. academic scholarship in PolyU, 2013 and 2014.
