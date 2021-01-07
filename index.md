@@ -79,5 +79,5 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * A Robotic Assistant for Manipulating Uterus in Hysterectomy (ITF-12)
 -->
 
-#### Visits
-<div style="display:inline-block;width:200px;"><script type="text/javascript" src="//rf.revolvermaps.com/0/0/7.js?i=5vcos069shm&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;sx=0&amp;ds=0" async="async"></script></div>
+#### 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=5qi7t31kgul&amp;s=180&amp;m=6&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
