@@ -7,6 +7,7 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+14. Jiewen Lai, **Bo Lu**, Henry K. Chu, *",Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision,"* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Under Review)
 
 13. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2020. (Under Review)
 
