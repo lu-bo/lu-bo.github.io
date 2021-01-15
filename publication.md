@@ -20,7 +20,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 
 9. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
 
-8. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Resubmit)
+8. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
 
 7. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. (Under Review)
 
