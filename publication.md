@@ -16,7 +16,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 11. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled
 and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2020. (Revise and Resubmit)
 
-10. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, Computerized Medical Imaging and Graphics, 2020. (Major Revision)
+10. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery, 2020. (Major Revision)
 
 9. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
 
