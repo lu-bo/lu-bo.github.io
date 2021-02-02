@@ -18,7 +18,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 
 10. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery, 2020. (Major Revision)
 
-9. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
+9. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Accepted)
 
 8. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
 
