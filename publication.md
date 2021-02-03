@@ -9,22 +9,22 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Journal
 14. Jiewen Lai, **Bo Lu**, Henry K. Chu, *",Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Under Review)
 
-13. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2020. (Under Review)
+13. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Under Review)
 
-12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* Medical Image Analysis (MIA), 2020. (Under Review)
+12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* Medical Image Analysis (MIA), 2021. (Under Review)
 
 11. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled
-and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2020. (Revise and Resubmit)
+and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Revise and Resubmit)
 
-10. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery, 2020. (Major Revision)
+10. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery, 2021. (Major Revision)
 
-9. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2020. (Under Review)
+9. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Under Review)
 
-8. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2020. (Under Review)
+8. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2021. (Under Review)
 
-7. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Under Review)
+7. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. (Under Review)
 
-6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (with 2021 ICRA), 2020. (Accepted)
+6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. (Accepted)
 
 5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870,  2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
