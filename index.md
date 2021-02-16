@@ -59,6 +59,13 @@ My research interests are medical robotics, computer vision, vision-based manipu
 -->
 
 -------------------------------------------------
+#### Honors and Rewards
+* The distinction M. S. graduate in PolyU, 2015.
+* The distinguished M. S. academic scholarship in PolyU, 2013 and 2014.
+* The distinguished B. E. academic scholarship in DLUT, 2011.
+* The distinguished B. E. academic scholarship in DLUT, 2010.
+
+-------------------------------------------------
 #### Teaching Assistance
 * ME41004 - Mechatronics and Control  
 * ME31003 - System Dynamics  
@@ -66,12 +73,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * ME42011 - Fundamentals of Robotics  
 * ME570 - Advanced Product Mechatronics  
 
--------------------------------------------------
-#### Honors and Rewards
-* The distinction M. S. graduate in PolyU, 2015.
-* The distinguished M. S. academic scholarship in PolyU, 2013 and 2014.
-* The distinguished B. E. academic scholarship in DLUT, 2011.
-* The distinguished B. E. academic scholarship in DLUT, 2010.
+
+
 
 <!--
 * ENGG5402 Advanced Robotics (Spring 2015)
