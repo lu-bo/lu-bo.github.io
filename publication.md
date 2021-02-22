@@ -23,7 +23,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 8. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2021. (Accepted)
 
 7. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. (Accepted)
-<img src="/public/image/publication/FBG_sensing_2021RAL.jpg" alt="lubo" style="height:14rem;" align="center"/> 
+<img src="/public/image/publication/FBG_sensing_2021RAL.jpg" alt="lubo" style="height:8rem;" align="center"/> 
 
 6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](http://bzhou.ie.cuhk.edu.hk/robotics/MAIRL_draft.pdf){:target="_blank"}{% endif %}  
