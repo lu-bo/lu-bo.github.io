@@ -33,7 +33,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
 **[Selected Workflow and Results]:**
 <img src="/public/image/publication/2020_TASE_workflow.jpg" alt="lubo" style="height:10rem;" align="center"/>
-<img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>
+#<img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>
 
 4. **Bo Lu**, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25(2), 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8845606){:target="_blank"}{% endif %}  
@@ -48,7 +48,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8386852){:target="_blank"}{% endif %}  
 **[Selected Workflow and Results]:**
 <img src="/public/image/publication/2018_TASE_methods.png" alt="lubo" style="width:38rem;" align="center"/>
-<img src="/public/image/publication/2018_TASE_results.png" alt="lubo" style="width:30rem;" align="center"/>
+#<img src="/public/image/publication/2018_TASE_results.png" alt="lubo" style="width:30rem;" align="center"/>
 
 1. H. Xu, **Bo Lu**, Z. Q. Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S0022460X15003594){:target="_blank"}{% endif %}
