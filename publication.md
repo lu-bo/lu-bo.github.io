@@ -41,6 +41,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 
 3. 	K. C. Huang, **Bo Lu**, Henry K. Chu, J. W. Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8818352){:target="_blank"}{% endif %}
+<img src="/public/image/publication/2019_TBCS.jpg" alt="lubo" style="width:38rem;" align="center"/>
 
 2. **Bo Lu**, Henry K. Chu,  K. C. Huang and Li Cheng, *"Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing,"* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8386852){:target="_blank"}{% endif %}  
