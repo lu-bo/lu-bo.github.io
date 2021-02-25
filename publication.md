@@ -106,15 +106,15 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 -->
 
 ## Conference
-13. Jiaqi Xu, Bin LI, Qi Dou, **Bo Lu**, Yunhui Liu, Pheng-Ann Heng, *"RLSR: A Dedicated Reinforcement Learning Platform for Surgical Robotics,"* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)
+<!-- 13. Jiaqi Xu, Bin LI, Qi Dou, **Bo Lu**, Yunhui Liu, Pheng-Ann Heng, *"RLSR: A Dedicated Reinforcement Learning Platform for Surgical Robotics,"* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)-->
 
-12. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)
+11. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-11. Bohan Yang, **Bo Lu**, Wei Chen, Kejing He, Dickson Chun Fung Li, Yaqing Wang, and Yun-hui Liu, *“Three-Dimensional Shape Servoing of Deformable Objects with Modal Analysis and Inaccurate Model,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)
+<!-- 11. Bohan Yang, **Bo Lu**, Wei Chen, Kejing He, Dickson Chun Fung Li, Yaqing Wang, and Yun-hui Liu, *“Three-Dimensional Shape Servoing of Deformable Objects with Modal Analysis and Inaccurate Model,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)-->
 
-10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yunhui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)
+10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yunhui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)
+9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
 8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](http://ras.papercept.net/images/temp/IROS/files/0562.pdf){:target="_blank"}{% endif %}  
