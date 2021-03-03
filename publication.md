@@ -11,10 +11,9 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 13. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Under Review)
 
-12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* Medical Image Analysis (MIA), 2021. (Under Review)
+12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* Medical Image Analysis (MIA), 2021. (Major Revision)
 
-11. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled
-and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Revise and Resubmit)
+11. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Revise and Resubmit)
 
 10. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery, 2021. (Major Revision)
 
@@ -26,11 +25,11 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 7. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing forFlexible Endoscopic Surgery Using Multi-CoreFBG Sensors"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. (Accepted)
 <img src="/public/image/publication/FBG_sensing_2021RAL.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. (Accepted)
+6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model"*, IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9361118){:target="_blank"}{% endif %}  
 <img src="/public/image/publication/Learning_2021RAL.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870,  2020.
+5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A learning approach for suture thread detection with feature enhancement and segmentation for 3D shape reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
 <img src="/public/image/publication/2020_TASE_workflow.jpg" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>-->
@@ -110,16 +109,18 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 
 
 ## Conference
+12. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yunhui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)
+
 11. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yunhui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
+10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
 9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
+8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9341445){:target="_blank"}{% endif %}  
 
-7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
+7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9341239){:target="_blank"}{% endif %}
 
 6.	Jiewen Lai, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), accepted, 2020.
@@ -134,7 +135,7 @@ and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical En
 3.	K. Huang, Henry K. Chu, **Bo Lu**, Li Cheng, *“Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis,”* The IEEE Conference on Robotics and Biomimetics (Robio), 2018. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8665210/){:target="_blank"}{% endif %}
 
-2.	**Bo Lu**, Henry K. Chu, and Li Cheng, *“Robotic knot tying through a spatial trajectory with a visual servoing system,”* The IEEE International Conference on Intelligent Robots and Systems (IROS), 2017.
+2.	**Bo Lu**, Henry K. Chu, and Li Cheng, *“Robotic knot tying through a spatial trajectory with a visual servoing system,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8206461/){:target="_blank"}{% endif %}
 
 1. **Bo Lu**, Henry K. CHU, Li Cheng, *“Dynamic trajectory planning for robotic knot tying,”* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. 
