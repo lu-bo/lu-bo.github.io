@@ -11,7 +11,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 13. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Under Review)
 
-12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* Medical Image Analysis (MIA), 2021. (Major Revision)
+12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MIA), 2021. (Major Revision)
 
 11. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Revise and Resubmit)
 
