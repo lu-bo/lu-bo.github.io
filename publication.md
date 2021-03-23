@@ -141,9 +141,9 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 3.	K. Huang, Henry K. Chu, **Bo Lu**, Li Cheng, *“Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis,”* The IEEE Conference on Robotics and Biomimetics (Robio), 2018. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8665210/){:target="_blank"}{% endif %}
 
-2.	**Bo Lu**, Henry K. Chu, and Li Cheng, *“Robotic knot tying through a spatial trajectory with a visual servoing system,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
+2.	**Bo Lu**, Henry K. Chu, and Li Cheng, *“Robotic Knot Tying Through a Spatial Trajectory With a Visual Servoing System,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8206461/){:target="_blank"}{% endif %}
 
-1. **Bo Lu**, Henry K. CHU, Li Cheng, *“Dynamic trajectory planning for robotic knot tying,”* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. 
+1. **Bo Lu**, Henry K. CHU, Li Cheng, *“Dynamic Trajectory Planning for Robotic Knot Tying,”* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/7784022/){:target="_blank"}{% endif %}
 {: reversed="reversed"}
