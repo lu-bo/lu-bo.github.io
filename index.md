@@ -30,7 +30,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Academic Service
-* Associate Editor (AE) of [IEEE Conference on Robotics and Automation (ICRA)] in [2021](http://www.icra2021.org/).
+* Associate Editor (AE) of [IEEE Conference on Robotics and Automation (ICRA) in 2021](http://www.icra2021.org/).
 * Reviewer of [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
 * Reviewer of [IEEE/ASME Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
 * Reviewer of [IEEE Robotics and Automation Letter (RA-L)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
