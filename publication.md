@@ -31,26 +31,26 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9361118){:target="_blank"}{% endif %}
 <img src="/public/image/publication/Learning_2021RAL.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-5. **Bo Lu**, Xinbo Yu, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020.
+5. **Bo Lu**, Xinbo Yu, Henry K. CHU, Kaicheng Huang, Jiewen Lai and Li Cheng, *“A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
 <img src="/public/image/publication/2020_TASE_workflow.jpg" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>-->
 
-4. **Bo Lu**, Henry K. CHU, K. C. Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25(2), 2020.
+4. **Bo Lu**, Henry K. CHU, Kaicheng Huang, Jiewen Lai and Li Cheng, *“Surgical Suture Thread Detection using a Model-free Approach in a Calibrated Stereo-visual System,”* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25(2), 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8845606){:target="_blank"}{% endif %}  
 <img src="/public/image/publication/2019_TMECH_workflow1.png" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2019_TMECH_workflow2.png" alt="lubo" style="width:19rem;" align="center"/><img src="/public/image/publication/2019_TMECH_results2.png" alt="lubo" style="width:19rem;" align="center" />  -->
 
-3. 	K. C. Huang, **Bo Lu**, Henry K. Chu, J. W. Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
+3. 	Kaicheng Huang, **Bo Lu**, Henry K. Chu, Jiewen Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8818352){:target="_blank"}{% endif %}
 <img src="/public/image/publication/2019_TBCS.jpg" alt="lubo" style="width:38rem;" align="center"/>
 
-2. **Bo Lu**, Henry K. Chu,  K. C. Huang and Li Cheng, *"Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing,"* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018. 
+2. **Bo Lu**, Henry K. Chu,  Kaicheng Huang and Li Cheng, *"Vision-based Surgical Suture Looping through Trajectory Planning for Wound Suturing,"* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 16, no. 2, pp. 542-556, 2018. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8386852){:target="_blank"}{% endif %}  
 <img src="/public/image/publication/2018_TASE_methods.png" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2018_TASE_results.png" alt="lubo" style="width:30rem;" align="center"/>-->
 
-1. H. Xu, **Bo Lu**, Z. Q. Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration, 2015.
+1. Hao Xu, **Bo Lu**, Zhongqing Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration, 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S0022460X15003594){:target="_blank"}{% endif %}
 {: reversed="reversed"}
 
@@ -123,22 +123,22 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
+8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9341445){:target="_blank"}{% endif %}  
 
-7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2020.
+7.	Zhenxi Cui, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Automated Folding of a Deformable Thin Object through Robot Manipulators,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9341239){:target="_blank"}{% endif %}
 
-6.	Jiewen Lai, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), accepted, 2020.
+6.	Jiewen Lai, Kaicheng Huang, **Bo Lu** and Henry K. Chu, *“Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9158975){:target="_blank"}{% endif %}
 
-5.	Z. X. Cui, K. C. Huang, **Bo Lu**, Henry K. Chu, *“Three-Dimensional Localization of Needle Tip Immersed in Medium,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
+5.	Zhenxi Cui, Kaicheng Huang, **Bo Lu**, Henry K. Chu, *“Three-Dimensional Localization of Needle Tip Immersed in Medium,”* IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8868776/){:target="_blank"}{% endif %}
 
-4.	K. Huang, Henry K. Chu, **Bo Lu**, J. W. Lai, Li Cheng, *“Automated Cell Patterning System with a Microchip using Dielectrophoresis,”* The IEEE Conference on Robotics and Automation (ICRA), 2019.
+4.	Kaicheng Huang, Henry K. Chu, **Bo Lu**, Jiewen Lai, Li Cheng, *“Automated Cell Patterning System with a Microchip using Dielectrophoresis,”* The IEEE Conference on Robotics and Automation (ICRA), 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8794177/){:target="_blank"}{% endif %}
 
-3.	K. Huang, Henry K. Chu, **Bo Lu**, Li Cheng, *“Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis,”* The IEEE Conference on Robotics and Biomimetics (Robio), 2018. 
+3.	Kaicheng Huang, Henry K. Chu, **Bo Lu**, Li Cheng, *“Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis,”* The IEEE Conference on Robotics and Biomimetics (Robio), 2018. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8665210/){:target="_blank"}{% endif %}
 
 2.	**Bo Lu**, Henry K. Chu, and Li Cheng, *“Robotic Knot Tying Through a Spatial Trajectory With a Visual Servoing System,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2017.
