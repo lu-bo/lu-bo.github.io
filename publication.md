@@ -31,7 +31,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9361118){:target="_blank"}{% endif %}
 <img src="/public/image/publication/Learning_2021RAL.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-5. **Bo Lu**, Xinbo Yu, Henry K. CHU, Kaicheng Huang, Jiewen Lai and Li Cheng, *“A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020.
+5. **Bo Lu**, Xinbo Yu, Jiewen Lai, Kaicheng Huang, Keith C. C. Chan, and  Henry K. Chu, *“A Learning Approach for Suture Thread Detection With Feature Enhancement and Segmentation for 3-D Shape Reconstruction,”* IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 17, no. 2, pp. 858-870, 2020.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8913674){:target="_blank"}{% endif %}  
 <img src="/public/image/publication/2020_TASE_workflow.jpg" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2020_TASE_results.jpg" alt="lubo" style="height:13rem;" align="center"/>-->
