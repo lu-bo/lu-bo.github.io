@@ -121,7 +121,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 11. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
+10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted, **Best Paper Award of ICRA 2021 in Medical Robotics **)
 
 9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
