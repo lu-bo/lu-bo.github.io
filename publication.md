@@ -27,11 +27,11 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9377561){:target="_blank"}{% endif %}
 <img src="/public/image/publication/2020-TASE-Patterning.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-7. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing for Flexible Endoscopic Surgery Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021. 
+7. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Bin Li, Huanhuan Guo, and Yun-hui Liu, *"Robust Three-Dimensional Shape Sensing for Flexible Endoscopic Surgery Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), vol. 6, no. 3, pp. 4835-4842, 2021. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9381600){:target="_blank"}{% endif %}
 <img src="/public/image/publication/FBG_sensing_2021RAL.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model,"* IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), 2021.
+6. Jiankai Sun, Lantao Yu, Pinqian Dong, **Bo Lu**, Bolei Zhou, *“Adversarial Inverse Reinforcement Learning with Self-attention Dynamics Model,"* IEEE Robotics and Automation Letter (RA-L with 2021 ICRA), vol. 6, no. 2, pp. 1880-1886, 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9361118){:target="_blank"}{% endif %}
 <img src="/public/image/publication/Learning_2021RAL.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
