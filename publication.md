@@ -17,7 +17,8 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 11. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2021. (Major Revision)
 
-10. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Minor Revision)
+10. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Accepted)
+<img src="/public/image/publication/tmech_summary.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
 9. Jiewen Lai, **Bo Lu**, Henry K. Chu, *"Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9427246?casa_token=ZFtYxkyxoJYAAAAA:Zs1ZLiGJCSGBIeYVTHTnoPQIDJkGvT4j2by78jt_acxYnZYgvexQFGHWOn5a3wJ0zitboL0kgA){:target="_blank"}{% endif %}
