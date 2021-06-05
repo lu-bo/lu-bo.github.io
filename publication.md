@@ -19,7 +19,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 10. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Minor Revision)
 
-9. Jiewen Lai, **Bo Lu**, Henry K. Chu, *"Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Accepted)
+9. Jiewen Lai, **Bo Lu**, Henry K. Chu, *"Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9427246?casa_token=ZFtYxkyxoJYAAAAA:Zs1ZLiGJCSGBIeYVTHTnoPQIDJkGvT4j2by78jt_acxYnZYgvexQFGHWOn5a3wJ0zitboL0kgA){:target="_blank"}{% endif %}
 <img src="/public/image/publication/tmech_robot_sam_2021.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
@@ -123,7 +123,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 11. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
-10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted, **Best Paper Award of ICRA 2021 in Medical Robotics **)
+10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted, **Best Paper Award of ICRA 2021 in Medical Robotics**)
 
 9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
 
