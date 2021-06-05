@@ -20,6 +20,8 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 10. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Minor Revision)
 
 9. Jiewen Lai, **Bo Lu**, Henry K. Chu, *"Variable-Stiffness Control of A Dual-Segment Soft Robot using Depth Vision,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9427246?casa_token=ZFtYxkyxoJYAAAAA:Zs1ZLiGJCSGBIeYVTHTnoPQIDJkGvT4j2by78jt_acxYnZYgvexQFGHWOn5a3wJ0zitboL0kgA){:target="_blank"}{% endif %}
+<img src="/public/image/publication/tmech_robot_sam_2021.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
 8. Kaicheng Huang, Zhenxi Cui, Jiewen Lai, **Bo Lu** and Henry K. Chu, *“Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9377561){:target="_blank"}{% endif %}
