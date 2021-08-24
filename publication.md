@@ -7,6 +7,14 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
+
+18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
+
+17. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun, *" Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
+
+16. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics, 2021. (Under Review)
+
 15. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter, 2021. (Major Revision)
 
 14. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Under Review)
