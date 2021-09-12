@@ -131,12 +131,16 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 12. Jiaqi Xu, Bin Li, **Bo Lu**, Yun-Hui Liu, Qi Dou, Pheng Ann Heng, *"SurRoL: An Open-source RL Centered and dVRK Compatibale Platform for Surgical Robot Learning,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Accepted)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2108.13035){:target="_blank"}{% endif %}  
 
 11. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2011.11241){:target="_blank"}{% endif %}  
 
 10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted, **Best Paper Award of ICRA 2021 in Medical Robotics**)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2011.01619){:target="_blank"}{% endif %}  
 
 9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2103.12988){:target="_blank"}{% endif %}  
 
 8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9341445){:target="_blank"}{% endif %}  
