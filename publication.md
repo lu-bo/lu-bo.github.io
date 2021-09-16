@@ -19,7 +19,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 15. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2021. (Major Revision)
 
-14. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Under Review)
+14. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Accepted)
 
 13. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung, Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MIA), 2021. (Minor Revision)
 
