@@ -9,15 +9,15 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Journal
 20. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (To be Submitted)
 
-19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
+19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2021, Under Review)
 
-18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
+18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2021, Under Review)
 
-17. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
+17. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2021, Under Review)
 
-16. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics, 2021. (Under Review)
+16. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2021. (Under Review)
 
-15. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter, 2021. (Major Revision)
+15. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2021. (Major Revision)
 
 14. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Under Review)
 
@@ -59,7 +59,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 <img src="/public/image/publication/2019_TMECH_workflow1.png" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2019_TMECH_workflow2.png" alt="lubo" style="width:19rem;" align="center"/><img src="/public/image/publication/2019_TMECH_results2.png" alt="lubo" style="width:19rem;" align="center" />  -->
 
-3. 	Kaicheng Huang, **Bo Lu**, Henry K. Chu, Jiewen Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (TBioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
+3. 	Kaicheng Huang, **Bo Lu**, Henry K. Chu, Jiewen Lai, *“Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis,"* IEEE Transactions on Biomedical Circuits and Systems (T-BioCAS), vol. 13. no. 5, pp. 1063-1074, 2019.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/8818352){:target="_blank"}{% endif %}
 <img src="/public/image/publication/2019_TBCS.jpg" alt="lubo" style="width:38rem;" align="center"/>
 
@@ -68,7 +68,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 <img src="/public/image/publication/2018_TASE_methods.png" alt="lubo" style="width:38rem;" align="center"/>
 <!--<img src="/public/image/publication/2018_TASE_results.png" alt="lubo" style="width:30rem;" align="center"/>-->
 
-1. Hao Xu, **Bo Lu**, Zhongqing Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration, 2015.
+1. Hao Xu, **Bo Lu**, Zhongqing Su, Li Cheng, *“Statistical enhancement of a dynamic equilibrium-based damage identification strategy: Theory and experimental ,”*Journal of Sound and Vibration (J-SV), 2015.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S0022460X15003594){:target="_blank"}{% endif %}
 {: reversed="reversed"}
 
