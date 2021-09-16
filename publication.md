@@ -9,11 +9,11 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Journal
 20. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (To be Submitted)
 
-19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2021, Under Review)
+19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Under Review)
 
-18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2021, Under Review)
+18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Under Review)
 
-17. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2021, Under Review)
+17. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Under Review)
 
 16. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2021. (Under Review)
 
