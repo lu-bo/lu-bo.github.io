@@ -7,6 +7,8 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+20. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (To be Submitted)
+
 19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
 
 18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter, 2021. (with ICRA 2021, Under Review)
@@ -27,7 +29,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://link.springer.com/article/10.1007/s11548-021-02438-6){:target="_blank"}{% endif %}
 <img src="/public/image/publication/2021_IJCARS.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-10. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"*IEEE/ASME Transactions on Mechatronics (T-MECH), 2021.
+10. Jiewen Lai, Kaicheng Huang, **Bo Lu**, Qingxiang Zhao, and Henry K. Chu, *"Verticalized-Tip Trajectory Tracking of A 3D-Printable Soft Continuum Robot: Enabling Surgical Blood Suction Automation,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9462388){:target="_blank"}{% endif %}
 <img src="/public/image/publication/tmech_summary.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
