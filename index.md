@@ -42,7 +42,9 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Project Experience
+* 
 * Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ now.
+Role: Participant
 * Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ now. 
 * Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ Now.
 * 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Total Research Funding: HK$568,470), 2016 ~ 2019.
