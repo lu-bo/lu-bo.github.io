@@ -7,11 +7,11 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-21. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (To be Submitted)
+21. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. Under Review)
 
-20. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2021. (Under Review)
+20. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2021. (Revised and Resubmit)
 
-19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Under Review)
+19. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Revised and Resubmit)
 
 18. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Under Review)
 
@@ -21,11 +21,13 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 15. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2021. (Major Revision)
 
-14. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Accepted)
+14. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Minor Revision)
 
-13. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung, Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MIA), 2021. (Minor Revision)
+13. Zixu Zhao, Yueming Jin, Junming Chen, **Bo Lu**, Chi-Fai Ng, Yun-Hui Liu, Qi Dou, Pheng-Ann Heng, *"Anchor-guided Online Meta Adaptation for Fast One-Shot Instrument Segmentation from Robotic Surgical Videos,"* Medical Image Analysis (MIA), 2021. (Accepted)
 
-12. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Minor Revision)
+12. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung, Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Unsupervised Feature Disentanglement for Video Retrieval in Minimally Invasive Surgery,"* Medical Image Analysis (MIA), 2021. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://link.springer.com/article/10.1007/s11548-021-02438-6){:target="_blank"}{% endif %}
+<img src="/public/image/publication/MIA-2021-Ziyi.png" alt="lubo" style="width:38rem;" align="center"/> 
 
 11. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://link.springer.com/article/10.1007/s11548-021-02438-6){:target="_blank"}{% endif %}

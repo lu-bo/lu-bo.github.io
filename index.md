@@ -27,7 +27,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 -------------------------------------------------
 ### Professional Experience
 #### Academic Position
-* Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Now. 
+* Associate Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2021 ~ Now.
+* Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Sep. 2021. 
 
 -------------------------------------------------
 #### Academic Service
