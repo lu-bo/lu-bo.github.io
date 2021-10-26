@@ -7,8 +7,8 @@ title: Lu Bo's Home Page
 
 <blockquote class="full-width"><p>Roboticist, Researcher, and Explorer</p></blockquote>
 
-I am an incoming Associate Professor (2021.10) in the [Department of Mechanical and Electrical Engineering](), [The Soochow Univeristy]().
-Now, I am a Postdoctoral Research Fellow (2019. 07 - now) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/).
+I am an Associate Professor (2021.10) in the [School of Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/) and Robotics and Micro-system Center, [The Soochow Univeristy](http://eng.suda.edu.cn/).
+I was a Postdoctoral Research Fellow (2019.07 - 2021.09) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/).
 
 I received my Ph.D. degree in the [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/){:target="_blank"} (ME) , [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/){:target="_blank"} and [Prof. Li Cheng (co-supervisor)](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/){:target="_blank"} in Jun 2019.
 During my Ph. D. studies, I took the Winter School Programme on Medical Robotics at [Hamlyn Center](https://www.imperial.ac.uk/hamlyn-centre/), [Imperial Colleage London](https://www.imperial.ac.uk/) in 2017.
