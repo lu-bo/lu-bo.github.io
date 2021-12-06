@@ -24,10 +24,10 @@ gems: [jekyll-paginate]
 # custom vars
 since:                  2019
 google_analytics:       UA-63207330-1
-emailme:                mailto:bolu@cuhk.edu.hk
+emailme:                mailto:blu@suda.edu.cn
 github:
   repo:                  https://github.com/lu-bo/LuBo.github.io
-version:                Nov. 15, 2021
+version:                Dec. 06, 2021
 googlescholar_username: ENPRTpcAAAAJ&hl=en
 orcid_username:        0000-0002-2858-1121
 #researcherid_username:  R-3094-2018 
