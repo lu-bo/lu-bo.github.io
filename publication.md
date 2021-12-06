@@ -13,7 +13,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 18. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Revised and Resubmit)
 
-17. Jiewen Lai, Bo Lu, Kaicheng Huang, Henry K. Chu, *"GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control,"* IEEE Transactions on Industrial Electronics, 2021. (Under Review)
+17. Jiewen Lai, Bo Lu, Kaicheng Huang, Henry K. Chu, *"GesSo: A Steerable Soft-Bodied Robot Based on Real-Time Gesture Control,"* IEEE Transactions on Industrial Electronics, 2021. (Under Review) 
 
 <!--
 17. Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Bin Li, Huanhuan Guo, Yunhui Liu, *"Towards 3-D Shape Reconstruction of Flexible Surgical Instruments: A Robust Graph-Based Framework Using Multi-Core FBG Sensors,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Under Review)
