@@ -52,8 +52,10 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Invited Talks
+* **Bo Lu**, Invited talk on *"On the Automated Manipulation of Surgical Kont Tying under Online Visual Guidance,"* International Formum of Medical Robotics, Shanghai Jiaotong University, Dec, 2021.
+* **Bo Lu**, Sharing talk, *"Towards Developments of Intelligent Assistive Systems for Automated Robotic Surgery,"* Soochow University, Nov, 2021.
 * **Bo Lu**, Invited talk on: *"Automation in Robot-assisted Surgical Knot Tying,"*CUHK-JHU Joint Symposium on Medical Robotics, Jun. 2020.
-* **Bo Lu**, Invited talk on: *“Towards Vision-based Automated Suture Thread Suturing in Robotic Minimally Invasive Surgery,”* [Academic Forum of Institute of Medical Robotics](http://imr.sjtu.edu.cn/en/Committee2019.html), [Shanghai Jiao Tong university](http://en.sjtu.edu.cn/), Dec. 2019.
+* **Bo Lu**, Invited talk on: *“Towards Vision-based Automated Suture Thread Suturing in Robotic Minimally Invasive Surgery,”* [Academic Forum of Institute of Medical Robotics](http://imr.sjtu.edu.cn/en/Committee2019.html), [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), Dec. 2019.
 * **Bo Lu**, Contributed talk on: *“Robotic knot tying through a spatial trajectory with a visual servoing system,”* [The IEEE International Conference on Intelligent Robots and Systems (IROS), Vancouver, Canada](https://www.iros2017.org/), Sep. 2017.
 
 <!--#### Examinership
