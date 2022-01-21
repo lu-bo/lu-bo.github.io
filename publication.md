@@ -8,13 +8,13 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
 
-19. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2021. (Major Revision)
+19. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2022. (Major Revision)
 
-18. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2021. (Revised and Resubmit)
+18. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
-17. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2021. (Revised and Resubmit)
+17. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
-16. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2021. (Major Revision)
+16. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2022. (Accepted)
 
 15. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Revised and Resubmit)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2109.04869){:target="_blank"}{% endif %}
@@ -138,10 +138,10 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Conference
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
-<!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-14. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* The IEEE International Conference on Robotics and Automation (ICRA), 2022. (Under Review)
+<!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)
+14. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* The IEEE International Conference on Robotics and Automation (ICRA), 2022. (Under Review)-->
 
-13. Bin Li, Ruofeng Wei, Jiaqi Xu, **Bo Lu**<sup>&dagger;</sup>, Chi Hang Yee, Chi-Fai Ng, Pheng-Ann Heng, Qi Dou, Yunhui Liu, *"3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery,"* The IEEE International Conference on Robotics and Automation (ICRA), 2022. (Under Review)
+13. Bin Li, Ruofeng Wei, Jiaqi Xu, **Bo Lu**<sup>&dagger;</sup>, Chi Hang Yee, Chi-Fai Ng, Pheng-Ann Heng, Qi Dou, Yunhui Liu, *"3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery,"* The IEEE International Conference on Robotics and Automation (ICRA), 2022. (Accepted)
 
 12. Jiaqi Xu, Bin Li, **Bo Lu**, Yun-Hui Liu, Qi Dou, Pheng Ann Heng, *"SurRoL: An Open-source RL Centered and dVRK Compatibale Platform for Surgical Robot Learning,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2108.13035){:target="_blank"}{% endif %}  
