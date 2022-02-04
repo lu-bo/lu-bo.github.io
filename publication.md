@@ -7,8 +7,15 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, Bo Lu, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Under Review)
 
-19. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints"*, IEEE/ASME Transactions on Mechatronics (T-MECH), 2022. (Major Revision)
+22. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Ziyi Wang, Fangxun Zhong, Qi Dou, and Yunhui Liu, *"Learning Laparoscope Actions via Video Features for Proactive Robotic Field-of-view Control,"* IEEE Robotics and Automation Letter, 2022. (Under Review)
+
+21. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, and Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Transactions on Biomedical Engineering (T-BME), 2022. (Major Revision)
+
+20. Jiahao Wu, Wei Chen, Dezhao Guo, Gan Ma, Zerui Wang, Yucheng He, Fangxun Zhong, **Bo Lu**, Yudong Wang, Tak-Hong Cheung, and Yunhui Liu, *"Robot-enabled Uterus Manipulator for Laparoscopic Hysterectomy with Soft RCM Constraints: Design, Control and Evaluation,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Under Review)
+
+19. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022. (Major Revision)
 
 18. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
@@ -20,7 +27,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2109.04869){:target="_blank"}{% endif %}
 <img src="/public/image/publication/pp_framework.png" alt="lubo" style="width:38rem;" align="center"/> 
 
-14. **Bo Lu**<sup>&dagger;</sup>,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework”* IEEE Transactions on Biomedical Engineering (T-ASE), 2021. (Early Access)
+14. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *“Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework,”* IEEE Transactions on Automation Science and Engineering (T-ASE), 2021. (Early Access)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9664632){:target="_blank"}{% endif %}
 <img src="/public/image/publication/TASE-2021.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
@@ -32,7 +39,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S1361841521003418){:target="_blank"}{% endif %}
 <img src="/public/image/publication/MIA-2021-Ziyi.png" alt="lubo" style="width:38rem;" align="center"/> 
 
-11. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation"*, International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2021.
+11. Xiaowen Kong, Yueming Jin, Qi Dou, Ziyi Wang, Zerui Wang, **Bo Lu**, Erbao Dong, Yun-Hui Liu, Dong Sun, *“Accurate Instance Segmentation of Surgical Instruments in Robotic Surgery: Model Redesign and Cross-dataset Evaluation,"* International Journal of Computer Assisted Radiology and Surgery (IJCARS), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://link.springer.com/article/10.1007/s11548-021-02438-6){:target="_blank"}{% endif %}
 <img src="/public/image/publication/2021_IJCARS.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
