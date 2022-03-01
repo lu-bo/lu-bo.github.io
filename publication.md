@@ -9,7 +9,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Journal
 23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Under Review)
 
-22. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Ziyi Wang, Fangxun Zhong, Qi Dou, and Yunhui Liu, *"Learning Laparoscope Actions via Video Features for Proactive Robotic Field-of-view Control,"* IEEE Robotics and Automation Letter, 2022. (Under Review)
+22. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Ziyi Wang, Fangxun Zhong, Qi Dou, and Yunhui Liu, *"Learning Laparoscope Actions via Video Features for Proactive Robotic Field-of-view Control,"* IEEE Robotics and Automation Letter, 2022. (with IROS 2022, Under Review)
 
 21. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, and Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Transactions on Biomedical Engineering (T-BME), 2022. (Major Revision)
 
@@ -145,8 +145,9 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 ## Conference
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
-<!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)
-14. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* The IEEE International Conference on Robotics and Automation (ICRA), 2022. (Under Review)-->
+<!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
+
+14. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* Medical Image Computing and Computer Assisted Interventions (MICCAI)), 2022. (Under Review)
 
 13. Bin Li, Ruofeng Wei, Jiaqi Xu, **Bo Lu**<sup>&dagger;</sup>, Chi Hang Yee, Chi-Fai Ng, Pheng-Ann Heng, Qi Dou, Yunhui Liu, *"3D Perception based Imitation Learning under Limited Demonstration for Laparoscope Control in Robotic Surgery,"* The IEEE International Conference on Robotics and Automation (ICRA), 2022. (Accepted)
 
