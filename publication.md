@@ -22,6 +22,8 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 17. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
 16. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2022. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9716747?casa_token=d0Wd0liiGcQAAAAA:TIxk3nihMvD3o9U05QyQxhrzIaosgI7FcBdXuinyCyFRB54Z4NMS3NenNo1o2KA4k8ED15s1){:target="_blank"}{% endif %}
+<img src="/public/image/publication/RA-L-2022.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
 15. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg， *“PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,”* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Revised and Resubmit)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2109.04869){:target="_blank"}{% endif %}
