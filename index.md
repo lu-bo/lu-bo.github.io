@@ -74,6 +74,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Teaching Assistance
+* Electronics and Electrotechnical Technology
 * ME41004 - Mechatronics and Control  
 * ME31003 - System Dynamics  
 * ME42001 - Artifical Intelligence in Products  
