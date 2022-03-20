@@ -45,9 +45,9 @@ My research interests are medical robotics, computer vision, vision-based manipu
 -------------------------------------------------
 #### Project Experience
 * Excellent Young Scholar Program of Soochow University, 2021. Oct~2024. Sep. Total Funding: 400,000 CNY. Role: PI.
-* Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ now.
-* Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ now. 
-* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ Now.
+* InnoHK, Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ 2021.
+* Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ 2021. 
+* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ 2021.
 * 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Total Research Funding: HK$568,470), 2016 ~ 2019.
 * A Vision-based and Robot-assisted Automated Surgical Knot Tying Using A Dynamical Control System (Research Grant Council of the Hong Kong Special Administrative Region, Participant, Total Research Funding: HK$600,000), 2015 ~ 2018.
 
