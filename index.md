@@ -82,9 +82,6 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * ME42011 - Fundamentals of Robotics  
 * ME570 - Advanced Product Mechatronics  
 
-
-
-
 <!--
 * ENGG5402 Advanced Robotics (Spring 2015)
 * ENGG1100 Introduction to Engineering Design (Fall 2014)
