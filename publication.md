@@ -17,11 +17,11 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 20. Jiahao Wu, Wei Chen, Dezhao Guo, Gan Ma, Zerui Wang, Yucheng He, Fangxun Zhong, **Bo Lu**, Yudong Wang, Tak-Hong Cheung, and Yunhui Liu, *"Robot-enabled Uterus Manipulator for Laparoscopic Hysterectomy with Soft RCM Constraints: Design, Control and Evaluation,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Under Review)
 
-19. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022. (Major Revision)
+19. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
-18. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
+18. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
-17. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
+17. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022. (Accepted)
 
 16. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2022. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9716747?casa_token=d0Wd0liiGcQAAAAA:TIxk3nihMvD3o9U05QyQxhrzIaosgI7FcBdXuinyCyFRB54Z4NMS3NenNo1o2KA4k8ED15s1){:target="_blank"}{% endif %}
