@@ -193,3 +193,6 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 1. **Bo Lu**, Henry K. CHU, Li Cheng, *“Dynamic Trajectory Planning for Robotic Knot Tying,”* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2016. 
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/7784022/){:target="_blank"}{% endif %}
 {: reversed="reversed"}
+
+## Patterning
+1. 陆波,刘会聪,迟文政,陈涛,孙立宁，一种面向具有远心不动点约束的手术机器人手眼标定方法，2022105325057，2022.
