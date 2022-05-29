@@ -24,7 +24,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 17. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9781386){:target="_blank"}{% endif %}
-<img src="/public/image/publication/TMECH-2022-FIG1.jpg" alt="lubo" style="width:19rem;" align="left"> <img src="/public/image/publication/TMECH-2022-FIG2.jpg" alt="lubo" style="width:19rem;" align="right"/> 
+<img src="/public/image/publication/TMECH-2022.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 16. Jiewen Lai, **Bo Lu**, Qingxiang Zhao, Henry K. Chu, *"Constrained Motion Planning of A Cable-Driven Soft Robot With Compressible Curvature Modeling,"* IEEE Robotics and Automation Letter (RA-L), 2022.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9716747?casa_token=d0Wd0liiGcQAAAAA:TIxk3nihMvD3o9U05QyQxhrzIaosgI7FcBdXuinyCyFRB54Z4NMS3NenNo1o2KA4k8ED15s1){:target="_blank"}{% endif %}
