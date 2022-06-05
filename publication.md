@@ -7,7 +7,7 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-25. HuiHuijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* Applied Intelligence, 2022. (Under Review)
+25. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* Applied Intelligence, 2022. (Under Review)
 
 24. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Sensors Journal, 2022. (Under Review)
 
@@ -15,14 +15,17 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 22. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, and Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Transactions on Biomedical Engineering (T-BME), 2022. (Major Revision)
 
-21. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
+21. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"* The International Journal of Robotics Research (IJRR), 2022. (Under Review)
 
 20. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
 
 19. Jiahao Wu, Wei Chen, Dezhao Guo, Gan Ma, Zerui Wang, Yucheng He, Fangxun Zhong, **Bo Lu**, Yudong Wang, Tak-Hong Cheung, and Yunhui Liu, *"Robot-enabled Uterus Manipulator for Laparoscopic Hysterectomy with Soft RCM Constraints: Design, Control and Evaluation,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9790864){:target="_blank"}{% endif %}
+<img src="/public/image/publication/TMRB-2022.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 18. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Ziyi Wang, Fangxun Zhong, Qi Dou, and Yunhui Liu, *"Learning Laparoscope Actions via Video Features for Proactive Robotic Field-of-view Control,"* IEEE Robotics and Automation Letter, 2022. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9772402){:target="_blank"}{% endif %}
+<img src="/public/image/publication/RAL_2022_Framework.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 17. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9781386){:target="_blank"}{% endif %}
@@ -155,7 +158,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-15. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* Medical Image Computing and Computer Assisted Interventions (MICCAI)), 2022. (Under Review)
+15. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* Medical Image Computing and Computer Assisted Interventions (MICCAI)), 2022. (Accepted)
 
 14. Meiyuan Zou, Jiajie Yu, **Bo Lu**, Wenzheng Chi, Lining Sun, *"Active Pedestrian Detection for Excavator Robots based on Multi-Sensor Fusion"*, The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2022. (Accepted) 
 
