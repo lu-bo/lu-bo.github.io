@@ -201,5 +201,5 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/7784022/){:target="_blank"}{% endif %}
 {: reversed="reversed"}
 
-## Patterning
-1. 陆波,刘会聪,迟文政,陈涛,孙立宁，一种面向具有远心不动点约束的手术机器人手眼标定方法，2022105325057，2022.
+## Pattern
+1. Bo Lu, Huicong Liu, Wenzheng Chi, Tao Chen, Lining Sun, *"A novel hand-eye calibration methods for surgical robots with Remote Center of Motion (RCM) constraints"*, 2022105325057, 2022.
