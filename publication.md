@@ -7,9 +7,9 @@ title: Publication
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-25. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* Applied Intelligence, 2022. (Under Review)
+25. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Transactions on Automation Science and Engineering, 2022. (Under Review)
 
-24. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Sensors Journal, 2022. (Under Review)
+24. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2022. (Under Review)
 
 23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Under Review)
 
