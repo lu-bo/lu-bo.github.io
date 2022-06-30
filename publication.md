@@ -158,7 +158,9 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-15. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* Medical Image Computing and Computer Assisted Interventions (MICCAI)), 2022. (Accepted)
+16. Kang Song, Yueyuan Zhang, Bo Lu, Wenzheng Chi, Lining Sun, *"UAV Forest Fire Detection based on RepVGG-YOLOv5,"* The 2022 IEEE International Conference on Robotics and Biomimetics (Robio), 2022. (Under Review)
+
+15. Ziyi Wang, **Bo Lu**, Yonghao Long, Fangxun Zhong, Tak Hong Cheung, Qi Dou, Yunhui Liu, *"AutoLap: A New Dataset with Integrated Multi-Tasks towards Image-Guided Surgical Automation in Laparoscopic Hysterectomy,"* Medical Image Computing and Computer Assisted Interventions (MICCAI), 2022. (Accepted)
 
 14. Meiyuan Zou, Jiajie Yu, **Bo Lu**, Wenzheng Chi, Lining Sun, *"Active Pedestrian Detection for Excavator Robots based on Multi-Sensor Fusion"*, The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2022. (Accepted) 
 
