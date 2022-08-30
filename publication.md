@@ -13,12 +13,16 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Under Review)
 
-22. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing ofUnmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"*  Soft Robotics, 2022. (Under Review)
+22. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing of Unmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"*  Soft Robotics, 2022. (Under Review)
 
-21. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Revised and Resubmit)
+21. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Conditionally Accepted)
+
+21. Yiang Lu, Wei Chen, Bin Li, **Bo Lu**, Jianshu Zhou, Yunhui Liu, *"A Robust Graph-Based Framework for 3-D Shape Reconstruction of Flexible Medical Instruments Using Multi-Core FBGs,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Accepted)
+
 
 20. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, and Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Transactions on Biomedical Engineering (T-BME), 2022. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2110.03912){:target="_blank"}{% endif %}
+<img src="/public/image/publication/F8-1-1.pdf" alt="lubo" style="width:38rem;" align="center"> 
 
 19. Jiahao Wu, Wei Chen, Dezhao Guo, Gan Ma, Zerui Wang, Yucheng He, Fangxun Zhong, **Bo Lu**, Yudong Wang, Tak-Hong Cheung, and Yunhui Liu, *"Robot-enabled Uterus Manipulator for Laparoscopic Hysterectomy with Soft RCM Constraints: Design, Control and Evaluation,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9790864){:target="_blank"}{% endif %}
