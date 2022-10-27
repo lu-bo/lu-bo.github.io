@@ -46,7 +46,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 #### Project Experience
 * The National Natural Science Foundation of China, Youth Funding, 2023. Jan ~ 2025. Dec. Total Funding: 300,000 CNY. Role: PI.
 * The Natural Science Foundation of Jiangsu Province, Youth Funding, 2022. Jul ~ 2025. Jun. Total Funding: 200,000 CNY. Role: PI.
-* General Research Funding, Key Laboratory of Jiangsu Province, 2022. Jul ~2025. Jun. Total Funding: 200,000 CNY. Role: PI
+* General Research Funding, Key Laboratory of Jiangsu Province, 2022. Jul ~2025. Jun. Total Funding: 200,000 CNY. Role: PI.
 * Excellent Young Scholar Program of Soochow University, 2021. Oct ~ 2024. Sep. Total Funding: 400,000 CNY. Role: PI.
 * InnoHK, Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ 2021.
 * Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ 2021. 
