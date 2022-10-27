@@ -11,7 +11,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 
 24. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2022. (Under Review)
 
-23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Under Review)
+23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Major Review)
 
 22. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing of Unmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"*  Soft Robotics, 2022. (Under Review)
 
@@ -32,7 +32,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9772402){:target="_blank"}{% endif %}
 <img src="/public/image/publication/RAL_2022_Framework.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-17. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based andPattern-Free Hand-to-Eye Calibration Algorithm forSurgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022.
+17. **Bo Lu**, Bin Li, Qi Dou, Yunhui Liu, *"A Unified Monocular Camera-based and Pattern-Free Hand-to-Eye Calibration Algorithm for Surgical Robots with RCM Constraints,"* IEEE/ASME Transactions on Mechatronics (T-MECH), 2022.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9781386){:target="_blank"}{% endif %}
 <img src="/public/image/publication/TMECH-2022.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
