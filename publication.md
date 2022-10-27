@@ -18,7 +18,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 21. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Conditionally Accepted)
 
 21. Yiang Lu, Wei Chen, Bin Li, **Bo Lu**, Jianshu Zhou, Yunhui Liu, *"A Robust Graph-Based Framework for 3-D Shape Reconstruction of Flexible Medical Instruments Using Multi-Core FBGs,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Accepted)
-
+<img src="/public/image/publication/2022-TMRB-tasksetup.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 20. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, and Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Transactions on Biomedical Engineering (T-BME), 2022. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2110.03912){:target="_blank"}{% endif %}
