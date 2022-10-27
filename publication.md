@@ -28,7 +28,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9790864){:target="_blank"}{% endif %}
 <img src="/public/image/publication/TMRB-2022.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-18. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Ziyi Wang, Fangxun Zhong, Qi Dou, and Yunhui Liu, *"Learning Laparoscope Actions via Video Features for Proactive Robotic Field-of-view Control,"* IEEE Robotics and Automation Letter, 2022. (Accepted)
+18. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Ziyi Wang, Fangxun Zhong, Qi Dou, and Yunhui Liu, *"Learning Laparoscope Actions via Video Features for Proactive Robotic Field-of-view Control,"* IEEE Robotics and Automation Letter (RA-L), 2022. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9772402){:target="_blank"}{% endif %}
 <img src="/public/image/publication/RAL_2022_Framework.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
