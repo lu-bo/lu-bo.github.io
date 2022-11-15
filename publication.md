@@ -3,10 +3,12 @@ layout: page
 title: Publication
 ---
 
-<!-- _<sup>\*</sup> denotes co-first authorship; _ -->
+_<sup>\*</sup> denotes co-first authorship; _
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+26. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Accurate and Efficient 3D Pose Estimation for Arbitrary-shape Needle in Dynamic Scenes Using Visual Learning and Geometry Modeling,"* IEEE Transactions on Neural Networks and Learning System, 2023. (Under Review)
+
 25. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Transactions on Automation Science and Engineering, 2022. (Under Review)
 
 24. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2022. (Under Review)
