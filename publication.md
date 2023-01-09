@@ -7,19 +7,20 @@ _<sup>\*</sup> denotes co-first authorship; _
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-26. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Accurate and Efficient 3D Pose Estimation for Arbitrary-shape Needle in Dynamic Scenes Using Visual Learning and Geometry Modeling,"* IEEE Transactions on Neural Networks and Learning System, 2023. (Under Review)
+27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Accurate and Efficient 3D Pose Estimation for Arbitrary-shape Needle in Dynamic Scenes Using Visual Learning and Geometry Modeling,"* IEEE Transactions on Neural Networks and Learning System, 2023. (Under Review)
 
-25. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Transactions on Automation Science and Engineering, 2022. (Under Review)
+26. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Transactions on Automation Science and Engineering, 2022. (Under Review)
 
-24. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2022. (Under Review)
+25. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2022. (Under Review)
 
-23. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE/ASME Transactions on Mechatronics, 2022. (Major Review)
+24. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing of Unmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"*  Soft Robotics, 2022. (Under Review)
 
-22. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Robust Data-Driven 3-D Shape Servoing of Unmodeled Continuum Robots Using FBG Sensorsin Unstructured Environments,"*  Soft Robotics, 2022. (Under Review)
+23. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Conditionally Accepted)
 
-21. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2022. (Conditionally Accepted)
+22. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE Transactions on Biomedical Engineering (T-BME), 2023. (Accepted)
 
 21. Yiang Lu, Wei Chen, Bin Li, **Bo Lu**, Jianshu Zhou, Yunhui Liu, *"A Robust Graph-Based Framework for 3-D Shape Reconstruction of Flexible Medical Instruments Using Multi-Core FBGs,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10025825){:target="_blank"}{% endif %}
 <img src="/public/image/publication/2022-TMRB-tasksetup.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 20. Ruofeng Wei, Bin Li, Hangjie Mo, **Bo Lu**, Yonghao Long, Bohan Yang, Qi Dou, Yunhui Liu, and Dong Sun, *"Stereo Dense Scene Reconstruction and Accurate Laparoscope Localization for Learning-Based Navigation in Robot-Assisted Surgery,"* IEEE Transactions on Biomedical Engineering (T-BME), 2022.
