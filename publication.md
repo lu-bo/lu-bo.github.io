@@ -3,7 +3,7 @@ layout: page
 title: Publication
 ---
 
-_<sup>\*</sup> denotes co-first authorship; _
+_<sup>\*</sup> denotes co-first authorship; 
 _<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
