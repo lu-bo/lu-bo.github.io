@@ -169,7 +169,7 @@ _<sup>&dagger;</sup> denotes corresponding authorship._
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-17. Yuhao Guo, Tiancheng Zhou, **Bo Lu**<sup>&dagger;</sup>, Feng Zhou, Peng Qi, and Lining Sun, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Disentangling Ability"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. (Organizing Paper)
+17. Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, Feng Zhou, Peng Qi, and Lining Sun, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Visual Feature Disentanglement,"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. (Organizing Paper)
 
 16. Kang Song, Yueyuan Zhang, **Bo Lu**, Wenzheng Chi, Lining Sun, *"UAV Forest Fire Detection based on RepVGG-YOLOv5,"* The 2022 IEEE International Conference on Robotics and Biomimetics (Robio), 2022. (Accepted)
 
