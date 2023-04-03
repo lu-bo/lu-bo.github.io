@@ -4,7 +4,7 @@ title: Publication
 ---
 
 _<sup>\*</sup> denotes co-first authorship; 
-_<sup>&dagger;</sup> denotes corresponding authorship._
+<sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
 29. **Bo Lu**, Tiancheng Zhou, Bin Li, Qiang Xu, Ling Li, Yunhui Liu, Lining Sun, Peng Qi, "*An Autonomous Monocular Camera-based Endoscopic Localization and 3D Scene Visualization Framework for Robotic Navigation in Gastrointestinal Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
