@@ -9,7 +9,7 @@ _<sup>\*</sup> denotes co-first authorship;
 ## Journal
 29. **Bo Lu**, Tiancheng Zhou, Bin Li, Qiang Xu, Ling Li, Yunhui Liu, Lining Sun, Peng Qi, "*An Autonomous Monocular Camera-based Endoscopic Localization and 3D Scene Visualization Framework for Robotic Navigation in Gastrointestinal Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
 
-28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Accurate and Efficient 3D Pose Estimation for Arbitrary-shape Needle in Dynamic Scenes Using Visual Learning and Geometry Modeling,"* IEEE Transactions on Neural Networks and Learning System, 2023. (Under Review)
+28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Automation Science and Engineering, 2023. (Under Review)
 
 27. Jiewen Lai, **Bo Lu**, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE Transactions on Automation Science and Engineering, 2023. (Major Revision)
 
