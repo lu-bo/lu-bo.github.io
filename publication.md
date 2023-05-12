@@ -7,6 +7,8 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+30. Bin Li, Yiang Lu, Wei Chen, Bo Lu, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter, 2023. (Under Review)
+
 29. **Bo Lu**, Tiancheng Zhou, Bin Li, Qiang Xu, Ling Li, Yunhui Liu, Lining Sun, Peng Qi, "*An Autonomous Monocular Camera-based Endoscopic Localization and 3D Scene Visualization Framework for Robotic Navigation in Gastrointestinal Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
 
 28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Automation Science and Engineering, 2023. (Under Review)
@@ -18,7 +20,8 @@ _<sup>\*</sup> denotes co-first authorship;
 25. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"FBG-Based Online Learning and 3-D Shape Control of Unmodeled Continuum and Soft Robots in Unstructured Environments,"*  Soft Robotics, 2023. (Under Review)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2209.05095){:target="_blank"}{% endif %}
 
-24. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2023. (Conditionally Accepted)
+24. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2023. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10122176){:target="_blank"}{% endif %}
 
 23. Meiyuan Zou, Jiajie Yu, Yong Lv, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, *"A Novel Day-to-Night Obstacle Detection Method for Excavators based on Image Enhancement and Multi-sensor Fusion,"* IEEE Sensor Journal, 2023.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10070584){:target="_blank"}{% endif %}

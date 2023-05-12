@@ -32,6 +32,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Academic Service
+* Guest Editor, [Special Issues on "Advanced Technologies in Medical and Surgical Robotics", Sensors](https://www.mdpi.com/journal/sensors/special_issues/03473X09XM).
 * Organizing Committee (Technical) of [5th International Conference on Information Communication and Signal Processing](http://www.icsp.org/index.html).
 * Associate Editor (AE) of IEEE Conference on Robotics and Automation (ICRA) in [2021](http://www.icra2021.org/) and [2022](https://www.icra2022.org/).
 * Reviewer of [IEEE Transactions on Automation Science and Engineering (T-ASE)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856).
@@ -70,6 +71,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Honors and Rewards
+* **Best Student Paper Finalist**, IEEE Conference on Real-time Computing and Robotics (RCAR), 2023.
+* **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
 * **Best Paper Award in Medical Robotics**, IEEE International Conference on Robotics and Automation (ICRA), 2021.
 * The distinction M. S. graduate in PolyU, 2015.
 * The distinguished M. S. academic scholarship in PolyU, 2013 and 2014.
