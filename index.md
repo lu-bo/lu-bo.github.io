@@ -25,6 +25,12 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * B.E. Degree, Naval Architecture & Marine Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
 
 -------------------------------------------------
+### Recent News
+* 2023.07--One of our paper is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
+* 2023.07--One of our paper is selected as **Best Student Paper Finalist** in IEEE RCAR 2023.
+* 2023.06--I am selected as a **Representative of Young Scientist in China** to attent and present in the 8th BRICS Country Forum in South Africa.
+
+-------------------------------------------------
 ### Professional Experience
 #### Academic Position
 * Associate Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2021 ~ Now.

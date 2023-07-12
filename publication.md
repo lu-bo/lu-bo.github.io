@@ -7,7 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-30. Bin Li, Yiang Lu, Wei Chen, Bo Lu, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter, 2023. (Under Review)
+30. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter, 2023. (Under Review)
 
 29. **Bo Lu**, Tiancheng Zhou, Bin Li, Qiang Xu, Ling Li, Yunhui Liu, Lining Sun, Peng Qi, "*An Autonomous Monocular Camera-based Endoscopic Localization and 3D Scene Visualization Framework for Robotic Navigation in Gastrointestinal Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
 
@@ -177,11 +177,11 @@ _<sup>\*</sup> denotes co-first authorship;
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
-19. Peng Qi,Yunfeng Wu,Tianliang Yao, **Bo Lu**, Yi Sun, Jianshen Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (Accepted)
+19. Peng Qi,Yunfeng Wu,Tianliang Yao, **Bo Lu**, Yi Sun, Jianshen Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
 
 18. Yunfeng Wu, Junze Li, **Bo Lu**, Changzhu Zhang, Peng Qi, "*Feature Extraction of Motor Imagination EEG Signals for a Collaborative Exoskeleton Robot Based on PSD Analysis,*" 42nd Chinese Control Conference, 2023. (Accepted)
 
-17. Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, Feng Zhou, Peng Qi, and Lining Sun, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Visual Feature Disentanglement,"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. (Accepted)
+17. Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, Feng Zhou, Peng Qi, and Lining Sun, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Visual Feature Disentanglement,"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. ((**Best Student Paper Finalist**))
 
 16. Kang Song, Yueyuan Zhang, **Bo Lu**, Wenzheng Chi, Lining Sun, *"UAV Forest Fire Detection based on RepVGG-YOLOv5,"* The 2022 IEEE International Conference on Robotics and Biomimetics (Robio), 2022. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10011729){:target="_blank"}{% endif %}  
