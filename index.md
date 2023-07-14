@@ -28,7 +28,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 ### Recent News
 * 2023.07--One of our paper is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
 * 2023.07--One of our paper is selected as **Best Student Paper Finalist** in IEEE RCAR 2023.
-* 2023.06--I am selected as a **Representative of Young Scientist in China** to attent and present in the 8th BRICS Country Forum in South Africa.
+* 2023.06--I am selected as a **Representative of Young Scientists in China** to attend and present in the **8th BRICS Country Forum** in South Africa.
 
 -------------------------------------------------
 ### Professional Experience
