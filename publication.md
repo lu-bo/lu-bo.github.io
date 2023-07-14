@@ -7,6 +7,8 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+31. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
+
 30. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter, 2023. (Under Review)
 
 29. **Bo Lu**, Tiancheng Zhou, Bin Li, Qiang Xu, Ling Li, Yunhui Liu, Lining Sun, Peng Qi, "*An Autonomous Monocular Camera-based Endoscopic Localization and 3D Scene Visualization Framework for Robotic Navigation in Gastrointestinal Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
