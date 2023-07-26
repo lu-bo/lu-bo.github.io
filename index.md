@@ -25,16 +25,38 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * B.E. Degree, Naval Architecture & Marine Engineering, Dalian Univeristy of Technology, China, Sep. 2009 ~ Jul. 2013.
 
 -------------------------------------------------
+### Professional Experience
+#### Academic Position
+* Associate Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2021 ~ Now.
+* Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Sep. 2021. 
+
+-------------------------------------------------
 ### Recent News
 * 2023.07--One of our paper is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
 * 2023.07--One of our paper is selected as **Best Student Paper Finalist** in IEEE RCAR 2023.
 * 2023.06--I am selected as a **Representative of Young Scientists in China** to attend and present in the **8th BRICS Country Forum** in South Africa.
 
 -------------------------------------------------
-### Professional Experience
-#### Academic Position
-* Associate Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2021 ~ Now.
-* Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Sep. 2021. 
+#### Project Experience
+* The National Natural Science Foundation of China, Youth Funding, 2023. Jan ~ 2025. Dec. Total Funding: 300,000 CNY. Role: PI.
+* The Natural Science Foundation of Jiangsu Province, Youth Funding, 2022. Jul ~ 2025. Jun. Total Funding: 200,000 CNY. Role: PI.
+* General Research Funding, Key Laboratory of Jiangsu Province, 2022. Jul ~2025. Jun. Total Funding: 200,000 CNY. Role: PI.
+* Excellent Young Scholar Program of Soochow University, 2021. Oct ~ 2024. Sep. Total Funding: 400,000 CNY. Role: PI.
+* InnoHK, Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ 2021.
+* Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ 2021. 
+* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ 2021.
+* 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Total Research Funding: HK$568,470), 2016 ~ 2019.
+* A Vision-based and Robot-assisted Automated Surgical Knot Tying Using A Dynamical Control System (Research Grant Council of the Hong Kong Special Administrative Region, Participant, Total Research Funding: HK$600,000), 2015 ~ 2018.
+
+-------------------------------------------------
+#### Honors and Rewards
+* **Best Student Paper Finalist**, IEEE Conference on Real-time Computing and Robotics (RCAR), 2023.
+* **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
+* **Best Paper Award in Medical Robotics**, IEEE International Conference on Robotics and Automation (ICRA), 2021.
+* The distinction M. S. graduate in PolyU, 2015.
+* The distinguished M. S. academic scholarship in PolyU, 2013 and 2014.
+* The distinguished B. E. academic scholarship in DLUT, 2011.
+* The distinguished B. E. academic scholarship in DLUT, 2010.
 
 -------------------------------------------------
 #### Academic Service
@@ -50,18 +72,6 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](http://aim2020.org/).
 
 -------------------------------------------------
-#### Project Experience
-* The National Natural Science Foundation of China, Youth Funding, 2023. Jan ~ 2025. Dec. Total Funding: 300,000 CNY. Role: PI.
-* The Natural Science Foundation of Jiangsu Province, Youth Funding, 2022. Jul ~ 2025. Jun. Total Funding: 200,000 CNY. Role: PI.
-* General Research Funding, Key Laboratory of Jiangsu Province, 2022. Jul ~2025. Jun. Total Funding: 200,000 CNY. Role: PI.
-* Excellent Young Scholar Program of Soochow University, 2021. Oct ~ 2024. Sep. Total Funding: 400,000 CNY. Role: PI.
-* InnoHK, Multiscale Medical Robotic Center, Hong Kong SAR, 2020 ~ 2021.
-* Innovative Funding of Shenzhen-Futian and Hong Kong Collaborative Projects, RMB50 millions, 2020 ~ 2021. 
-* Image-guided Automatic Robotic Surgery (Theme-based Research Scheme 2018/19, Participant, Total Research Funding: HK$47.341 millions equivalent to US$6.03 millions), 2019 ~ 2021.
-* 3D fabrication of vascularized tissue constructs through a combined robotic and dielectrophoretic bio-printing system (Early Career Scheme 2016, Participant, Total Research Funding: HK$568,470), 2016 ~ 2019.
-* A Vision-based and Robot-assisted Automated Surgical Knot Tying Using A Dynamical Control System (Research Grant Council of the Hong Kong Special Administrative Region, Participant, Total Research Funding: HK$600,000), 2015 ~ 2018.
-
--------------------------------------------------
 #### Invited Talks
 * **Bo Lu**, Invited talk on *"On the Automated Manipulation of Surgical Kont Tying under Online Visual Guidance,"* International Formum of Medical Robotics, Shanghai Jiaotong University, Dec, 2021.
 * **Bo Lu**, Sharing talk, *"Towards Developments of Intelligent Assistive Systems for Automated Robotic Surgery,"* Soochow University, Nov, 2021.
@@ -74,16 +84,6 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * MPhil. Thesis Defense entitled "Ray-based Interference Free Workspace Analysis and Path Planning for Cable-Driven Robots" in January 2019
 * Ph.D. Thesis Defense entitled "Proprioception-Aided Visual State Estimation for Mobile Robots" in April 2019
 -->
-
--------------------------------------------------
-#### Honors and Rewards
-* **Best Student Paper Finalist**, IEEE Conference on Real-time Computing and Robotics (RCAR), 2023.
-* **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
-* **Best Paper Award in Medical Robotics**, IEEE International Conference on Robotics and Automation (ICRA), 2021.
-* The distinction M. S. graduate in PolyU, 2015.
-* The distinguished M. S. academic scholarship in PolyU, 2013 and 2014.
-* The distinguished B. E. academic scholarship in DLUT, 2011.
-* The distinguished B. E. academic scholarship in DLUT, 2010.
 
 -------------------------------------------------
 #### Teaching Assistance
