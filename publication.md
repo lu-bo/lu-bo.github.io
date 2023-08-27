@@ -7,7 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-31. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Bin Li, Ling Li, Yu Wang, Peng Qi, Yunhui Liu, and Lining Sun, "*{MIGUEL}-Net: A \textit{M}onocular \textit{I}mage-\textit{GU}ided D\textit{E}pth \textit{L}ocalization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
+31. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Bin Li, Ling Li, Yu Wang, Peng Qi, Yunhui Liu, and Lining Sun, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), 2023.
 
 30. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
 
