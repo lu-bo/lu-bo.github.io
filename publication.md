@@ -184,7 +184,7 @@ _<sup>\*</sup> denotes co-first authorship;
 
 18. Yunfeng Wu, Junze Li, **Bo Lu**, Changzhu Zhang, Peng Qi, "*Feature Extraction of Motor Imagination EEG Signals for a Collaborative Exoskeleton Robot Based on PSD Analysis,*" 42nd Chinese Control Conference, 2023. (Accepted)
 
-17. Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, Feng Zhou, Peng Qi, and Lining Sun, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Visual Feature Disentanglement,"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. (**Best Student Paper Finalist**)
+17. Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Visual Feature Disentanglement,"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. (**Best Student Paper Finalist**)
 
 16. Kang Song, Yueyuan Zhang, **Bo Lu**, Wenzheng Chi, Lining Sun, *"UAV Forest Fire Detection based on RepVGG-YOLOv5,"* The 2022 IEEE International Conference on Robotics and Biomimetics (Robio), 2022. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10011729){:target="_blank"}{% endif %}  
