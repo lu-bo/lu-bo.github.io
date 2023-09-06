@@ -19,7 +19,7 @@ _<sup>\*</sup> denotes co-first authorship;
 
 26. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2023. (Under Review)
 
-25. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2023. (Accepted)
+25. Yiang Lu, Wei Chen, **Bo Lu**<sup>&dagger;</sup>, Jianshu Zhou, Zhi Chen, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2209.05095){:target="_blank"}{% endif %}
 
 24. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2023. (Accepted)
