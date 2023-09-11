@@ -11,7 +11,7 @@ _<sup>\*</sup> denotes co-first authorship;
 
 30. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
 
-29. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter, 2023. (Under Review)
+29. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter, 2023. (Major Revision)
 
 28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Automation Science and Engineering, 2023. (Under Review)
 
@@ -178,13 +178,16 @@ _<sup>\*</sup> denotes co-first authorship;
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-20. Chenyang Cao, Xujun Xu, Xiaofei Gong, **Bo Lu**, Wenzheng Chi, Lining Sun, "*ANMIP: Adaptive Navigation based on Mutual Information Perception in Uncertain Environments,*" IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023. (Under Review)
+20. Chenyang Cao, Xujun Xu, Xiaofei Gong, **Bo Lu**, Wenzheng Chi, Lining Sun, "*ANMIP: Adaptive Navigation based on Mutual Information Perception in Uncertain Environments,*" IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023. (Accepted)
 
 19. Peng Qi,Yunfeng Wu,Tianliang Yao, **Bo Lu**, Yi Sun, Jianshen Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10218965?casa_token=gevYA-fZFX0AAAAA:NxSOAxnbZlpJppvqL68S4NX9EBqnUrf_P5qxtLkn_DrRp5Xxzm1CC3BbNTVsX4joc3H_sQwqctU){:target="_blank"}{% endif %}  
 
 18. Yunfeng Wu, Junze Li, **Bo Lu**, Changzhu Zhang, Peng Qi, "*Feature Extraction of Motor Imagination EEG Signals for a Collaborative Exoskeleton Robot Based on PSD Analysis,*" 42nd Chinese Control Conference, 2023. (Accepted)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10239884?casa_token=Jy3v9BXeA9IAAAAA:a6qnxL_D917m97qAX_bqngEDIjzwzr3AJFF-kD1FnmiOMDueLKXT1M3wBDyFQebLwa_3_0VB3kA){:target="_blank"}{% endif %}  
 
 17. Yuhao Guo, Tiancheng Zhou, Wenzheng Chi, Feng Zhou, Peng Qi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"SIT-Net: Surgical Image Translation Network Using a Generative Adversarial Method with Visual Feature Disentanglement,"* The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2023. (**Best Student Paper Finalist**)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10249868){:target="_blank"}{% endif %}  
 
 16. Kang Song, Yueyuan Zhang, **Bo Lu**, Wenzheng Chi, Lining Sun, *"UAV Forest Fire Detection based on RepVGG-YOLOv5,"* The 2022 IEEE International Conference on Robotics and Biomimetics (Robio), 2022. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10011729){:target="_blank"}{% endif %}  
