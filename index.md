@@ -32,12 +32,17 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 ### Recent News
+* 2023.10--Selected as Youth Recruitment Talents-Automation Society of China-Chinese Association for Science and Technology (中国科协自动化学会青年托举人才)
+* 2023.08--Approved of Yong Innovative Leader Project of Suzhou City (苏州市青年创新领军人才)
 * 2023.07--One of our paper is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
 * 2023.07--One of our paper is selected as **Best Student Paper Finalist** in IEEE RCAR 2023.
 * 2023.06--I am selected as a **Representative of Young Scientists in China** to attend and present in the **8th BRICS Country Forum** in South Africa.
 
 -------------------------------------------------
 #### Project Experience
+* Project of Youth Recruitment Talents of Chinese Association for Science and Technology, 2023. Nov ~ 2026. Oct. Total Funding: 300,000 CNY, Role: PI.
+* Yong Innovative Leader Project of Suzhou City, 2023. Oct ~ 2026. SeSep. Total Funding: 500,000 CNY. Role: PI.
+* Innovative Project of Key Laboratory in Jiangsu Province, 2023. Jan ~ 2025. Dec. Total Funding: 1,000,000 CNY. Role: Co-PI. 
 * The National Natural Science Foundation of China, Youth Funding, 2023. Jan ~ 2025. Dec. Total Funding: 300,000 CNY. Role: PI.
 * The Natural Science Foundation of Jiangsu Province, Youth Funding, 2022. Jul ~ 2025. Jun. Total Funding: 200,000 CNY. Role: PI.
 * General Research Funding, Key Laboratory of Jiangsu Province, 2022. Jul ~2025. Jun. Total Funding: 200,000 CNY. Role: PI.
@@ -50,6 +55,8 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Honors and Rewards
+* Youth Recruitment Talents-Automation Society of China-Chinese Association for Science and Technology, 2023.
+* Yong Innovative Leader Project of Suzhou City, 2023.
 * **Best Student Paper Finalist**, IEEE Conference on Real-time Computing and Robotics (RCAR), 2023.
 * **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
 * **Best Paper Award in Medical Robotics**, IEEE International Conference on Robotics and Automation (ICRA), 2021.
@@ -67,7 +74,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of [IEEE/ASME Transactions on Mechatronics (T-MECH)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=3516).
 * Reviewer of [IEEE Robotics and Automation Letter (RA-L)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7083369).
 * Reviewer of [Frontiers in Robotics and AI](https://www.frontiersin.org/journals/robotics-and-ai).
-* Reviewer of IEEE Conference on Robotics and Automation (ICRA) in [2018](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html), [2019](https://www.icra2019.org/), [2020](https://www.icra2020.org/).
+* Reviewer of IEEE Conference on Robotics and Automation (ICRA) in [2018](https://ewh.ieee.org/soc/ras/conf/fullysponsored/icra/2018/ICRA2018/icra2018.org/index.html), [2019](https://www.icra2019.org/), [2020](https://www.icra2020.org/), [2024](https://2024.ieee-icra.org/).
 * Reviewer of IEEE Conference on Intelligent Robots and Systems (IROS) in [2020](https://www.iros2020.org/).
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](http://aim2020.org/).
 
