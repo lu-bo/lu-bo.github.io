@@ -24,12 +24,15 @@ _<sup>\*</sup> denotes co-first authorship;
 
 24. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10122176){:target="_blank"}{% endif %}
+<img src="/public/image/publication/2023-TRO.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 23. Meiyuan Zou, Jiajie Yu, Yong Lv, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, *"A Novel Day-to-Night Obstacle Detection Method for Excavators based on Image Enhancement and Multi-sensor Fusion,"* IEEE Sensor Journal, 2023.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10070584){:target="_blank"}{% endif %}
 
+
 22. Jiahao Wu, Taowang Wang, Huanhuan Guo, Yaqing Wang, Dezhao Guo, **Bo Lu**, Ziyi Wang, Fangxun Zhong, Hesheng Wang, Jiangjing Yuan, Yuhong Li, Tak-Hong Cheung, Yudong Wang, and Yunhui Liu, *"Design, Control, and Experiments of A Novel Robotic Uterine Manipulator with the Motorized 3-DoF Manipulation Rod,"* IEEE Transactions on Biomedical Engineering (T-BME), 2023.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10038654){:target="_blank"}{% endif %}
+<img src="/public/image/publication/2023-TMBE-robot.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 21. Yiang Lu, Wei Chen, Bin Li, **Bo Lu**, Jianshu Zhou, Yunhui Liu, *"A Robust Graph-Based Framework for 3-D Shape Reconstruction of Flexible Medical Instruments Using Multi-Core FBGs,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2022.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10025825){:target="_blank"}{% endif %}
