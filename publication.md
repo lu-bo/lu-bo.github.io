@@ -7,17 +7,19 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+
 31. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Bin Li, Ling Li, Yu Wang, Peng Qi, Yunhui Liu, and Lining Sun, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" Medical Image Analysis (MedIA), 2023. (Under Review)
 
 30. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
 
-29. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter (RA-L), 2023. (Major Revision)
+29. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2023. (Under Review)
 
-28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2023. (Under Review)
+28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2023. (Minor Revision)
 
-27. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Major Revision)
+27. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Minor Revision)
 
-26. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2023. (Under Review)
+26. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter (RA-L), 2023.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10387684?casa_token=6omraFq5MoAAAAAA:FAXBAQfgpWOKSkcTCDwwHMk_6HEW5g-eQiJL2hKVEE_nGhnnPaKntov0ukRqd3WJR5pLvPzFxOw){:target="_blank"}{% endif %}
 
 25. Yiang Lu, Wei Chen, **Bo Lu**, Jianshu Zhou, Zhi Chen, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2209.05095){:target="_blank"}{% endif %}
