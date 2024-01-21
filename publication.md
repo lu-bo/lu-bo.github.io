@@ -14,9 +14,9 @@ _<sup>\*</sup> denotes co-first authorship;
 
 29. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2023. (Under Review)
 
-28. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2023. (Minor Revision)
+28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Minor Revision)
 
-27. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Minor Revision)
+27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2023. (Accepted)
 
 26. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter (RA-L), 2023.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10387684?casa_token=6omraFq5MoAAAAAA:FAXBAQfgpWOKSkcTCDwwHMk_6HEW5g-eQiJL2hKVEE_nGhnnPaKntov0ukRqd3WJR5pLvPzFxOw){:target="_blank"}{% endif %}
@@ -206,16 +206,16 @@ _<sup>\*</sup> denotes co-first authorship;
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9812010?casa_token=CpHKJaVQ8M0AAAAA:FYnIaLHszlI3mB-ffxBQSerl2xLm4jrxkryvS4-rdTEOKhyEHDhOxDrVpbBkXhqR032kYHXbmw){:target="_blank"}{% endif %}
 
 12. Jiaqi Xu, Bin Li, **Bo Lu**, Yun-Hui Liu, Qi Dou, Pheng Ann Heng, *"SurRoL: An Open-source RL Centered and dVRK Compatibale Platform for Surgical Robot Learning,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
-{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2108.13035){:target="_blank"}{% endif %}  
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9635867){:target="_blank"}{% endif %}  
 
 11. Bin Li, **Bo Lu**<sup>&dagger;</sup>, Yiang Lu, Qi Dou, and Yun-Hui Liu, *“Data-driven Holistic Framework for Automated Laparoscope Optimal View Control with Learning-based Depth Perception,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021.
-{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2011.11241){:target="_blank"}{% endif %}  
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9562083/){:target="_blank"}{% endif %}  
 
 10. Yonghao Long, Jie Ying Wu, **Bo Lu**, Yueming Jin, Mathias Unberath, Yun-Hui Liu, Pheng-Ann Heng and Qi Dou, *“Relating Multi-modal Embeddings for Accurate Gesture Recognition in Robotic Surgery via Graph Neural Networks,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Accepted, **Best Paper Award of ICRA 2021 in Medical Robotics**)
-{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2011.01619){:target="_blank"}{% endif %}  
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9561028){:target="_blank"}{% endif %}  
 
 9. Zixu Zhao, Yueming Jin, **Bo Lu**, Chi-Fai Ng, Qi Dou, Yunhui Liu, and Pheng-Ann Heng, *“One to Many: Adaptive Instrument Segmentation via Meta Learning and Dynamic Online Adaptation in Robotic Surgical Videos,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021.
-{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2103.12988){:target="_blank"}{% endif %}  
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9561690){:target="_blank"}{% endif %}  
 
 8. **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Yue-ming Jin, Dandan Zhang, Qi Dou, Henry K. Chu, Pheng-Ann Heng, Yun-Hui Liu, *“A Learning-Driven Framework with Spatial Optimization For Surgical Suture Thread Reconstruction and Autonomous Grasping Under Multiple Topologies and Environmental Noises,”* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2020.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9341445){:target="_blank"}{% endif %}  
