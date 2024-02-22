@@ -7,12 +7,13 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+32. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Under Review)
 
-31. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Bin Li, Ling Li, Yu Wang, Peng Qi, Yunhui Liu, and Lining Sun, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" Medical Image Analysis (MedIA), 2023. (Under Review)
+31. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" IEEE Robotics and Automation Letter, 2024. (Under Review)
 
-30. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
+30. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Bin Li, Ling Li, Yu Wang, Peng Qi, Yunhui Liu, and Lining Sun, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" Medical Image Analysis (MedIA), 2023. (Under Review)
 
-29. Huijie Zhang, Sunzhen Sun, **Bo Lu**, Ling Lu, and Ruqiang Yan, *"Pyramid Residual Convolution Neural Network with Multi-scale Attention for Finger Vein Recognition,"* IET Biometrics, 2023. (Under Review)
+29. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
 
 28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Minor Revision)
 
@@ -182,6 +183,8 @@ _<sup>\*</sup> denotes co-first authorship;
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
+21. Peng Qi, Zeyuan Gao, Bulbul Islam, **Bo Lu**<sup>&dagger;</sup>, "*Advancing the Accuracy of Venous Puncture Robotics through the Fusion of Force Sensing and Ultrasound*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.(Under Review)
+
 20. Chenyang Cao, Xujun Xu, Xiaofei Gong, **Bo Lu**, Wenzheng Chi, Lining Sun, "*ANMIP: Adaptive Navigation based on Mutual Information Perception in Uncertain Environments,*" IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023. (Accepted)
 
 19. Peng Qi,Yunfeng Wu,Tianliang Yao, **Bo Lu**, Yi Sun, Jianshen Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
