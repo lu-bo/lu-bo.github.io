@@ -183,7 +183,10 @@ _<sup>\*</sup> denotes co-first authorship;
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-21. Peng Qi, Zeyuan Gao, Bulbul Islam, **Bo Lu**<sup>&dagger;</sup>, "*Advancing the Accuracy of Venous Puncture Robotics through the Fusion of Force Sensing and Ultrasound*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024.(Under Review)
+
+22. Zhenxi Cui, Jiewen Lai, **Bo Lu**, Yi Guo, and Henry K. Chu, "*Human-Robot Cooperative Transportation of Elastic Linear Objects using Feature Points,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2024. (Under Review)
+
+21. Peng Qi, Zeyuan Gao, Bulbul Islam, **Bo Lu**<sup>&dagger;</sup>, "*Advancing the Accuracy of Venous Puncture Robotics through the Fusion of Force Sensing and Ultrasound,*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2024. (Under Review)
 
 20. Chenyang Cao, Xujun Xu, Xiaofei Gong, **Bo Lu**, Wenzheng Chi, Lining Sun, "*ANMIP: Adaptive Navigation based on Mutual Information Perception in Uncertain Environments,*" IEEE International Conference on Robotics and Biomimetics (ROBIO), 2023. (Accepted)
 
