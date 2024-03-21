@@ -17,15 +17,16 @@ _<sup>\*</sup> denotes co-first authorship;
 
 29. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" Expert System with Application, 2023. (Under Revieew)
 
-28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Minor Revision)
+28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
 
-27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approac,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2023. (Accepted)
+27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approach,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2023. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10472639/){:target="_blank"}{% endif %}
 
 26. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter (RA-L), 2023.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10387684?casa_token=6omraFq5MoAAAAAA:FAXBAQfgpWOKSkcTCDwwHMk_6HEW5g-eQiJL2hKVEE_nGhnnPaKntov0ukRqd3WJR5pLvPzFxOw){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10387684){:target="_blank"}{% endif %}
 
 25. Yiang Lu, Wei Chen, **Bo Lu**, Jianshu Zhou, Zhi Chen, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2023. (Accepted)
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2209.05095){:target="_blank"}{% endif %}
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.liebertpub.com/doi/abs/10.1089/soro.2022.0158){:target="_blank"}{% endif %}
 
 24. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10122176){:target="_blank"}{% endif %}
