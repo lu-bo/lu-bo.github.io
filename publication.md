@@ -7,6 +7,8 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+33. Chao Liu, Guodong Chen, Qian Wang, **Bo Lu**, Huan Shen, Lining Sun, Kejun Wang, "*A Study on The Aerodynamic Behaviors Learned from Microscopy Imaging of Beetle Corrugated Hindwing,*" Microscopy Research and Technique, 2024. (Under Review)
+
 32. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Under Review)
 
 31. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" IEEE Robotics and Automation Letter, 2024. (Under Review)
