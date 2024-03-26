@@ -7,14 +7,14 @@ permalink:        pretty
 
 # Setup
 title:            Bo Lu
-tagline:          'From dreams to realities.'
-description:      'From Dreams,<br>To Realities.'
+tagline:          'Creating More Possibilities.'
+description:      'Creating More <br>To Possibilities.'
 url:              https://lu-bo.github.io/
 
 
 author:
   name:           'Bo Lu'
-  email:          bolu@cuhk.edu.hk
+  email:          blu@suda.edu.cn
 
 paginate:         3
 paginate_path: "blog/page:num"
@@ -27,7 +27,7 @@ google_analytics:       UA-63207330-1
 emailme:                mailto:blu@suda.edu.cn
 github:
   repo:                  https://github.com/lu-bo/LuBo.github.io
-version:                Oct. 12, 2023
+version:                Apr. 21, 2024
 googlescholar_username: ENPRTpcAAAAJ&hl=en
 orcid_username:        0000-0002-2858-1121
 #researcherid_username:  R-3094-2018 
