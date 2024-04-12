@@ -7,6 +7,8 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+35. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics, 2024. (Under Review)
+
 34. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Mechanical Performance Investigation of Bionic Wing Based on the Flapping Kinematics of The Beetle Hindwings,*" Biomimetics, 2024. (Under Review)
 
 33. Chao Liu, Guodong Chen, Qian Wang, **Bo Lu**, Huan Shen, Lining Sun, Kejun Wang, "*A Study on The Aerodynamic Behaviors Learned from Microscopy Imaging of Beetle Corrugated Hindwing,*" Microscopy Research and Technique, 2024. (Under Review)
