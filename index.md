@@ -67,6 +67,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 
 -------------------------------------------------
 #### Academic Service
+* Early Career Editorial Board Member of [Biomimetic Intelligence and Robotics (BIRob)](https://www.sciencedirect.com/journal/biomimetic-intelligence-and-robotics)
 * Guest Editor, [Special Issues on "Advanced Technologies in Medical and Surgical Robotics", Sensors](https://www.mdpi.com/journal/sensors/special_issues/03473X09XM).
 * Organizing Committee (Technical) of [5th International Conference on Information Communication and Signal Processing](http://www.icsp.org/index.html).
 * Associate Editor (AE) of IEEE Conference on Robotics and Automation (ICRA) in [2021](http://www.icra2021.org/) and [2022](https://www.icra2022.org/).
