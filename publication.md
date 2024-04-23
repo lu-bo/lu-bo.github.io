@@ -26,6 +26,11 @@ _<sup>\*</sup> denotes co-first authorship;
 28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
 
+28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"A Steerable Soft-Bodied Robot Based On Real-Time Gesture Control,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2024. (Accepted)
+
+28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
+
 27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approach,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10472639/){:target="_blank"}{% endif %}
 
