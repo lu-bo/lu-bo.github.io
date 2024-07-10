@@ -20,12 +20,15 @@ _<sup>\*</sup> denotes co-first authorship;
 
 32. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Lining Sun, and Peng Qi, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Medical Imaging (MedIA), 2024. (Under Review)
 
+<<<<<<< HEAD
 31. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Under Revieew)
 
 30. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Mechanical Performance Investigation of Bionic Wing Based on the Flapping Kinematics of The Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
 
 29. Chao Liu, Guodong Chen, Qian Wang, **Bo Lu**, Huan Shen, Lining Sun, Kejun Wang, "*A Study on The Aerodynamic Behaviors Learned from Microscopy Imaging of Beetle Corrugated Hindwing,*" Microscopy Research and Technique, 2024. (Accepted)
 
+=======
+>>>>>>> cecc2a3f31544cb46da107380d136eeee567c8e4
 28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
 
