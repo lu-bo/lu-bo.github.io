@@ -8,23 +8,21 @@ _<sup>\*</sup> denotes co-first authorship;
 
 ## Journal
 
-37. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
+36. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
 
-36. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Major Revision)
+35. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Major Revision)
 
-35. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2024. (Revise and Resubmit)
+34. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2024. (Revise and Resubmit)
 
-34. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Major Revision)
+33. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Major Revision)
 
-33. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Lining Sun, and Peng Qi, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Medical Imaging (TMI), 2024. (Under Review)
+32. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Lining Sun, and Peng Qi, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Medical Imaging (TMI), 2024. (Under Review)
 
-32. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Under Revieew)
+31. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Under Revieew)
 
-31. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**<sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" Microsystems & Nanoengineering, 2024. (Accepted)
+30. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**<sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" Microsystems & Nanoengineering, 2024. (Accepted)
 
-30. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Mechanical Performance Investigation of Bionic Wing Based on the Flapping Kinematics of The Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
-
-29. Chao Liu, Guodong Chen, Qian Wang, **Bo Lu**, Huan Shen, Lining Sun, Kejun Wang, "*A Study on The Aerodynamic Behaviors Learned from Microscopy Imaging of Beetle Corrugated Hindwing,*" Microscopy Research and Technique, 2024. (Accepted)
+29. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Mechanical Performance Investigation of Bionic Wing Based on the Flapping Kinematics of The Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
 
 28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
