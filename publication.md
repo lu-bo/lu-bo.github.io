@@ -7,6 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+37. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2024. (Under Review)
 
 36. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
 
