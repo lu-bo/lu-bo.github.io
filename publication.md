@@ -10,7 +10,7 @@ _<sup>\*</sup> denotes co-first authorship;
 
 37. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
 
-36. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Under Review)
+36. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Major Revision)
 
 35. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2024. (Revise and Resubmit)
 
