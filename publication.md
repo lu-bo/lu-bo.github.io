@@ -7,7 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-37. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2024. (Under Review)
+37. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2024. (Revise and Resubmit)
 
 36. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
 
@@ -22,8 +22,10 @@ _<sup>\*</sup> denotes co-first authorship;
 31. **Bo Lu**, Long Chen, Long Sun, Xinrong Yang, Haiyan Tian, Li Ma, Fengfeng Zhang, and Lining Sun, "*A method for localization of liver tumors based on synergistic constraints of surface and internal vessels of the liver,*" IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Under Revieew)
 
 30. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**<sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" Microsystems & Nanoengineering, 2024. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.nature.com/articles/s41378-024-00774-6){:target="_blank"}{% endif %}
 
-29. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Mechanical Performance Investigation of Bionic Wing Based on the Flapping Kinematics of The Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
+29. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Investigating the Mechanical Performance of BionicWings Based on the Flapping Kinematics of Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.mdpi.com/2313-7673/9/6/343){:target="_blank"}{% endif %}
 
 28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
