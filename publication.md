@@ -7,6 +7,8 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
+40. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2024. (Under Review)
+
 39. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Fangxun Zhong, Qi Dou, and Yunhui Liu, "*AI Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy,*" Science Robotics, 2024. (Under Review)
 
 38. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Under Review)
@@ -31,7 +33,7 @@ _<sup>\*</sup> denotes co-first authorship;
 29. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Investigating the Mechanical Performance of BionicWings Based on the Flapping Kinematics of Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.mdpi.com/2313-7673/9/6/343){:target="_blank"}{% endif %}
 
-28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2023. (Accepted)
+28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
 
 27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approach,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Accepted)
