@@ -7,7 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-39. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Fangxun Zhong, Qi Dou, and Yunhui Liu, "**AI Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy," Science Robotics, 2024. (Under Review)
+39. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Fangxun Zhong, Qi Dou, and Yunhui Liu, "*AI Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy,*" Science Robotics, 2024. (Under Review)
 
 38. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Under Review)
 
