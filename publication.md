@@ -19,13 +19,13 @@ _<sup>\*</sup> denotes co-first authorship;
 
 34. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
 
-33. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Major Revision)
+33. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Minor Revision)
 
-32. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Minor Revision)
-
-31. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Major Revision)
+32. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Major Revision)
 
 <!--31. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Lining Sun, and Peng Qi, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Medical Imaging (TMI), 2025. (Under Review)-->
+31. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10797692){:target="_blank"}{% endif %}
 
 30. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**<sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" Microsystems & Nanoengineering, 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.nature.com/articles/s41378-024-00774-6){:target="_blank"}{% endif %}
