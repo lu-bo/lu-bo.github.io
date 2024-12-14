@@ -7,17 +7,17 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-38. Tianliang Yao, Haoyu Wang, **Bo Lu**, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures,*" IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (Under Review)
+38. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
 
-37. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Under Review)
+37. Tianliang Yao, Haoyu Wang, **Bo Lu**, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures,*" IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (Under Review)
+
+36. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Under Review)
 
 <!--38. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Fangxun Zhong, Qi Dou, and Yunhui Liu, "*AI Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy,*" Science Robotics, 2024. (Under Review)-->
 
-36. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Under Review)
+35. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Under Review)
 
-35. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
-
-34. Chao Liu, Tianyu Shen, Huan Shen, **Bo Lu**, Lining Sun, Wenzheng Chi, and Guodong Chen, "*Mimicking nature's insects: A Review of Bio-Inspired Flapping-Wing Micro Robots (FWMRs),*" Arthropod Structure and Development, 2024. (Under Review)
+34. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
 
 33. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Minor Revision)
 
