@@ -7,7 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-38. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
+38. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
 
 37. Tianliang Yao, Haoyu Wang, **Bo Lu**, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures,*" IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (Under Review)
 
