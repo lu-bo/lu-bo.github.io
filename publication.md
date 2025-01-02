@@ -13,8 +13,6 @@ _<sup>\*</sup> denotes co-first authorship;
 
 36. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Under Review)
 
-<!--38. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Fangxun Zhong, Qi Dou, and Yunhui Liu, "*AI Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy,*" Science Robotics, 2024. (Under Review)-->
-
 35. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Under Review)
 
 34. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
@@ -23,7 +21,6 @@ _<sup>\*</sup> denotes co-first authorship;
 
 32. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Major Revision)
 
-<!--31. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Lining Sun, and Peng Qi, "*MIGUEL-Net: A Monocular Image-Guided Depth Localization Network for Robotic Navigation in Endoscopic Submucosal Dissection,*" IEEE Transactions on Medical Imaging (TMI), 2025. (Under Review)-->
 31. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10797692){:target="_blank"}{% endif %}
 
