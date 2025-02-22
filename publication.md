@@ -202,7 +202,7 @@ _<sup>\*</sup> denotes co-first authorship;
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
-23. Tianliang Yao, Jingwei Song, Madaoji Ban, Bo LU, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
+23. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
 
 22. Yinxi Chen, Zhan Yang, **Bo Lu**, and Xinjian Fan, "*Miniature Soft Robots Capable of Multiform and Multimodal Locamotion,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2024. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10671351){:target="_blank"}{% endif %}  
