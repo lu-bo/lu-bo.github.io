@@ -7,7 +7,7 @@ _<sup>\*</sup> denotes co-first authorship;
 <sup>&dagger;</sup> denotes corresponding authorship._
 
 ## Journal
-39. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (Under Review)
+39. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (Major Revision)
 
 38. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (Under Review)
 
@@ -207,6 +207,9 @@ _<sup>\*</sup> denotes co-first authorship;
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
+25. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Under Review)
+
+24. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Under Review)
 
 23. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
 
