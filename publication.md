@@ -4,22 +4,22 @@ title: Publication
 ---
 
 _<sup>\*</sup> denotes co-first authorship; 
-<sup>&dagger;</sup> denotes corresponding authorship._
+<sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-39. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (Major Revision)
+40. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" Nature Review of Electrical Engineering, 2025. (Under Review)
 
-38. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (Under Review)
+39. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (Major Revision)
 
-37. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
+38. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (Revise and Resubmit)
 
-36. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Revise and Resubmit)
+37. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
 
-35. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Revise and Resubmit)
+36. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2024. (Revise and Resubmit)
 
-34. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
+35. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
 
-<!--34. Xiangyu Guo, Antian Zhao, Youchao Zhang, Huanyu Jiang, Longhua Tang, **Bo Lu**, Yibin Ying, Mingchuan Zhou, "*Design and Developing a Robot-assisted Cell Batch Microinjection System for Zebrafish Embryo,*" Microsystems & Nanoengineering, 2024. (Major Revision)-->
+34. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Accepted)
 
 33. Tianliang Yao, Haoyu Wang, **Bo Lu**, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures,*" IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10945450){:target="_blank"}{% endif %}
@@ -207,9 +207,11 @@ _<sup>\*</sup> denotes co-first authorship;
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
-25. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Under Review)
+26. Tianliang Yao, li Bingrui, **Bo Lu**, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions,*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (Under Review)
 
-24. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Under Review)
+25. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (UAccepted)
+
+24. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Accepted)
 
 23. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
 
