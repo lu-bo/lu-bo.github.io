@@ -7,7 +7,7 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-42. 41. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in Puncture Surgical Robots: A Systematic Review,*" Cyborg and Bionic Systems, 2025. (Under Review)
+42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in Puncture Surgical Robots: A Systematic Review,*" Cyborg and Bionic Systems, 2025. (Under Review)
 
 41. Anonymous, "*The Touch-Code Glove: a multimodal mapping interface with triboelectric-digital encoding for intuitive robot training,*" Advanced Functional Material, 2025. (Under Review) 
 
