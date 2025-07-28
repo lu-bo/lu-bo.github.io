@@ -20,8 +20,10 @@ title: Publication
 37. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Major Revision)
 
 36. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (Accepte)
+<img src="/public/image/publication/J36-JBHI.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 35. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (Accepted)
+<img src="/public/image/publication/J35-BIROB.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 34. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11039056){:target="_blank"}{% endif %}
