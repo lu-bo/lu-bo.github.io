@@ -101,7 +101,7 @@ title: Publication
 
 15. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg, *"PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Revised and Resubmit)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2109.04869){:target="_blank"}{% endif %}
-<img src="/public/image/publication/pp_framework.png" alt="lubo" style="width:38rem;" align="center"/> 
+<img src="/public/image/publication/J15-RAL.png" alt="lubo" style="width:38rem;" align="center"/> 
 
 14. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *"Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework,"* IEEE Transactions on Automation Science and Engineering (T-ASE), 2021.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/9664632){:target="_blank"}{% endif %}
