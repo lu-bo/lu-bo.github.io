@@ -43,15 +43,19 @@ title: Publication
 
 28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
+<img src="/public/image/publication/J28-TMECH.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approach,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10472639/){:target="_blank"}{% endif %}
+<img src="/public/image/publication/J27-TMRB.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 26. Bin Li, Yiang Lu, Wei Chen, **Bo Lu**, Fangxun Zhong, Qi Dou, Yunhui Liu, "*GMM-based Heuristic Decision Framework for Safe Automated Laparoscope Control,*" IEEE Robotics and Automation Letter (RA-L), 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10387684){:target="_blank"}{% endif %}
+<img src="/public/image/publication/J26-RAL.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 25. Yiang Lu, Wei Chen, **Bo Lu**, Jianshu Zhou, Zhi Chen, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2024. (Accepted)
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.liebertpub.com/doi/abs/10.1089/soro.2022.0158){:target="_blank"}{% endif %}
+<img src="/public/image/publication/J25-SORO.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 24. Bohan Yang, **Bo Lu**, Wei Chen, Fangxun Zhong, Yunhui Liu, *"Model-Free 3D Shape Control of Deformable Objects Using Novel Features Based on Modal Analysis,"* IEEE Transactions on Robotics (T-RO), 2023.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/10122176){:target="_blank"}{% endif %}
