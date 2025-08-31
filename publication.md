@@ -7,6 +7,8 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
+45. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Biosensors and Bioelectronics, 2025. (Under Review)
+
 44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Bin Li, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
 
 43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2025. (Under Review)
