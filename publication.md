@@ -7,13 +7,13 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Bin Li, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ******,*" IEEE/ASME Transactions on Mechatronics, 2025.
+44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Bin Li, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
 
-43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization with In-Vivo Validation,*" IEEE Transactions on Robotics, 2025. (Under Review)
+43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2025. (Under Review)
 
-42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in Puncture Surgical Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2025. (Under Review)
+42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2025. (Under Review)
 
-41. Yuyang Sun, Dongsheng Li, Ruxiao Yang, Zhicun Zhou, Tianci Ji, **Bo Lu**<sup>&dagger;</sup>, Lining Sun, Huicong Liu, "*The Touch-Code Glove: a multimodal mapping interface with triboelectric-digital encoding for intuitive robot training,*" Soft Science, 2025. (Major Revision) 
+41. Yuyang Sun, Dongsheng Li, Ruxiao Yang, Zhicun Zhou, Tianci Ji, **Bo Lu**<sup>&dagger;</sup>, Lining Sun, Huicong Liu, "*The Touch-Code Glove: A Multimodal Mapping Interface with Triboelectric-digital Encoding for Intuitive Robot Training,*" Soft Science, 2025. (Major Revision) 
 
 40. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025. (Major Revision)
 
