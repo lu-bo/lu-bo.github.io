@@ -9,21 +9,22 @@ title: Publication
 ## Journal
 45. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Biosensors and Bioelectronics, 2025. (Under Review)
 
-44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Bin Li, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE/ASME Transactions on Mechatronics, 2025. (Under Review)
+44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Bin Li, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Industrial Informatics, 2025. (Under Review)
 
 43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2025. (Under Review)
 
 42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2025. (Under Review)
 
-41. Yuyang Sun, Dongsheng Li, Ruxiao Yang, Zhicun Zhou, Tianci Ji, **Bo Lu**<sup>&dagger;</sup>, Lining Sun, Huicong Liu, "*The Touch-Code Glove: A Multimodal Mapping Interface with Triboelectric-digital Encoding for Intuitive Robot Training,*" Soft Science, 2025. (Major Revision) 
+41. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025. (Major Revision)
 
-40. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025. (Major Revision)
+40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
 
-39. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2025. (Revise and Resubmit)
+39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Major Revision)
 
-38. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Major Revision)
+38. Yuyang Sun, Dongsheng Li, Ruxiao Yang, Zhicun Zhou, Tianci Ji, **Bo Lu**, Lining Sun, Huicong Liu, "*The Touch-Code Glove: A Multimodal Mapping Interface with Triboelectric-digital Encoding for Intuitive Robot Training,*" Soft Science, 2025. (Major Revision) 
 
 37. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2025. (Accepted)
+<img src="/public/image/publication/J37-PLDKD-Net_architecture.png" alt="lubo" style="width:38rem;" align="center"> 
 
 36. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (Accepted)
 <img src="/public/image/publication/J36-JBHI.jpg" alt="lubo" style="width:38rem;" align="center"> 
@@ -227,6 +228,10 @@ title: Publication
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
+
+30. **Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
+
+29. Hao Wang, Tianliang Yao, **Bo Lu**, Zhiqiang Pei, dong liu, Lei Ma, Peng Qi, "*Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
 28. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" AAAI, 2025. (Under Review)
 
