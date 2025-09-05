@@ -237,7 +237,10 @@ title: Publication
 
 24. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Accepted)
 
+
+
 23. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11127627){:target="_blank"}{% endif %}  
 
 22. Yinxi Chen, Zhan Yang, **Bo Lu**, and Xinjian Fan, "*Miniature Soft Robots Capable of Multiform and Multimodal Locamotion,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2024. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10671351){:target="_blank"}{% endif %}  
