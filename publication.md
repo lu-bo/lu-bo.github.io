@@ -236,8 +236,7 @@ title: Publication
 25. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Accepted)
 
 24. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Accepted)
-
-
+{% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11139097){:target="_blank"}{% endif %}  
 
 23. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11127627){:target="_blank"}{% endif %}  
