@@ -31,34 +31,34 @@ title: Publication
 35. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (Accepted)
 <img src="/public/image/publication/J35-BIROB.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-34. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Accepted)
+34. Yuqi Kong,	Xiaofei Gong, Yao Wang, Jiajie Yu, **Bo Lu**<sup>&dagger;</sup>, Wenzheng Chi, and Lining Sun, "*Socially Conscious Navigation of Mobile Robots Based on Deep Reinforcement Learning,*" IEEE Transactions on Industrial Electronics (T-IE), 2025.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11039056){:target="_blank"}{% endif %}
 
-33. Tianliang Yao, Haoyu Wang, **Bo Lu**, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures,*" IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (Accepted)
+33. Tianliang Yao, Haoyu Wang, **Bo Lu**, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Procedures,*" IEEE Transactions on Automation Science and Engineering (T-ASE), 2025.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10945450){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J33-TASE.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-32. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (TIE), 2025. (Accepted)
+32. Tao Jin, Shuang Gao, Tianhong Wang, **Bo Lu**, Long Li, Quan Zhang, Yingzhong Tian, and Yangqiao Lin, "*Dual-Mode Variable-Stiffness Soft Gripper Based on Electrorheological Fluids,*" IEEE Transactions on Industrial Electronics (T-IE), 2025.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10916485/){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J32-TIE.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-31. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024. (Accepted)
+31. **Bo Lu**, Chao He, Zhaolei Jiang, Wenjie Hou, Lijun Han, Hesheng Wang, Peng Qi, and Lining Sun, “*Endo-4SRF: Learning Radiance Field for Dynamic Surface Reconstruction of Surgical Tissues with Obstacle Stealth Under Single-view and Depth-free Monocular Endoscopy,*” IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10797692){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J31-JBHI.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-30. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**<sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" Microsystems & Nanoengineering, 2024. (Accepted)
+30. Cheng Hou, Huxin Gao, Xiaoxiao Yang, Guangming Xue, Xiuli Zuo, Yanqing Li, Dongsheng Li, **Bo Lu**<sup>&dagger;</sup>, Hongliang Ren, Huicong Liu, Lining Sun, "*Piezoresistive-Based 3-Axial MEMS Tactile Sensor for Gastrointestinal Endoscopic Minimally Invasive Surgery Instruments,*" Microsystems & Nanoengineering, 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.nature.com/articles/s41378-024-00774-6){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J30-MN.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-29. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Investigating the Mechanical Performance of BionicWings Based on the Flapping Kinematics of Beetle Hindwings,*" Biomimetics, 2024. (Accepted)
+29. Chao Liu, Tianyu Shen, Huan Shen, Mingxiang Ling, Guodong Chen, **Bo Lu**, Feng Chen, Zhenhua Wan, "*Investigating the Mechanical Performance of BionicWings Based on the Flapping Kinematics of Beetle Hindwings,*" Biomimetics, 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.mdpi.com/2313-7673/9/6/343){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J29-Bio.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2024. (Accepted)
+28. Jiewen Lai, **Bo Lu**<sup>&dagger;</sup>, Kaicheng Huang, Henry K. Chu, *"Gesture-Based Steering Framework for Redundant Soft Robots,"* IEEE-ASME Transactions on Mechatronics (T-MECH), 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10505917){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J28-TMECH.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approach,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024. (Accepted)
+27. Bin Li<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Hongbin Lin, Yaxiang Wang, Fangxun Zhong, Qi Dou, Yunhui Liu, *"On the Monocular 3D Pose Estimation for Arbitrary Shaped Needle in Dynamic Scenes: An Efficient Visual Learning and Geometry Modeling Approach,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10472639/){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J27-TMRB.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
@@ -66,7 +66,7 @@ title: Publication
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/10387684){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J26-RAL.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
-25. Yiang Lu, Wei Chen, **Bo Lu**, Jianshu Zhou, Zhi Chen, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2024. (Accepted)
+25. Yiang Lu, Wei Chen, **Bo Lu**, Jianshu Zhou, Zhi Chen, Qi Dou, and Yunhui Liu, *"Adaptive Online Learning and Robust 3-D Shape Servoing of Continuum and Soft Robots in Unstructured Environments,"* Soft Robotics, 2024.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.liebertpub.com/doi/abs/10.1089/soro.2022.0158){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J25-SORO.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
@@ -105,8 +105,7 @@ title: Publication
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/9716747?casa_token=d0Wd0liiGcQAAAAA:TIxk3nihMvD3o9U05QyQxhrzIaosgI7FcBdXuinyCyFRB54Z4NMS3NenNo1o2KA4k8ED15s1){:target="_blank"}{% endif %}
 <img src="/public/image/publication/RA-L-2022.jpg" alt="lubo" style="width:38rem;" align="center"/> 
 
-15. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg, *"PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,"* IEEE Robotics and Automation Letter (RA-L), 2021. (with ICRA 2022, Revised and Resubmit)
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://arxiv.org/abs/2109.04869){:target="_blank"}{% endif %}
+15. Jiankai Sun, De-An Huang, **Bo Lu**, Yunhui Liu, Bolei Zhou, Animesh Garg, *"PlaTe: Visually-Grounded Planning with Transformers in Procedural Tasks,"* IEEE Robotics and Automation Letter (RA-L), 2021.
 <img src="/public/image/publication/J15-RAL.png" alt="lubo" style="width:38rem;" align="center"/> 
 
 14. **Bo Lu**,  Bin Li, Wei Chen, Yue-ming Jin,  Zixu Zhao, Qi Dou, Pheng-Ann Heng, Yun-Hui Liu, *"Towards Image-Guided Automated Suture Grasping Under Complex Environments: A Learning-Enabled and Optimization-Based Holistic Framework,"* IEEE Transactions on Automation Science and Engineering (T-ASE), 2021.
@@ -233,13 +232,13 @@ title: Publication
 
 27. Tianliang Yao, li Bingrui, **Bo Lu**, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions,*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (Accepted)
 
-26. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Accepted)
+26. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11139398){:target="_blank"}{% endif %}  
 
-25. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025. (Accepted)
+25. Ruxiao Yang, Yuyang Sun, Dongsheng Li, **Bo Lu**, Fengxia Wang, Haiyan Hu, Shumei Yu, Huicong Liu, "*A Self-Powered Bimodal Tactile Sensing Cap for Colonoscopic Examination,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11139097){:target="_blank"}{% endif %}  
 
-24. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025. (Accepted)
+24. Tianliang Yao, Jingwei Song, Madaoji Ban, **Bo Lu**, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics,*" The IEEE International Conference on Robotics and Automation (ICRA), 2025.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11127627){:target="_blank"}{% endif %}  
 
 23. Zhenxi Cui, Jiewen Lai, **Bo Lu**, Yi Guo, and Henry K. Chu, "*Human-Led Robotic Transportation of Elastic Objects with Adaptive Control,*" International Conference on Robotics and Automation Engineering (ICRAE), 2024. 
