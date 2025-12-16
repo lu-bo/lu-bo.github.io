@@ -230,12 +230,12 @@ title: Publication
 <!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
+<!--28. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" AAAI, 2025. (Under Review)-->
+
 
 29. **Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
 
 28. Hao Wang, Tianliang Yao, **Bo Lu**, Zhiqiang Pei, dong liu, Lei Ma, Peng Qi, "*Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
-
-<!--28. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" AAAI, 2025. (Under Review)-->
 
 27. Tianliang Yao, li Bingrui, **Bo Lu**, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions,*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (Accepted)
 
