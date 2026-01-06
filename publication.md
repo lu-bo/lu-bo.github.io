@@ -7,19 +7,21 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-46. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2025. (Under Review)
+<!--46. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2025. (Under Review)-->
 
-45. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2025. (Under Review)
+46. Groups of authors, "*CathAction: A Large-scale Benchmark for **** **** Understanding,*" IEEE Transactions on Robotics, 2026. (Under Review)
 
-44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Cybernetics, 2025. (Under Review)
+45. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2026. (Under Review)
+
+44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Automation Science and Engineering, 2025. (Under Review)
 
 43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2025. (Under Review)
 
-42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2025. (Major Revision)
+42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Under Review)
 
-40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2025. (Major Revision)
+40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2026. (Major Revision)
 
-39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Major Revision)
+39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Major Revision)
 
 39. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11301748){:target="_blank"}{% endif %}
@@ -176,73 +178,19 @@ title: Publication
 {: reversed="reversed"}
 
 <!--
-11. Jiewen Lai, **Bo Lu**, and Henry K. Chu, *“On the Stiffness-Adaptiveness of A Dual-Segment Soft Robot using Depth Visual-Servoing”* IEEE Robotics and Automation Letter, 2020. (To be Submitted)
-
-8. Ziyi Wang, **Bo Lu**, Xiaojie Gao, Yueming Jin, Zerui Wang, Tak Hong Cheung,Qi Dou, Pheng Ann Heng, Yunhui Liu, *"Content-based Surgical Video Retrieval via Unsupervised Feature Disentanglement,"* IEEE Transactions on Medical Imaging (T-MI), 2020. (Under Review)
-
-16. Li, D., **Wang, Z.**, and Liu, Y.-H., *"Honeycomb Jamming: an Enabling Technology of Variable Stiffness Reconfiguration,"* Soft Robotics (SORO), under review, 2020.
-
-15. Wu, J., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Design and Validation of A Novel Leaf Spring Based Variable Stiffness Joint with Reconfigurability,"* IEEE/ASME Transactions on Mechatronics (T-MECH), major revision, 2020.
-
-14. Sui, C., He, K., Lyu, C., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Active Stereo 3D Surface Reconstruction Using Multi-Step Matching,"* IEEE Transactions on Automation Science and Engineering (T-ASE), revised and resubmitted, 2019.
-
-13. Yip, H.M., **Wang, Z.**, Navarro-Alarcon, D., Li, P., Cheung, T.H., Greiffenhagen, C., and Liu, Y.-H., *"A Collaborative Robotic Uterine Positioning System for Laparoscopic Hysterectomy: Design and Experiments,"* The International Journal of Medical Robotics and Computer Assisted Surgery (IJMRCAS), accepted, 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://onlinelibrary.wiley.com/doi/abs/10.1002/rcs.2103/){:target="_blank"}{% endif %}
-
-12. Sui, C., Wu, J., Ma, G., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"A Real-Time 3D Laparoscopic Imaging System: Design, Method and Validation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2020_real.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8964441/){:target="_blank"}{% endif %}
-
-11. Zhong, F., **Wang, Z.**<sup>&dagger;</sup>, Chen, W., Wang, Y., and Liu, Y.-H., *"Hand-Eye Calibration of Surgical Instrument for Robotic Surgery Using Interactive Manipulation,"* IEEE Robotics and Automation Letters (RA-L), vol. 5, no. 2, pp. 1540-1547, Apr. 2020.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2020_hand.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8963603/){:target="_blank"}{% endif %}
-
-10. Zhong, F., Li, P., Shi, J., **Wang, Z.**<sup>&dagger;</sup>, Wu, J., Chan, J. Y. K., Leung, N., Leung, I., Tong, M. C. F., and Liu, Y.-H., *"Foot-controlled Robot-Enabled EnDOscope Manipulator (FREEDOM) for Sinus Surgery: Design, Control and Evaluation,"* IEEE Transactions on Biomedical Engineering (T-BME), accepted, 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tbme_2019_foot.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8825525/){:target="_blank"}{% endif %}
-
-9. Yang, B.<sup>\*</sup>, Chen, W.<sup>\*</sup>, **Wang, Z.**<sup>&dagger;</sup>, Mao, J., Lu, Y., Wang, H., and Liu, Y.-H., *"Adaptive FOV Control of Laparoscopes with Programmable Composed Constraints,"* IEEE Transactions on Medical Robotics and Bionics (T-MRB), vol. 1, no. 4, pp. 206-217, Oct. 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmrb_2019_adaptive.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8884118/){:target="_blank"}{% endif %}
-
-8. Zhong, F., Wang, Y., **Wang, Z.**<sup>&dagger;</sup>, and Liu, Y.-H., *"Dual-Arm Robotic Needle Insertion with Active Tissue Deformation for Autonomous Suturing,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 3, pp. 2669-2676, Apr. 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_dual.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8698220/){:target="_blank"}{% endif %}
-
-7. Alambeigi, F., **Wang, Z.**, Hegeman, R., Liu, Y.-H., and Armand, M., *"Autonomous Data-Driven Manipulation of Unknown Anisotropic Deformable Tissues Using Unmodelled Continuum Manipulators,"* IEEE Robotics and Automation Letters (RA-L), vol. 4, no. 2, pp. 254-261, Apr. 2019.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2019_auto.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/8584049){:target="_blank"}{% endif %}
-
-6. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Hegeman, R., Liu, Y.-H., and Armand, M., *"A Robust Data-Driven Approach for Online Learning and Manipulation of Unmodeled 3-D Heterogeneous Compliant Objects,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 4, pp. 4140-4147, Oct. 2018.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2018.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8425628/){:target="_blank"}{% endif %}
-
-5. Alambeigi, F.<sup>\*</sup>, **Wang, Z.**<sup>\*</sup>, Liu, Y.-H., Taylor, R. H., and Armand, M., *"Toward Semi-Autonomous Cryoablation of Kidney Tumors via Model-Independent Deformable Tissue Manipulation Technique,"* Annals of Biomedical Engineering (ABME), vol. 46, no. 10, pp. 1650-1662, Oct. 2018.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/abme_2018.pdf){:target="_blank"}{% else %}[@Paper](https://rdcu.be/01un){:target="_blank"}{% endif %}
-
-4. **Wang, Z.**, Liu, Z., Ma, Q., Cheng, A., Liu, Y.-H., Kim, S., Deguet, A., Reiter, A., Kazanzides, P., and Taylor, R.H., *"Vision-Based Calibration of Dual RCM-Based Robot Arms in Human-Robot Collaborative Minimally Invasive Surgery,"* IEEE Robotics and Automation Letters (RA-L), vol. 3, no. 2, pp. 672-679, Apr. 2018.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2017.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/8004522/){:target="_blank"}{% endif %}
-
-3. **Wang, Z.**, Lee, S. C., Zhong, F., Navarro-Alarcon, D., Liu, Y.-H., Deguet, A., Kazanzides, P. and Taylor, R. H., *"Image-Based Trajectory Tracking Control of 4-DOF Laparoscopic Instruments Using A Rotation Distinguishing Marker,"* IEEE Robotics and Automation Letters (RA-L), vol. 2, no. 3, pp. 1586-1592, Mar. 2017.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ral_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7867766/){:target="_blank"}{% endif %}
-
-2. Navarro-Alarcon, D., Yip, H. M., **Wang, Z.**, Liu, Y.-H., Zhong, F., Zhang, T. and Li, P., *"Automatic 3-D Manipulation of Soft Objects by Robotic Arms with An Adaptive Deformation Model,"* IEEE Transactions on Robotics (T-RO), vol. 32, no. 2, pp. 429 - 441, Apr. 2016.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tro_2016_david.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7429768/){:target="_blank"}{% endif %}
-
-1. **Wang, Z.**, Yip, H. M., Navarro-Alarcon, D., Li, P., Liu, Y.-H., Sun, D., Wang, H., and Cheung, T. H., *"Design of A Novel Compliant Safe Robot Joint with Multiple Working States,"* IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 21, no. 2, pp. 1193-1198, Apr. 2016.
-{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/tmech_2016.pdf){:target="_blank"}{% else %}[@Paper](http://ieeexplore.ieee.org/document/7328739/){:target="_blank"}{% endif %}
-{: reversed="reversed"}
--->
-
-<!-- 13. Jiaqi Xu, Bin LI, Qi Dou, **Bo Lu**, Yunhui Liu, Pheng-Ann Heng, *"RLSR: A Dedicated Reinforcement Learning Platform for Surgical Robotics,"* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)-->
-<!-- 11. Bohan Yang, **Bo Lu**, Wei Chen, Kejing He, Dickson Chun Fung Li, Yaqing Wang, and Yun-hui Liu, *“Three-Dimensional Shape Servoing of Deformable Objects with Modal Analysis and Inaccurate Model,”* The IEEE International Conference on Robotics and Automation (ICRA), 2021. (Under Review)-->
 
 
-## Conference
-<!-- Bin Li, **Bo Lu**<sup>&dagger;</sup>, Qi Dou, Yun-Hui Liu, *"Towards Proactive Robot-assisted Field of View Control: Learning Laparoscope Action Paradigms with Motion-aware Representation,"* The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
-<!--28. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" AAAI, 2025. (Under Review)-->
+<!--**Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
+-->
 
 
-29. **Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
+29. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" IJCAI-ECAI, 2026. (Under Review)
 
-28. Hao Wang, Tianliang Yao, **Bo Lu**, Zhiqiang Pei, dong liu, Lei Ma, Peng Qi, "*Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
+28. Hao Wang, Tianliang Yao, **Bo Lu**, Zhiqiang Pei, dong liu, Lei Ma, Peng Qi, "*Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026. (Accepted)
 
-27. Tianliang Yao, li Bingrui, **Bo Lu**, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions,*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (Accepted)
+27. Tianliang Yao, li Bingrui, **Bo Lu**, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions,*" The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 
 26. Jiangang Zhang, Yizhe Yan, Wenzheng Chi, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Surgical Suture Thread Predict Framework For Multi-Scenario Pose-Aware Based on Diffusion Probabilistic Model,*" The IEEE International Conference on Real-time Computing and Robotics (RCAR), 2025.
 {% if site.share_pdf %}[@Pre-print]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11139398){:target="_blank"}{% endif %}  
