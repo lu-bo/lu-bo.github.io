@@ -21,14 +21,18 @@ title: Publication
 
 39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2025. (Major Revision)
 
-39. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025. (Accepted)
+39. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11301748){:target="_blank"}{% endif %}
 
-38. Yuyang Sun, Dongsheng Li, Ruxiao Yang, Zhicun Zhou, Tianci Ji, **Bo Lu**, Lining Sun, Huicong Liu, "*The Touch-Code Glove: A Multimodal Mapping Interface with Triboelectric-digital Encoding for Intuitive Robot Training,*" Soft Science, 2025. (Accepted) 
+38. Yuyang Sun, Dongsheng Li, Ruxiao Yang, Zhicun Zhou, Tianci Ji, **Bo Lu**, Lining Sun, Huicong Liu, "*The Touch-Code Glove: A Multimodal Mapping Interface with Triboelectric-digital Encoding for Intuitive Robot Training,*" Soft Science, 2025.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://journal.hep.com.cn/ss/EN/10.20517/ss.2025.68){:target="_blank"}{% endif %}
 
 37. **Bo Lu**, Xiangxing Zheng, Zhenjie Zhu, Yuhao Guo, Ziyi Wang, Bruce Xinbo Yu, Mingchuan Zhou, Peng Qi, Huicong Liu, Yunhui Liu, and Lining Sun, "*PLDKD-Net: Pixel-Level Discriminative Knowledge Distillation for Surgical Scene Segmentation with Bi-stream Visual Parsing and Graph Feature Fusion,*" IEEE Transactions on Instrumentation and Measurement, 2025. (Accepted)
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/abstract/document/11151592){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J37-PLDKD-Net_architecture.png" alt="lubo" style="width:38rem;" align="center"> 
 
-36. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (Accepted)
+36. **Bo Lu**, Tiancheng Zhou, Qingbiao Li, Wenzheng Chi, Yue Wang, Yu Wang, Huicong Liu, Jia Gu, and Lining Sun, "*M^3 DEGREEs Net: Monocular-guided Metric Marching Depth Estimation with Graph-based Relevance Ensemble for Endoluminal Surgery,*" IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025.
+{% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11106677){:target="_blank"}{% endif %}
 <img src="/public/image/publication/J36-JBHI.jpg" alt="lubo" style="width:38rem;" align="center"> 
 
 35. Mingchao Deng, Ding Sun, Tiancheng Zhou, Yixin Gu, Zhongliang Jiang, Fengfeng Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*Automated Tumor Localization via Synergistic Liver Surface and Vascular Constraints Deformation,*" Biomimetic Intelligence and Robotics, 2025. (**Editor's Choice Paper**)
