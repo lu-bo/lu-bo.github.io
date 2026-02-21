@@ -21,7 +21,7 @@ title: Publication
 
 40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2026. (Major Revision)
 
-39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Major Revision)
+39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Minor Revision)
 
 39. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11301748){:target="_blank"}{% endif %}
