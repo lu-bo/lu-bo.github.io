@@ -7,7 +7,15 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-<!--46. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2025. (Under Review)-->
+51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "Bridging 3D CT and 2D US, ****," IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+
+50. **Bo Lu**, et al., "Structure-awared Dynamic Suture Thread ****," IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+
+49. **Bo Lu**, et al., “LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,” IEEE Transactions on Robotics, 2026. (To be submitted)
+
+48. **Bo Lu**, et al., "VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****," IEEE Robotics and Automation Letter, 2026. (To be submitted)
+
+47. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2025. (Under Review)
 
 46. Anonymous authors, "*CathAction: A Large-scale Benchmark for **** **** Understanding,*" IEEE Transactions on Robotics, 2026. (Under Review)
 
@@ -19,9 +27,9 @@ title: Publication
 
 42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Under Review)
 
-40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2026. (Major Revision)
+41. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Minor Revision)
 
-39. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Minor Revision)
+40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2026. (Accepted)
 
 39. Tianliang Yao, **Bo Lu**, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions,*" IEEE Reviews in Biomedical Engineering, 2025.
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://ieeexplore.ieee.org/document/11301748){:target="_blank"}{% endif %}
@@ -184,7 +192,9 @@ title: Publication
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 <!--**Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
 -->
+31. Shuyan Guo and **Bo Lu**<sup>&dagger;</sup>, *"From 3D Gaussian to Contact Force Estimation: An Image-Guided and Biomechanics-Cohorted Froce Predictor,"* IEEE International Conference on Control and Automation, 2026. (Under Review)
 
+30. Xudong Li, Xueli Zhang, Jiangang Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"Diffusion Policy-Based Framework for Autonomous Laparoscope View Control with Optimal RCM Selection,"* IEEE International Conference on Control and Automation, 2026. (Under Review)
 
 29. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" IJCAI-ECAI, 2026. (Under Review)
 
