@@ -7,13 +7,13 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "Bridging 3D CT and 2D US, ****," IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
-50. **Bo Lu**, et al., "Structure-awared Dynamic Suture Thread ****," IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+50. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
-49. **Bo Lu**, et al., “LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,” IEEE Transactions on Robotics, 2026. (To be submitted)
+49. **Bo Lu**, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,*” IEEE Transactions on Robotics, 2026. (To be submitted)
 
-48. **Bo Lu**, et al., "VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****," IEEE Robotics and Automation Letter, 2026. (To be submitted)
+48. **Bo Lu**, et al., "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
 
 47. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2025. (Under Review)
 
