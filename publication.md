@@ -7,6 +7,8 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
+52. "*Learning Effective and Reliable Bi-manual Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+
 51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
 50. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
@@ -192,9 +194,9 @@ title: Publication
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 <!--**Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
 -->
-31. Shuyan Guo and **Bo Lu**<sup>&dagger;</sup>, *"From 3D Gaussian to Contact Force Estimation: An Image-Guided and Biomechanics-Cohorted Froce Predictor,"* IEEE International Conference on Control and Automation, 2026. (Under Review)
+31. Shuyan Guo and **Bo Lu**<sup>&dagger;</sup>, *"From 3D Gaussian to Contact Force Estimation: An Image-Guided and Biomechanics-Cohorted Froce Predictor,"* IEEE International Conference on Control and Automation, 2026. (Accepted)
 
-30. Xudong Li, Xueli Zhang, Jiangang Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"Diffusion Policy-Based Framework for Autonomous Laparoscope View Control with Optimal RCM Selection,"* IEEE International Conference on Control and Automation, 2026. (Under Review)
+30. Xudong Li, Xueli Zhang, Jiangang Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"Diffusion Policy-Based Framework for Autonomous Laparoscope View Control with Optimal RCM Selection,"* IEEE International Conference on Control and Automation, 2026. (Accepted)
 
 29. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" IJCAI-ECAI, 2026. (Under Review)
 
