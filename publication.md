@@ -7,7 +7,7 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-52. "*Learning Effective and Reliable Bi-manual Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+52. "*Learning Effective and Reliable Bi-manual Robotic Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
 
 51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
@@ -21,15 +21,15 @@ title: Publication
 
 46. Anonymous authors, "*CathAction: A Large-scale Benchmark for **** **** Understanding,*" IEEE Transactions on Robotics, 2026. (Under Review)
 
-45. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2026. (Under Review)
+45. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2026. (Minor Revision)
 
-44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Automation Science and Engineering, 2026. (Under Review)
+44. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Automation Science and Engineering, 2026. (Revise and Resubmit)
 
-43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2026. (Under Review)
+43. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2026. (Reject and Resubmit)
 
-42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Under Review)
+42. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Major Revision)
 
-41. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Minor Revision)
+41. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Accepted)
 
 40. Yizhe Yan, Tiancheng Zhou, Yue Wang, Ziyi Wang, Wenjie Hou, Huicong Liu, Yunhui Liu, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, "*TRACE-Net: Hierarchical Feature Matching Network with Thermal Response-guidance and Adaptive Coherent-sampling for Endoscopy,*" IEEE/ASME Transactions on Mechatronics, 2026. (Accepted)
 
