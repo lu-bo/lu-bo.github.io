@@ -7,15 +7,19 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-52. "*Learning Effective and Reliable Bi-manual Robotic Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+54. **Bo Lu**, et al., "*Vascular Intervention*"
 
-51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+53. **Bo Lu**, et al., "*Learning Effective and Reliable Bi-manual Robotic Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
 
-50. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+52. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
-49. **Bo Lu**, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,*” IEEE Transactions on Robotics, 2026. (To be submitted)
+51. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
-48. **Bo Lu**, et al., "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+50. **Bo Lu**, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,*” IEEE Transactions on Robotics, 2026. (To be submitted)
+
+49. **Bo Lu**, et al., "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+
+48. Yikang Chen, Hongyuan Chen, Yuan Yin, Junyi Chen, **Bo Lu**<sup>&dagger;</sup>, , Tao Chen, and Minglu Zhu, "*Flexible Sensorized Tube for Pipeline Defect Detection Based on Bending and Pressure Sensing,*" Sensors, 2026. (Under Review)
 
 47. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2026. (Under Review)
 
@@ -187,13 +191,12 @@ title: Publication
 {% if site.share_pdf %}[@Paper]({{site.url}}/public/doc/ijmrcas_2020_collaborative.pdf){:target="_blank"}{% else %}[@Paper](https://www.sciencedirect.com/science/article/pii/S0022460X15003594){:target="_blank"}{% endif %}
 {: reversed="reversed"}
 
-<!--
-
-
 
 <!--Yiang Lu, **Bo Lu**<sup>&dagger;</sup>, Wei Chen, Huanhuan Guo, Yun-Hui Liu, *"Robust Model-Based Shape Reconstruction of Flexible Surgical Instruments in Constrained Environments Using Multi-Core FBGs,"*  The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. (Under Review)-->
 <!--**Bo Lu**, Lei Li, Tianliang Yao, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi, "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026.
 -->
+
+
 31. Shuyan Guo and **Bo Lu**<sup>&dagger;</sup>, *"From 3D Gaussian to Contact Force Estimation: An Image-Guided and Biomechanics-Cohorted Froce Predictor,"* IEEE International Conference on Control and Automation, 2026. (Accepted)
 
 30. Xudong Li, Xueli Zhang, Jiangang Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"Diffusion Policy-Based Framework for Autonomous Laparoscope View Control with Optimal RCM Selection,"* IEEE International Conference on Control and Automation, 2026. (Accepted)
