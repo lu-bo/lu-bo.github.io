@@ -7,6 +7,7 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
+
 54. **Bo Lu**, et al., "*Vascular Intervention*"
 
 53. **Bo Lu**, et al., "*Learning Effective and Reliable Bi-manual Robotic Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
