@@ -17,7 +17,7 @@ title: Publication
 
 51. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
-50. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Fiducial-Guided Puncture Localization with Constrained Robotic Configuration Planning for Minimally Invasive Spine Surgery,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
+50. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Fiducial-Guided Puncture Localization with ********,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
 
 49. **Bo Lu**, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,*” IEEE Transactions on Robotics, 2026. (To be submitted)
 
@@ -31,9 +31,9 @@ title: Publication
 
 44. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2026. (Reject and Resubmit)
 
-43. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in ***** ***** Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Major Revision)
+43. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in Puncture Surgical Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Major Revision)
 
-42. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical ***** ***** for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2026. (Accepted)
+42. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical Palpation Probe with MEMS-Based 3D Force Sensing for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2026. (Accepted)
 
 41. Yuancheng Shao, Yao Zhang, Jia Gu, Zixi Chen, Di Wu, Yuqiao Chen, **Bo Lu**<sup>&dagger;</sup>, Wenjie Liu, Cesare Stefanini, Peng Qi, "*Deep-Learning-Based Control of a Decoupled Two-Segment Continuum Robot for Endoscopic Submucosal Dissection,*" IEEE/ASME Transactions on Mechatronics, 2026. (Accepted)
 
@@ -203,7 +203,7 @@ title: Publication
 
 30. Xudong Li, Xueli Zhang, Jiangang Zhang, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"Diffusion Policy-Based Framework for Autonomous Laparoscope View Control with Optimal RCM Selection,"* IEEE International Conference on Control and Automation, 2026. (Accepted)
 
-29. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" IJCAI-ECAI, 2026. (Under Review)
+29. Chao He, Kuangji Chen, Xinbo Yu, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, "*Endo-GSG: Endoscopic Gaussian Splatting with Geometry-awareness for Dynamic Tissue Reconstruction under Single-View Monocular Knowledge,*" IJCAI-ECAI, 2026. (Accepted)
 
 28. Hao Wang, Tianliang Yao, **Bo Lu**, Zhiqiang Pei, dong liu, Lei Ma, Peng Qi, "*Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation,*" The IEEE International Conference on Robotics and Automation (ICRA), 2026. (Accepted)
 
