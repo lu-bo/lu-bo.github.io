@@ -9,19 +9,21 @@ title: Publication
 ## Journal
 
 
-53. **Bo Lu**, et al., "*Vascular Intervention*"
+54. **Bo Lu**, et al., "*Vascular Intervention*"
 
-52. **Bo Lu**, et al., "*Learning Effective and Reliable Bi-manual Robotic Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+53. **Bo Lu**, et al., "*Learning Effective and Reliable Bi-manual Robotic Suture Pulling for Securing Surgical Knot,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
 
-51. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+52. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*Bridging 3D CT and 2D US, ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
 
-50. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+51. **Bo Lu**, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (To be submitted)
+
+50. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Fiducial-Guided Puncture Localization with Constrained Robotic Configuration Planning for Minimally Invasive Spine Surgery,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
 
 49. **Bo Lu**, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for ****,*” IEEE Transactions on Robotics, 2026. (To be submitted)
 
 48. **Bo Lu**, et al., "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
 
-47. Yikang Chen, Hongyuan Chen, Yuan Yin, Junyi Chen, **Bo Lu**, , Tao Chen, and Minglu Zhu, "*Flexible Sensorized Tube for Pipeline Defect Detection Based on Bending and Pressure Sensing,*" Sensors, 2026. (Under Review)
+47. Yikang Chen, Hongyuan Chen, Yuan Yin, Junyi Chen, **Bo Lu**, Tao Chen, and Minglu Zhu, "*Flexible Sensorized Tube for Pipeline Defect Detection Based on Bending and Pressure Sensing,*" Sensors, 2026. (Under Review)
 
 46. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2026. (Under Review)
 
