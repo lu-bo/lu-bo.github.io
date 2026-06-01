@@ -23,17 +23,17 @@ title: Publication
 
 51. Yunfei Wang, Jiankun Zhai, Ziqin Shen, Jiajun Li, Yiyang Li, Yang Zhou, Jie Zhao, **Bo Lu**<sup>&dagger;</sup>, He Zhang, "*TIRAM-H: Efficient Hierarchical Navigation Framework with Tactile-Image Regulation ********,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
 
-50. **Bo Lu**, Lei Li, et al., "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****,*" IEEE Robotics and Automation Letter, 2026. (To be submitted)
+50. **Bo Lu**, Lei Li, et al., "*VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for *****,*" IEEE Robotics and Automation Letter, 2026. (Under Review)
 
-49. Yikang Chen, Hongyuan Chen, Yuan Yin, Junyi Chen, **Bo Lu**, Tao Chen, and Minglu Zhu, "*Flexible Sensorized Tube for Pipeline Defect Detection Based on Bending and Pressure Sensing,*" Sensors, 2026. (Under Review)
+49. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2026. (Major Revision)
 
-48. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative ***** ***** Robotic System for ***** *****,*" Nature Communications, 2026. (Under Review)
+48. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Automation Science and Engineering, 2026. (Revise and Resubmit)
 
-47. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for ***** *****,*" IEEE Transactions on Automation Science and Engineering, 2026. (Revise and Resubmit)
+47. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2026. (Reject and Resubmit)
 
-46. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic ***** *****,*" IEEE Transactions on Robotics, 2026. (Reject and Resubmit)
+46. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in Puncture Surgical Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Major Revision)
 
-45. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, Yu Xiang, Yi Bao, **Bo Lu**<sup>&dagger;</sup>, and, Lining Sun, "*Autonomy in Puncture Surgical Robots: A Systematic Review,*" IEEE Transactions on Automation Science and Engineering, 2026. (Major Revision)
+45. Yikang Chen, Hongyuan Chen, Yuan Yin, Junyi Chen, **Bo Lu**, Tao Chen, and Minglu Zhu, "*Flexible Sensorized Tube for Pipeline Defect Detection Based on Bending and Pressure Sensing,*" Sensors, 2026. (Accepted)
 
 44. Dongsheng Li, Yuyang Sun, Junyan Li, Kaiyao Wang, Cheng Hou, Hangwei Zhang, Lining Sun, **Bo Lu**<sup>&dagger;</sup>, and Huicong Liu, "*A Surgical Palpation Probe with MEMS-Based 3D Force Sensing for Robot-Assisted Surgery,*" Science China-Technological Sciences, 2026. (Accepted)
 
