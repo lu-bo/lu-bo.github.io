@@ -16,15 +16,15 @@ title: Publication
 
 55. **Bo Lu**, Jiangang Zhang, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (Preparing)
 
-54. Huan Wang, Chunli Wang, Baofeng Ji, Mingyang Yao, **Bo Lu**<sup>&dagger;</sup>, and Yongming Yang, “*Selective Sparse Spectrum-Aware Localization: Disentangled Specific Feature Integration for Contrast-Free Angiography Translation,*” IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
+54. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Information Fusion-Driven Precision Localization and Task Automation for Semi-Autonomous Spinal Surgical Robots,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
 
-53. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Information Fusion-Driven Precision Localization and Task Automation for Semi-Autonomous Spinal Surgical Robots,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
+53. **Bo Lu**, Tiancheng Zhou, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for Image-Guided Autonomous Robotic Suturing,*” IEEE Transactions on Robotics, 2026. (To be submitted)
 
-52. **Bo Lu**, Tiancheng Zhou, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for Image-Guided Autonomous Robotic Suturing,*” IEEE Transactions on Robotics, 2026. (To be submitted)
+52. Yunfei Wang, Jiankun Zhai, Ziqin Shen, Jiajun Li, Yiyang Li, Yang Zhou, Jie Zhao, **Bo Lu**<sup>&dagger;</sup>, He Zhang, "*TIRAM: Tactile-Image Regulation and Anatomical Mapping for a Hierarchical Navigation Framework in Retinal Intervention,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
 
-51. Yunfei Wang, Jiankun Zhai, Ziqin Shen, Jiajun Li, Yiyang Li, Yang Zhou, Jie Zhao, **Bo Lu**<sup>&dagger;</sup>, He Zhang, "*TIRAM: Tactile-Image Regulation and Anatomical Mapping for a Hierarchical Navigation Framework in Retinal Intervention,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
+51. **Bo Lu**, Lei Li, et al., "*VAS-Diffuser: Vision-Anatomy-State Guided Diffusion for Guidewire Tip Trajectory Prediction in Robot-Assisted Endovascular Navigation,*" Biomimetic Intelligence and Robotics, 2026. (Under Review)
 
-50. **Bo Lu**, Lei Li, et al., "*VAS-Diffuser: Vision-Anatomy-State Guided Diffusion for Guidewire Tip Trajectory Prediction in Robot-Assisted Endovascular Navigation,*" Biomimetic Intelligence and Robotics, 2026. (To be submitted)
+50. Huan Wang, Chunli Wang, Baofeng Ji, Mingyang Yao, **Bo Lu**<sup>&dagger;</sup>, and Yongming Yang, “*Selective Sparse Spectrum-Aware Localization: Disentangled Specific Feature Integration for Contrast-Free Angiography Translation,*” IEEE Transactions on Industrial Informatics, 2026. (Under Review)
 
 49. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy,*" Nature Communications, 2026. (Major Revision)
 
