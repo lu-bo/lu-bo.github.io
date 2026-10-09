@@ -24,11 +24,11 @@ title: Publication
 
 51. **Bo Lu**, Lei Li, et al., "*VAS-Diffuser: Vision-Anatomy-State Guided Diffusion for Guidewire Tip Trajectory Prediction in Robot-Assisted Endovascular Navigation,*" Biomimetic Intelligence and Robotics, 2026. (To be submitted)
 
-50. Yunfei Wang, Jiankun Zhai, Ziqin Shen, Jiajun Li, Yiyang Li, Yang Zhou, Jie Zhao, **Bo Lu**<sup>&dagger;</sup>, He Zhang, "*TIRAM: Tactile-Image Regulation and Anatomical Mapping for a Hierarchical Navigation Framework in Retinal Intervention,*" IEEE Transactions on Industrial Informatics, 2026. (Under Review)
+50. Yunfei Wang, Jiankun Zhai, Ziqin Shen, Jiajun Li, Yiyang Li, Yang Zhou, Jie Zhao, **Bo Lu**<sup>&dagger;</sup>, He Zhang, "*TIRAM: Tactile-Image Regulation and Anatomical Mapping for a Hierarchical Navigation Framework in Retinal Intervention,*" IEEE Transactions on Industrial Informatics, 2026. (Major Revision)
 
 49. Bin Li<sup>\*</sup>, Ziyi Wang<sup>\*</sup>, **Bo Lu**<sup>\*</sup>, Jiahao Wu, Yiang Lu, Fangxun Zhong, Tak Hong Cheung, Qi Dou, and Yunhui Liu, "*AI-Empowered Cooperative One-Surgeon-Four-Arm Robotic System for Solo-Hysterectomy,*" Nature Communications, 2026. (Major Revision)
 
-48. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization with In-Vivo Validation,*" IEEE Transactions on Robotics, 2026. (Conditionally Accepted)
+48. Tianliang Yao, Dong Liu, Tao Liu, **Bo Lu**, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian Dai, Peng Qi, "*Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization with In-Vivo Validation,*" IEEE Transactions on Robotics, 2026. (Accepted)
 
 47. **Bo Lu**, Zhongkang Yang, Tiancheng Zhou, Ruiqing Tong, Wenzheng Chi, Jiewen Lai, Qi Dou, Yunhui Liu, and Lining Sun, "*LEGO: Learning and Executing Generalized Operation Skill Chains for Autonomous Condition-adaptive Surgical Knot-tying from Few-shot Demonstrations,*" IEEE Transactions on Automation Science and Engineering, 2026. (Accepted)
     
