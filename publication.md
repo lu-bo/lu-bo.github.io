@@ -221,9 +221,12 @@ title: Publication
 
 ## Conference Articles
 
-33. Zhaoyu Zhong, Yichi Wang, Jiawei Wen, **Bo Lu**<sup>&dagger;</sup>, Chunxia Xiao, *"PRISM-SLAM: Prior-guided Robust and Language-Interactive SLAM in Object-level Dynamic Scenes,"* The IEEE International Conference on Robotics and Automation (ICRA), 2027. (Under Review)
+34. Zhaoyu Zhong, Yichi Wang, Jiawei Wen, **Bo Lu**<sup>&dagger;</sup>, Chunxia Xiao, *"PRISM-SLAM: Prior-guided Robust and Language-Interactive SLAM in Object-level Dynamic Scenes,"* The IEEE International Conference on Robotics and Automation (ICRA), 2027. (Under Review)
 
-32. Jiaxin Guo, Wenzhen Dong, Tongfan Guan, Wenzhao Zheng, **Bo Lu**, and Yunhui Liu, *"BridgeSurg: Uncertainty-Guided Bridging with Photogeometric Pseudo-Supervision for Surgical Stereo Depth Estimation,"* The IEEE International Conference on Robotics and Automation (ICRA), 2027. (Under Review)
+33. Jiaxin Guo, Wenzhen Dong, Tongfan Guan, Wenzhao Zheng, **Bo Lu**, and Yunhui Liu, *"BridgeSurg: Uncertainty-Guided Bridging with Photogeometric Pseudo-Supervision for Surgical Stereo Depth Estimation,"* The IEEE International Conference on Robotics and Automation (ICRA), 2027. (Under Review)
+
+32. Tiancheng Zhou, Jiajun Li, Chao He, Fusheng Zha, Lining Sun, and **Bo Lu**<sup>&dagger;</sup>, *"Universal Robot Kinematic Modeling with a Neural Solver for Surgical Manipulation under Reconfigurable RCM Constraints,"*
+IEEE International Conference on Robotics and Biomimetics (ROBIO), 2026. (Under Review)
 
 31. Shuyan Guo and **Bo Lu**<sup>&dagger;</sup>, *"From 3D Gaussian to Contact Force Estimation: An Image-Guided and Biomechanics-Cohorted Froce Predictor,"* IEEE International Conference on Control and Automation, 2026. (Accepted)
 
