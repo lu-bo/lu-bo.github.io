@@ -3,8 +3,10 @@ layout: page
 title: Publication
 ---
 
+
 <sup>\*</sup> denotes co-first authorship; 
 <sup>&dagger;</sup> denotes corresponding authorship.
+
 
 ## Journal
 60. **Bo Lu**, et al., "*Autonomous Robotic Vascular Intervention,*" IEEE Transactions on Industrial Informatics, 2026. (Preparing)
