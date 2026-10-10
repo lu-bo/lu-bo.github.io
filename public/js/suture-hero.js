@@ -1,6 +1,6 @@
-/* Homepage hero: two instruments close a lens-shaped wound with a suture.
-   The needle driver bites both edges; the forceps pulls the thread and the
-   incision approximates. Pauses off-screen. One still frame if motion is reduced. */
+/* Homepage hero: a needle passes straight down through a wound, the
+   forceps grasps the tail, then the suture wraps once around the driver.
+   Pauses off-screen. One still frame if motion is reduced. */
 (function () {
   'use strict';
 
@@ -11,12 +11,17 @@
 
   var W = 1440;
   var H = 560;
-  var BITE = 1.6;
-  var THROUGH = 6.2;
+  var BITE_X = 740;
+  var APPROACH = 0.9;
+  var ENTER = 2.6;
+  var EXIT = 5.8;
+  var GRAB = 8.2;
   var PULL = 10.4;
-  var HOLD = 13.6;
-  var END = 16.2;
-  var STILL = 11.8;
+  var WRAP = 13.6;
+  var CINCH = 15.4;
+  var HOLD = 16.8;
+  var END = 18.6;
+  var STILL = 15.6;
   var MID = 292;
 
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -30,33 +35,34 @@
   function smooth(t) { return t * t * (3 - 2 * t); }
   function lerp(a, b, t) { return a + (b - a) * t; }
   function opening(x) {
-    var u = (x - 740) / 210;
+    var u = (x - BITE_X) / 210;
     var e = Math.max(0, 1 - u * u);
     return e * e;
   }
 
   function closure(t) {
-    return smooth(ramp(t, THROUGH - 0.2, PULL)) * (1 - smooth(ramp(t, HOLD + 0.8, END)));
+    return smooth(ramp(t, GRAB + 0.15, PULL)) * (1 - smooth(ramp(t, HOLD + 0.4, END)));
   }
 
-  function biteP(t) { return smooth(ramp(t, BITE, THROUGH)); }
-
   function upperY(x, t) {
-    var gap = (1 - closure(t)) * 78 * opening(x);
-    var y = MID - gap;
-    var p = biteP(t);
-    var press = p < 0.55 ? Math.sin((p / 0.55) * Math.PI) : 0;
-    y += press * 22 * Math.exp(-Math.pow((x - 660) / 42, 2));
-    return y;
+    var y = MID - (1 - closure(t)) * 96 * opening(x);
+    var press = 0;
+    if (t >= APPROACH && t <= EXIT) press = Math.sin(ramp(t, APPROACH, EXIT) * Math.PI);
+    return y + press * 18 * Math.exp(-Math.pow((x - BITE_X) / 32, 2));
   }
 
   function lowerY(x, t) {
-    var gap = (1 - closure(t)) * 78 * opening(x);
-    var y = MID + gap;
-    var p = biteP(t);
-    var press = p > 0.35 && p < 0.9 ? Math.sin(((p - 0.35) / 0.55) * Math.PI) : 0;
-    y -= press * 20 * Math.exp(-Math.pow((x - 860) / 46, 2));
-    return y;
+    var y = MID + (1 - closure(t)) * 96 * opening(x);
+    var press = 0;
+    if (t >= ENTER && t <= GRAB) press = Math.sin(ramp(t, ENTER, GRAB) * Math.PI);
+    return y - press * 16 * Math.exp(-Math.pow((x - BITE_X) / 32, 2));
+  }
+
+  function entryPt(t) { return [BITE_X, upperY(BITE_X, t)]; }
+  function exitPt(t) { return [BITE_X, lowerY(BITE_X, t)]; }
+  function tailPt(t) {
+    var exit = exitPt(t);
+    return [BITE_X, exit[1] + 58];
   }
 
   function samples(fn, t) {
@@ -66,99 +72,186 @@
     return pts;
   }
 
-  function needleTip(t) {
-    var p = biteP(t);
-    var entry = [660, upperY(660, t) + 4];
-    var exit = [860, lowerY(860, t) - 4];
-    var lifted = [980, upperY(980, t) - 46];
-    if (p < 0.34) return [lerp(520, entry[0], p / 0.34), lerp(168, entry[1], p / 0.34)];
-    if (p < 0.72) {
-      var k = (p - 0.34) / 0.38;
-      return [lerp(entry[0], exit[0], k), lerp(entry[1], exit[1], k) + Math.sin(k * Math.PI) * 10];
-    }
-    var k2 = (p - 0.72) / 0.28;
-    var out = [lerp(exit[0], lifted[0], k2), lerp(exit[1], lifted[1], k2)];
-    var lift = smooth(ramp(t, PULL - 0.3, PULL + 1));
-    return [lerp(out[0], 690, lift), lerp(out[1], 150, lift)];
-  }
-
-  function forcepsTip(t) {
-    var grab = smooth(ramp(t, THROUGH - 0.6, THROUGH + 0.5));
-    var pull = smooth(ramp(t, THROUGH + 0.2, PULL));
-    var wait = [1088, 150];
-    var hold = [1168, 132];
-    var target = [lerp(980, hold[0], pull), lerp(upperY(980, t) - 20, hold[1], pull)];
-    return [lerp(wait[0], target[0], grab), lerp(wait[1], target[1], grab)];
-  }
-
-  function threadPoints(t, tip, forceps) {
-    var p = biteP(t);
-    var entry = [660, upperY(660, t)];
-    var exit = [860, lowerY(860, t)];
-    if (p < 0.2) return [entry, tip];
-    if (p < 0.7) return [entry, tip, exit];
-    return [entry, [750, (entry[1] + exit[1]) / 2], exit, forceps];
-  }
-
-  function strokeSmooth(pts) {
-    var i, mx, my;
-    if (pts.length < 2) return;
-    ctx.beginPath();
-    ctx.moveTo(pts[0][0], pts[0][1]);
-    for (i = 1; i < pts.length - 1; i++) {
-      mx = (pts[i][0] + pts[i + 1][0]) / 2;
-      my = (pts[i][1] + pts[i + 1][1]) / 2;
-      ctx.quadraticCurveTo(pts[i][0], pts[i][1], mx, my);
-    }
-    ctx.lineTo(pts[pts.length - 1][0], pts[pts.length - 1][1]);
-  }
-
   function driverJaw(t) {
-    var p = Math.min(biteP(t), 1);
-    return [lerp(500, 610, p), lerp(132, 158, p)];
+    var k = smooth(ramp(t, 0.3, ENTER));
+    var x = lerp(500, 590, k);
+    var y = lerp(118, 140, k);
+    var into = smooth(ramp(t, GRAB + 0.2, PULL));
+    x = lerp(x, 620, into);
+    y = lerp(y, 96, into);
+    var aside = smooth(ramp(t, CINCH, HOLD));
+    return [lerp(x, 560, aside), lerp(y, 124, aside)];
   }
 
-  function drawDriver(jaw, tip) {
+  function needleTip(t) {
+    var entry = entryPt(t);
+    var tail = tailPt(t);
+    if (t < ENTER) {
+      var k = smooth(ramp(t, APPROACH, ENTER));
+      return [lerp(548, BITE_X, k), lerp(146, entry[1], k)];
+    }
+    if (t < EXIT) {
+      var k2 = smooth(ramp(t, ENTER, EXIT));
+      return [BITE_X, lerp(entry[1], tail[1], k2)];
+    }
+    if (t < GRAB) return tail;
+    var jaw = driverJaw(t);
+    var k3 = smooth(ramp(t, GRAB, GRAB + 0.7));
+    return [lerp(tail[0], jaw[0] + 16, k3), lerp(tail[1], jaw[1] + 4, k3)];
+  }
+
+  function loopGeom(t) {
+    var jaw = driverJaw(t);
+    var cinch = smooth(ramp(t, WRAP, CINCH));
+    var turns = smooth(ramp(t, PULL, WRAP));
+    var a0 = Math.PI / 2;
+    return {
+      cx: lerp(jaw[0], BITE_X, cinch),
+      cy: lerp(jaw[1], MID, cinch),
+      radius: lerp(78, 6.5, cinch),
+      a0: a0,
+      a1: a0 + turns * Math.PI * 2,
+      turns: turns,
+      cinch: cinch
+    };
+  }
+
+  function forcepsPinch(t) {
+    var tail = tailPt(t);
+    var wait = [1160, 150];
+    if (t < EXIT) return wait;
+    if (t < GRAB) {
+      var k = smooth(ramp(t, EXIT, GRAB));
+      return [lerp(wait[0], tail[0], k), lerp(wait[1], tail[1], k)];
+    }
+    if (t < PULL) {
+      var k2 = smooth(ramp(t, GRAB, PULL));
+      return [lerp(tail[0], 900, k2), lerp(tail[1], 210, k2)];
+    }
+    var loop = loopGeom(t);
+    var hold = [loop.cx + loop.radius + 36, loop.cy];
+    var k3 = smooth(ramp(t, PULL, PULL + 0.5));
+    return [lerp(900, hold[0], k3), lerp(210, hold[1], k3)];
+  }
+
+  function paintSilk(trace) {
+    trace();
+    ctx.strokeStyle = 'rgba(0,0,0,0.4)';
+    ctx.lineWidth = 6.4;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.stroke();
+    trace();
+    ctx.strokeStyle = SILK;
+    ctx.lineWidth = 3.15;
+    ctx.stroke();
+  }
+
+  function drawThread(t, jaw) {
+    var entry = entryPt(t);
+    var exit = exitPt(t);
+    var tip = needleTip(t);
+    if (t < ENTER - 0.05) return;
+
+    if (t < PULL) {
+      var lead = [jaw[0] + 14, jaw[1] + 6];
+      paintSilk(function () {
+        var y;
+        ctx.beginPath();
+        ctx.moveTo(lead[0], lead[1]);
+        ctx.quadraticCurveTo((lead[0] + BITE_X) / 2, Math.min(lead[1], entry[1]) - 6, BITE_X, entry[1]);
+        y = t < EXIT ? Math.max(entry[1], tip[1]) : exit[1];
+        ctx.lineTo(BITE_X, y);
+        if (t >= EXIT) ctx.lineTo(t < GRAB ? tailPt(t)[0] : forcepsPinch(t)[0], t < GRAB ? tailPt(t)[1] : forcepsPinch(t)[1]);
+      });
+      return;
+    }
+
+    var loop = loopGeom(t);
+    var pinch = forcepsPinch(t);
+    paintSilk(function () {
+      var sx = loop.cx + Math.cos(loop.a0) * loop.radius;
+      var sy = loop.cy + Math.sin(loop.a0) * loop.radius;
+      var ex = loop.cx + Math.cos(loop.a1) * loop.radius;
+      var ey = loop.cy + Math.sin(loop.a1) * loop.radius;
+      ctx.beginPath();
+      ctx.moveTo(BITE_X, (entry[1] + exit[1]) / 2);
+      ctx.lineTo(sx, sy);
+      if (loop.turns > 0.02) ctx.arc(loop.cx, loop.cy, Math.max(1, loop.radius), loop.a0, loop.a1);
+      ctx.lineTo(loop.turns > 0.02 ? ex : sx, loop.turns > 0.02 ? ey : sy);
+      ctx.lineTo(pinch[0], pinch[1]);
+    });
+  }
+
+  function drawNeedlePoint(x, y) {
+    ctx.strokeStyle = '#f7f4ee';
+    ctx.lineWidth = 2.7;
+    ctx.lineCap = 'round';
+    ctx.beginPath();
+    ctx.moveTo(x, y - 15);
+    ctx.quadraticCurveTo(x - 9, y - 5, x, y);
+    ctx.stroke();
+  }
+
+  function drawDriver(jaw, tip, t) {
+    var reach = t >= PULL ? 78 : 16;
     ctx.strokeStyle = METAL;
     ctx.lineCap = 'round';
     ctx.lineJoin = 'round';
     ctx.lineWidth = 7;
     ctx.beginPath();
-    ctx.moveTo(140, 64);
-    ctx.quadraticCurveTo(280, 56, jaw[0], jaw[1]);
+    ctx.moveTo(140, 52);
+    ctx.quadraticCurveTo(300, 36, jaw[0] - reach, jaw[1]);
     ctx.stroke();
-    ctx.lineWidth = 2.6;
-    ctx.beginPath();
-    ctx.moveTo(jaw[0] - 2, jaw[1] - 5);
-    ctx.lineTo(jaw[0] + 16, jaw[1] + 2);
-    ctx.moveTo(jaw[0] - 2, jaw[1] + 5);
-    ctx.lineTo(jaw[0] + 16, jaw[1] + 6);
-    ctx.stroke();
-    ctx.strokeStyle = '#f7f4ee';
+    ctx.strokeStyle = METAL;
     ctx.lineWidth = 2.8;
     ctx.beginPath();
-    ctx.moveTo(jaw[0] + 12, jaw[1] + 4);
-    ctx.quadraticCurveTo((jaw[0] + tip[0]) / 2 + 22, (jaw[1] + tip[1]) / 2 + 28, tip[0], tip[1]);
+    ctx.moveTo(jaw[0] - reach, jaw[1] - 7);
+    ctx.lineTo(jaw[0] + 16, jaw[1] - 2);
+    ctx.moveTo(jaw[0] - reach, jaw[1] + 7);
+    ctx.lineTo(jaw[0] + 16, jaw[1] + 2);
     ctx.stroke();
+    if (t >= GRAB && t < PULL) {
+      ctx.strokeStyle = '#f7f4ee';
+      ctx.lineWidth = 2.5;
+      ctx.beginPath();
+      ctx.moveTo(jaw[0] + 10, jaw[1]);
+      ctx.quadraticCurveTo(jaw[0] + 28, jaw[1] + 14, jaw[0] + 22, jaw[1] - 4);
+      ctx.stroke();
+    }
+    if (t < EXIT) {
+      var entry = entryPt(t);
+      ctx.strokeStyle = '#f7f4ee';
+      ctx.lineWidth = 2.6;
+      ctx.beginPath();
+      ctx.moveTo(jaw[0] + 12, jaw[1] + 2);
+      ctx.quadraticCurveTo((jaw[0] + entry[0]) / 2, jaw[1] + 26, entry[0], entry[1] - 2);
+      ctx.stroke();
+    }
   }
 
-  function drawForceps(tip, open) {
+  function drawForceps(pinch, open) {
+    var anchor = [1340, 58];
+    var angle = Math.atan2(pinch[1] - anchor[1], pinch[0] - anchor[0]);
+    var bx = pinch[0] - Math.cos(angle) * 38;
+    var by = pinch[1] - Math.sin(angle) * 38;
     ctx.strokeStyle = METAL;
     ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
     ctx.lineWidth = 7;
     ctx.beginPath();
-    ctx.moveTo(1300, 62);
-    ctx.quadraticCurveTo(1220, 70, tip[0], tip[1]);
+    ctx.moveTo(anchor[0], anchor[1]);
+    ctx.quadraticCurveTo(Math.max(bx, 980), anchor[1], bx, by);
     ctx.stroke();
     ctx.save();
-    ctx.translate(tip[0], tip[1]);
-    ctx.rotate(0.35);
-    ctx.lineWidth = 2.4;
+    ctx.translate(bx, by);
+    ctx.rotate(angle);
+    ctx.lineWidth = 3.1;
     ctx.beginPath();
-    ctx.moveTo(0, 0);
-    ctx.lineTo(30, -2 - open * 9);
-    ctx.moveTo(0, 0);
-    ctx.lineTo(30, 2 + open * 9);
+    ctx.moveTo(0, -4 - open * 11);
+    ctx.lineTo(46, -2 - open * 16);
+    ctx.moveTo(0, 4 + open * 11);
+    ctx.lineTo(46, 2 + open * 16);
     ctx.stroke();
     ctx.restore();
   }
@@ -166,12 +259,13 @@
   function draw(t) {
     var upper = samples(upperY, t);
     var lower = samples(lowerY, t);
-    var tip = needleTip(t);
     var jaw = driverJaw(t);
-    var forceps = forcepsTip(t);
-    var thread = threadPoints(t, tip, forceps);
-    var openJaw = 1 - smooth(ramp(t, THROUGH - 0.4, THROUGH + 0.6));
-    var show = ramp(t, 0.25, 1.05) * (1 - ramp(t, END - 1.05, END));
+    var tip = needleTip(t);
+    var pinch = forcepsPinch(t);
+    var openJaw = 1 - smooth(ramp(t, GRAB - 0.55, GRAB));
+    if (t >= GRAB) openJaw = 0.1;
+    var show = ramp(t, 0.15, 0.85) * (1 - ramp(t, END - 1.05, END));
+    var knot = smooth(ramp(t, WRAP + 0.2, CINCH)) * (1 - smooth(ramp(t, HOLD + 0.35, END)));
     var i, x, y, label;
 
     ctx.fillStyle = INK;
@@ -202,7 +296,7 @@
     ctx.fillStyle = '#140f0e';
     ctx.fill();
 
-    ctx.strokeStyle = 'rgba(184, 96, 82, 0.7)';
+    ctx.strokeStyle = 'rgba(184, 96, 82, 0.75)';
     ctx.lineWidth = 2.4;
     ctx.beginPath();
     for (i = 0; i < upper.length; i++) {
@@ -235,34 +329,28 @@
       }
     }
 
-    if (biteP(t) > 0.12 && thread.length > 1) {
-      strokeSmooth(thread);
-      ctx.strokeStyle = 'rgba(0,0,0,0.4)';
-      ctx.lineWidth = 6.5;
-      ctx.lineCap = 'round';
-      ctx.lineJoin = 'round';
-      ctx.stroke();
-      strokeSmooth(thread);
-      ctx.strokeStyle = SILK;
-      ctx.lineWidth = 3;
-      ctx.stroke();
-    }
+    ctx.globalAlpha = show;
+    if (t < HOLD + 1.1) drawDriver(jaw, tip, t);
+    ctx.globalAlpha = 1;
 
-    if (closure(t) > 0.78) {
-      ctx.globalAlpha = smooth(ramp(closure(t), 0.78, 1));
+    if (t > APPROACH) drawThread(t, jaw);
+
+    if (t < GRAB) drawNeedlePoint(tip[0], tip[1]);
+
+    if (knot > 0.55) {
+      ctx.globalAlpha = smooth(ramp(knot, 0.55, 1));
       ctx.fillStyle = SILK;
       ctx.beginPath();
-      ctx.arc(740, MID, 6, 0, Math.PI * 2);
+      ctx.arc(BITE_X, MID, 5.5, 0, Math.PI * 2);
       ctx.fill();
       ctx.globalAlpha = 1;
     }
 
     ctx.globalAlpha = show;
-    if (t < HOLD + 1.4) drawDriver(jaw, tip);
-    if (t > THROUGH - 1.4) drawForceps(forceps, openJaw * (t < PULL ? 1 : 0.15));
+    if (t > EXIT - 0.15 && t < HOLD + 1.1) drawForceps(pinch, openJaw);
     ctx.globalAlpha = 1;
 
-    label = t < THROUGH ? 'Bite' : t < PULL ? 'Pull' : 'Close';
+    label = t < EXIT ? 'Bite' : t < PULL ? 'Grasp' : t < CINCH ? 'Wrap' : 'Knot';
     ctx.globalAlpha = 0.92;
     ctx.fillStyle = GOLD;
     ctx.font = '600 28px "EB Garamond", Georgia, serif';
