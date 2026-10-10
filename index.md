@@ -7,8 +7,8 @@ title: Lu Bo's Home Page
 
 <blockquote class="full-width"><p>Roboticist, Researcher, and Explorer</p></blockquote>
 
-I am an Associate Professor (2021.10) in the [School of Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/) and Robotics and Micro-system Center, [The Soochow Univeristy](http://eng.suda.edu.cn/).
-I was a Postdoctoral Research Fellow (2019.07 - 2021.09) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/).
+I am a Full Professor (2026.10) in the [School of Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/) and Robotics and Micro-system Center, [The Soochow Univeristy](http://eng.suda.edu.cn/).
+I was a Postdoctoral Research Fellow (2019.07 - 2021.09) in [Department of Mechanical and Automation Engineering](http://www.mae.cuhk.edu.hk/){:target="_blank"} (MAE) and [CUHK T Stone Robotics Institute](http://www.cuhk.edu.hk/ri){:target="_blank"}, [The Chinese University of Hong Kong](http://www.cuhk.edu.hk){:target="_blank"} (CUHK), advised by [Prof. Yunhui Liu](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/). 
 
 I received my Ph.D. degree in the [Department of Mechanical Engineering](https://www.polyu.edu.hk/me/){:target="_blank"} (ME) , [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/){:target="_blank"} (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/){:target="_blank"} and [Prof. Li Cheng (co-supervisor)](https://www.polyu.edu.hk/me/people/academic-teaching-staff/cheng-li-prof/){:target="_blank"} in Jun 2019.
 During my Ph. D. studies, I took the Winter School Programme on Medical Robotics at [Hamlyn Center](https://www.imperial.ac.uk/hamlyn-centre/), [Imperial Colleage London](https://www.imperial.ac.uk/) in 2017.
@@ -27,11 +27,15 @@ My research interests are medical robotics, computer vision, vision-based manipu
 -------------------------------------------------
 ### Professional Experience
 #### Academic Position
-* Associate Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2021 ~ Now.
+* Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2026 ~ Now.
+* Associate Professor, Robotics and Micro-system Center, [Mechanical and Electrical Engineering](http://jdxy.suda.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), Oct. 2021 ~ Oct. 2026.
 * Assistant Researcher (by courtesy),  [Shenzhen Research Institute (SZRI), CUHK](https://www.cuhkri.org.cn/), Jul. 2019 ~ Sep. 2021. 
 
 -------------------------------------------------
 ### Recent News
+* 2026.10--Promoted as a Full Professor!
+* 2026.06--Outstanding Young Backbone Teachers of Jiangsu Province "QingLan Project" (江苏高校“青蓝工程”优秀青年骨干教师)
+*2026.03--Grand Prize in the 6th Jiangsu Province College Teachers' Teaching Innovation Competition (第六届江苏省高校教师教学创新大赛特等奖)
 * 2023.10--Selected as Youth Recruitment Talents-Automation Society of China-Chinese Association for Science and Technology (中国科协自动化学会青年托举人才)
 * 2023.08--Approved of Yong Innovative Leader Project of Suzhou City (苏州市青年创新领军人才)
 * 2023.07--One of our paper is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
@@ -39,7 +43,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * 2023.06--I am selected as a **Representative of Young Scientists in China** to attend and present in the **8th BRICS Country Forum** in South Africa.
 
 -------------------------------------------------
-#### Project Experience
+#### Project Experience (Up to 2023)
 * Project of Youth Recruitment Talents of Chinese Association for Science and Technology, 2023. Nov ~ 2026. Oct. Total Funding: 300,000 CNY, Role: PI.
 * Yong Innovative Leader Project of Suzhou City, 2023. Oct ~ 2026. SeSep. Total Funding: 500,000 CNY. Role: PI.
 * Innovative Project of Key Laboratory in Jiangsu Province, 2023. Jan ~ 2025. Dec. Total Funding: 1,000,000 CNY. Role: Co-PI. 
@@ -80,7 +84,7 @@ My research interests are medical robotics, computer vision, vision-based manipu
 * Reviewer of IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM) in [2018](http://aim2018.org/), [2019](https://aim2019.org/), [2020](http://aim2020.org/).
 
 -------------------------------------------------
-#### Invited Talks
+#### Invited Talks (Up to 2021)
 * **Bo Lu**, Invited talk on *"On the Automated Manipulation of Surgical Kont Tying under Online Visual Guidance,"* International Formum of Medical Robotics, Shanghai Jiaotong University, Dec, 2021.
 * **Bo Lu**, Sharing talk, *"Towards Developments of Intelligent Assistive Systems for Automated Robotic Surgery,"* Soochow University, Nov, 2021.
 * **Bo Lu**, Invited talk on: *"Automation in Robot-assisted Surgical Knot Tying,"*CUHK-JHU Joint Symposium on Medical Robotics, Jun. 2020.

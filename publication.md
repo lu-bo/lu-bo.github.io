@@ -7,21 +7,19 @@ title: Publication
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## Journal
-
 60. **Bo Lu**, et al., "*Autonomous Robotic Vascular Intervention,*" IEEE Transactions on Industrial Informatics, 2026. (Preparing)
 
-59. **Bo Lu**, et al., "*Learning Effective and Reliable Bi-manual Robotic Suture ***Pulling*** for Securing Surgical Knot,*" IEEE Robotics and Automation Letters, 2026. (Preparing)
+59. **Bo Lu**, et al., "*Learning Effective and Reliable Bi-manual Robotic  ***,*" IEEE Robotics and Automation Letters, 2026. (Preparing)
 
-58. Jiajun Li, **Bo Lu**<sup>&dagger, et al., "*An AI-Ready Research Kit for Laparoscopic Robotic System: Architecture, Synchronized Data Interfaces,
-and Edge-Agent Deployment,*" IEEE Transactions on Industrial Informatics, 2026. (Preparing)
+58. Jiajun Li, **Bo Lu**<sup>&dagger;</sup>, et al., "*An AI-Ready Research Kit for Laparoscopic Robotic System: Architecture, Synchronized Data Interfaces, and Edge-Agent Deployment,*" IEEE Transactions on Industrial Informatics, 2026. (Preparing)
 
-57. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*MITRAL-Net: Multi-Hypothesis Inference for Untracked 2D TEE–3D CT Registration through*****,*" IEEE Transactions on Medical Imaging, 2026. (Preparing)
+57. Yixin Gu, **Bo Lu**<sup>&dagger;</sup>, et al., "*MITRAL-Net: Multi-Hypothesis Inference for ****,*" IEEE Transactions on Medical Imaging, 2026. (Preparing)
 
 56. **Bo Lu**, Jiangang Zhang, et al., "*Structure-awared Dynamic Suture Thread ****,*" IEEE Transactions on Medical Imaging, 2026. (Preparing)
 
 55. Huan Wang, Chunli Wang, Baofeng Ji, Mingyang Yao, **Bo Lu**<sup>&dagger;</sup>, and Yongming Yang, “*Selective Sparse Spectrum-Aware Localization: Disentangled Specific Feature Integration for Contrast-Free Angiography Translation,*” IEEE Transactions on Automation Science and Engineering, 2026. (To be submitted)
 
-54. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Information Fusion-Driven Precision Localization and Task Automation for Semi-Autonomous **Spinal Surgical Robots**,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
+54. Yuan Li, Guanbin Gao, Jing Na, Cheng Hou, and **Bo Lu**<sup>&dagger;</sup>, “*Multimodal Information Fusion-Driven Precision Localization and Task Automation for Semi-Autonomous ***,*" IEEE Transactions on Industrial Informatics, 2026. (To be submitted)
 
 53. **Bo Lu**, Tiancheng Zhou, et al., “*LAPA: Learning-Augmented and Policy-Adaptive Visuomotor Framework for Image-Guided Autonomous Robotic *****,*” IEEE Transactions on Robotics, 2026. (To be submitted)
 
