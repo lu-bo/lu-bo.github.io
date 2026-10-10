@@ -293,3 +293,34 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/*
+ * Homepage suture hero
+ */
+
+.home-hero {
+  position: relative;
+  height: 11.5rem;
+  margin: 0 0 0.35rem;
+  background: #171717;
+  overflow: hidden;
+}
+
+.home-hero canvas {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.home-hero__caption {
+  margin: 0.55rem 0 1.6rem;
+  color: #8a8a8a;
+  font-family: "EB Garamond", serif;
+  font-size: 1.2rem;
+}
+
+@media (min-width: 48rem) {
+  .home-hero {
+    height: 18.5rem;
+  }
+}
